@@ -2,7 +2,7 @@ import os
 
 # Telegram API Configuration (Environment Variables se read karega)
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-CHAT_ID = os.getenv("CHAT_ID", "-1003808884633")
+CHAT_ID = os.getenv("CHAT_ID", "-1003939180704")
 
 # Database Backup Channel ID (Optional)
 BACKUP_CHANNEL_ID = os.getenv("BACKUP_CHANNEL_ID", "")
