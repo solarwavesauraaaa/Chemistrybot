@@ -1,0 +1,317 @@
+Q: Which of the following is a tertiary alcohol?
+A) CH₃CH₂CH₂OH
+B) (CH₃)₂CHOH
+C) (CH₃)₃COH
+D) CH₂=CH–CH₂OH
+Answer: C [Explanation: –OH attached to a tertiary carbon.]
+
+Q: The correct IUPAC name of (CH₃)₂C(OH)CH₂CH₃ is
+A) 2-methylbutan-2-ol
+B) 2-methylbutan-3-ol
+C) 3-methylbutan-2-ol
+D) 2-ethylpropan-2-ol
+Answer: A [Explanation: Longest chain of 4 carbons with –OH at C-2.]
+
+Q: Which of the following alcohols is most acidic?
+A) CH₃OH
+B) CH₃CH₂OH
+C) (CH₃)₃COH
+D) CF₃CH₂OH
+Answer: D [Explanation: Strong –I effect of three fluorine atoms stabilises the alkoxide ion.]
+
+Q: Phenol is more acidic than ethanol because
+A) phenoxide ion is stabilised by resonance
+B) ethoxide ion is stabilised by resonance
+C) phenol has higher molecular weight
+D) ethanol has intermolecular H-bonding
+Answer: A [Explanation: Delocalisation of negative charge in phenoxide ion.]
+
+Q: The correct order of acidic strength is
+A) p-nitrophenol > phenol > o-cresol
+B) phenol > p-nitrophenol > o-cresol
+C) o-cresol > phenol > p-nitrophenol
+D) p-nitrophenol > o-cresol > phenol
+Answer: A [Explanation: –NO₂ is electron-withdrawing (increases acidity); –CH₃ is electron-releasing (decreases acidity).]
+
+Q: Which of the following reagents is used for the industrial preparation of phenol from cumene?
+A) O₂ followed by dilute acid
+B) H₂SO₄
+C) NaOH
+D) Cl₂/Fe
+Answer: A [Explanation: Cumene is oxidised by air and then cleaved by acid to give phenol and acetone.]
+
+Q: The major product obtained when 3-methylbutan-2-ol is heated with concentrated H₂SO₄ is
+A) 2-methylbut-1-ene
+B) 2-methylbut-2-ene
+C) 3-methylbut-1-ene
+D) 2-methylbut-2-ene and 2-methylbut-1-ene in equal amounts
+Answer: B [Explanation: Saytzeff's rule – more substituted alkene is preferred.]
+
+Q: Which of the following alcohols will give a positive Lucas test within 5 minutes at room temperature?
+A) CH₃CH₂OH
+B) (CH₃)₂CHOH
+C) (CH₃)₃COH
+D) CH₃OH
+Answer: C [Explanation: Tertiary alcohols react fastest with Lucas reagent (ZnCl₂ + HCl).]
+
+Q: The product formed when phenol is treated with bromine water is
+A) o-bromophenol
+B) p-bromophenol
+C) 2,4,6-tribromophenol
+D) m-bromophenol
+Answer: C [Explanation: Phenol is highly activated; polysubstitution occurs in aqueous medium.]
+
+Q: Which of the following is the correct order of reactivity of alcohols towards dehydration?
+A) 1° > 2° > 3°
+B) 3° > 2° > 1°
+C) 2° > 1° > 3°
+D) 1° > 3° > 2°
+Answer: B [Explanation: Stability of carbocation intermediate increases from 1° to 3°.]
+
+Q: Williamson's synthesis involves
+A) nucleophilic substitution
+B) electrophilic substitution
+C) free radical substitution
+D) addition reaction
+Answer: A [Explanation: SN2 attack of alkoxide on alkyl halide.]
+
+Q: Which of the following ethers cannot be prepared by Williamson's synthesis?
+A) CH₃OCH₂CH₃
+B) (CH₃)₃COCH₃
+C) C₆H₅OCH₃
+D) (CH₃)₃COC(CH₃)₃
+Answer: D [Explanation: Tertiary-tertiary ether fails due to elimination preference.]
+
+Q: The reaction of phenol with chloroform in presence of NaOH is known as
+A) Reimer-Tiemann reaction
+B) Kolbe's reaction
+C) Gattermann reaction
+D) Friedel-Crafts reaction
+Answer: A [Explanation: Introduction of –CHO group at ortho position.]
+
+Q: Which of the following compounds will not form a yellow precipitate with I₂/NaOH?
+A) CH₃CH₂OH
+B) CH₃CH(OH)CH₃
+C) (CH₃)₃COH
+D) CH₃COCH₃
+Answer: C [Explanation: Tertiary alcohols do not have CH₃CH(OH)– group required for iodoform test.]
+
+Q: Assertion (A): Phenol is more reactive than benzene towards electrophilic substitution.
+Reason (R): The –OH group is strongly activating and ortho-para directing.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Resonance donation by oxygen increases electron density on the ring.]
+
+Q: The product obtained when ethanol is heated with concentrated H₂SO₄ at 443 K is
+A) ethene
+B) diethyl ether
+C) ethanal
+D) ethanoic acid
+Answer: A [Explanation: At higher temperature (443 K) dehydration gives alkene; at 413 K ether is formed.]
+
+Q: Which of the following is the most suitable method for the preparation of pure diethyl ether?
+A) Heating excess ethanol with concentrated H₂SO₄ at 413 K
+B) Heating ethanol with concentrated H₂SO₄ at 443 K
+C) Reaction of sodium ethoxide with ethyl iodide
+D) Both A and C
+Answer: D [Explanation: Both continuous etherification and Williamson synthesis can give pure diethyl ether.]
+
+Q: The correct order of boiling points is
+A) CH₃OH < CH₃CH₂OH < CH₃CH₂CH₂OH
+B) CH₃CH₂CH₂OH < CH₃CH₂OH < CH₃OH
+C) CH₃CH₂OH < CH₃OH < CH₃CH₂CH₂OH
+D) CH₃OH < CH₃CH₂CH₂OH < CH₃CH₂OH
+Answer: A [Explanation: Boiling point increases with increase in molecular mass and H-bonding.]
+
+Q: Which of the following phenols has the lowest pKa value?
+A) Phenol
+B) o-Nitrophenol
+C) p-Nitrophenol
+D) m-Nitrophenol
+Answer: C [Explanation: p-Nitrophenoxide is most stabilised by resonance (–NO₂ at para).]
+
+Q: The intermediate formed in the hydroboration-oxidation of alkenes is
+A) carbocation
+B) carbanion
+C) free radical
+D) organoborane
+Answer: D [Explanation: BH₃ adds to alkene forming alkylborane intermediate.]
+
+Q: Which of the following reagents converts a primary alcohol into an aldehyde without further oxidation?
+A) KMnO₄
+B) K₂Cr₂O₇/H⁺
+C) PCC
+D) CrO₃
+Answer: C [Explanation: Pyridinium chlorochromate (PCC) is a mild oxidising agent.]
+
+Q: The major product formed when phenol is treated with CO₂ under pressure in presence of sodium hydroxide followed by acidification is
+A) salicylic acid
+B) benzoic acid
+C) salicylaldehyde
+D) picric acid
+Answer: A [Explanation: Kolbe-Schmitt reaction.]
+
+Q: Which of the following alcohols will give the fastest reaction with Lucas reagent?
+A) CH₃CH₂CH₂OH
+B) CH₃CH(OH)CH₃
+C) (CH₃)₃COH
+D) CH₂=CH–CH₂OH
+Answer: C [Explanation: Tertiary alcohol reacts almost instantaneously.]
+
+Q: The product of the reaction of phenol with zinc dust is
+A) benzene
+B) toluene
+C) biphenyl
+D) cyclohexanol
+Answer: A [Explanation: Zinc dust distillation reduces phenol to benzene.]
+
+Q: Which of the following is not a method of preparation of alcohols?
+A) Hydroboration-oxidation of alkenes
+B) Reduction of aldehydes and ketones
+C) Hydrolysis of alkyl halides
+D) Friedel-Crafts alkylation
+Answer: D [Explanation: Friedel-Crafts is for aromatic substitution, not alcohol preparation.]
+
+Q: Assertion (A): Ethers are less soluble in water than alcohols of comparable molecular mass.
+Reason (R): Ethers cannot form hydrogen bonds with water.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: C [Explanation: Ethers can accept H-bonds from water but cannot donate; solubility is lower than alcohols.]
+
+Q: The correct order of reactivity of the following towards HBr is
+A) CH₃OH > (CH₃)₂CHOH > (CH₃)₃COH
+B) (CH₃)₃COH > (CH₃)₂CHOH > CH₃OH
+C) (CH₃)₂CHOH > CH₃OH > (CH₃)₃COH
+D) CH₃OH > (CH₃)₃COH > (CH₃)₂CHOH
+Answer: B [Explanation: Reactivity follows the order of carbocation stability (3° > 2° > 1°).]
+
+Q: Which of the following compounds will give a white precipitate with bromine water?
+A) Phenol
+B) Anisole
+C) both A and B
+D) Ethanol
+Answer: A [Explanation: Phenol gives 2,4,6-tribromophenol (white ppt); anisole does not under ordinary conditions.]
+
+Q: The reagent used for the conversion of phenol to anisole is
+A) CH₃I / NaOH
+B) CH₃Cl / AlCl₃
+C) (CH₃)₂SO₄ / NaOH
+D) both A and C
+Answer: D [Explanation: Both methyl iodide and dimethyl sulphate in alkaline medium give anisole.]
+
+Q: Which of the following is the strongest acid?
+A) Phenol
+B) p-Cresol
+C) p-Nitrophenol
+D) m-Nitrophenol
+Answer: C [Explanation: Strong –R and –I effect of para-nitro group.]
+
+Q: The intermediate in the acid-catalysed dehydration of alcohols is
+A) free radical
+B) carbocation
+C) carbanion
+D) carbene
+Answer: B [Explanation: Protonation followed by loss of water gives carbocation.]
+
+Q: Which of the following ethers will undergo cleavage with HI most readily?
+A) CH₃OCH₃
+B) CH₃OC₂H₅
+C) (CH₃)₃COCH₃
+D) C₆H₅OCH₃
+Answer: C [Explanation: Tertiary alkyl group forms stable carbocation, facilitating cleavage.]
+
+Q: The product formed when anisole is treated with HI is
+A) phenol + methyl iodide
+B) methanol + iodobenzene
+C) both A and B depending on conditions
+D) no reaction
+Answer: A [Explanation: Preferential cleavage of alkyl-oxygen bond under ordinary conditions.]
+
+Q: Which of the following alcohols can be prepared by the action of Grignard reagent on methanal?
+A) Primary
+B) Secondary
+C) Tertiary
+D) All of these
+Answer: A [Explanation: HCHO + RMgX → primary alcohol after hydrolysis.]
+
+Q: The correct statement about the reaction of phenol with dilute HNO₃ is
+A) only o-nitrophenol is formed
+B) only p-nitrophenol is formed
+C) both o- and p-nitrophenol are formed
+D) 2,4,6-trinitrophenol is formed
+Answer: C [Explanation: Dilute HNO₃ gives mixture of ortho and para isomers.]
+
+Q: Which of the following is used as an antiseptic?
+A) Phenol
+B) Anisole
+C) Diethyl ether
+D) Ethanol only
+Answer: A [Explanation: 0.2% solution of phenol is used as antiseptic.]
+
+Q: The major product obtained on heating 2-methylpropan-2-ol with concentrated H₂SO₄ is
+A) 2-methylpropene
+B) 2-methylpropan-1-ol
+C) 2-methylpropanal
+D) 2-methylpropanoic acid
+Answer: A [Explanation: Easy dehydration of tertiary alcohol gives alkene.]
+
+Q: Which of the following reagents is used to distinguish phenol from alcohols?
+A) Neutral FeCl₃
+B) Lucas reagent
+C) both A and B
+D) Tollens' reagent
+Answer: A [Explanation: Phenol gives violet colour with neutral FeCl₃; alcohols do not.]
+
+Q: The reaction of sodium ethoxide with ethyl bromide is an example of
+A) SN1
+B) SN2
+C) E1
+D) E2
+Answer: B [Explanation: Primary halide + strong nucleophile → SN2 (Williamson synthesis).]
+
+Q: Which of the following compounds has the highest boiling point?
+A) CH₃OCH₃
+B) CH₃CH₂OH
+C) CH₃CH₂CH₃
+D) CH₃CHO
+Answer: B [Explanation: Strong intermolecular H-bonding in ethanol.]
+
+Q: Assertion (A): o-Nitrophenol is more volatile than p-nitrophenol.
+Reason (R): o-Nitrophenol has intramolecular hydrogen bonding while p-nitrophenol has intermolecular hydrogen bonding.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Intramolecular H-bonding lowers boiling point of ortho isomer.]
+
+Q: The product formed when phenol is treated with concentrated HNO₃ is
+A) o-nitrophenol
+B) p-nitrophenol
+C) picric acid
+D) both A and B
+Answer: C [Explanation: Concentrated HNO₃ gives 2,4,6-trinitrophenol (picric acid).]
+
+Q: Which of the following alcohols is most reactive towards esterification?
+A) CH₃OH
+B) CH₃CH₂OH
+C) (CH₃)₂CHOH
+D) (CH₃)₃COH
+Answer: A [Explanation: Least steric hindrance in methanol.]
+
+Q: The intermediate in Kolbe's reaction is
+A) phenoxide ion
+B) carbocation
+C) free radical
+D) benzyne
+Answer: A [Explanation: Phenoxide ion attacks CO₂.]
+
+Q: Which of the following statements is correct about ethers?
+A) They are highly reactive towards nucleophiles
+B) They are cleaved by hot concentrated HI
+C) They form H-bonds among themselves
+D) They are more polar than alcohols
+Answer: B [Explanation: Ethers undergo cleavage with strong acids like HI.]
