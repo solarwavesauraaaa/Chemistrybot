@@ -1,0 +1,317 @@
+Q: The number of structural isomers possible for C₆H₁₄ is
+A) 4
+B) 5
+C) 6
+D) 7
+Answer: B [Explanation: Hexane, 2-methylpentane, 3-methylpentane, 2,2-dimethylbutane, 2,3-dimethylbutane.]
+
+Q: Which of the following alkanes has the highest boiling point?
+A) n-Pentane
+B) 2-Methylbutane
+C) 2,2-Dimethylpropane
+D) All have same
+Answer: A [Explanation: Straight-chain isomer has maximum surface area → strongest van der Waals forces.]
+
+Q: The major product obtained on monochlorination of 2-methylbutane is
+A) 1-chloro-2-methylbutane
+B) 2-chloro-2-methylbutane
+C) 2-chloro-3-methylbutane
+D) 1-chloro-3-methylbutane
+Answer: B [Explanation: Tertiary hydrogen is most reactive towards free-radical chlorination.]
+
+Q: Which of the following compounds will give only one monochloro product on free-radical chlorination?
+A) n-Butane
+B) 2-Methylpropane
+C) 2,2-Dimethylpropane
+D) 2-Methylbutane
+Answer: C [Explanation: All primary hydrogens are equivalent.]
+
+Q: The correct order of stability of the following carbocations is
+A) (CH₃)₃C⁺ > (CH₃)₂CH⁺ > CH₃CH₂⁺ > CH₃⁺
+B) CH₃⁺ > CH₃CH₂⁺ > (CH₃)₂CH⁺ > (CH₃)₃C⁺
+C) (CH₃)₂CH⁺ > (CH₃)₃C⁺ > CH₃CH₂⁺ > CH₃⁺
+D) (CH₃)₃C⁺ > CH₃CH₂⁺ > (CH₃)₂CH⁺ > CH₃⁺
+Answer: A [Explanation: Hyperconjugation and inductive effect increase stability from 1° to 3°.]
+
+Q: The number of geometrical isomers possible for 2,4-hexadiene is
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B [Explanation: Three isomers: (2E,4E), (2Z,4Z), (2E,4Z)/(2Z,4E).]
+
+Q: Which of the following alkenes will give a racemic mixture on addition of HBr in presence of peroxide?
+A) CH₃–CH=CH₂
+B) CH₃–CH=CH–CH₃
+C) (CH₃)₂C=CH₂
+D) CH₂=CH₂
+Answer: B [Explanation: Symmetrical alkene gives chiral centre after anti-Markovnikov addition.]
+
+Q: The major product of the reaction of 1-butyne with 1 equivalent of HBr is
+A) 1-bromobutene
+B) 2-bromobutene
+C) 1,1-dibromobutane
+D) 2,2-dibromobutane
+Answer: B [Explanation: Markovnikov addition gives 2-bromo product.]
+
+Q: Which of the following reagents is used for the conversion of an alkyne into a cis-alkene?
+A) H₂/Pd-BaSO₄
+B) Na/liq. NH₃
+C) H₂/Ni
+D) Lindlar's catalyst
+Answer: D [Explanation: Lindlar's catalyst gives syn addition → cis-alkene.]
+
+Q: The compound which will not decolourise bromine water is
+A) CH₃–CH=CH₂
+B) CH₃–C≡CH
+C) CH₃–CH₂–CH₃
+D) CH₂=CH–CH=CH₂
+Answer: C [Explanation: Saturated hydrocarbon does not react with Br₂/CCl₄.]
+
+Q: Assertion (A): Benzene is more stable than hypothetical cyclohexatriene.
+Reason (R): Benzene has equal C–C bond lengths and delocalised π-electrons.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Resonance energy of benzene is 150.4 kJ mol⁻¹.]
+
+Q: The number of π-electrons in anthracene is
+A) 10
+B) 12
+C) 14
+D) 16
+Answer: C [Explanation: Anthracene is aromatic with 14 π-electrons (4n+2, n=3).]
+
+Q: Which of the following is the most reactive towards electrophilic aromatic substitution?
+A) Nitrobenzene
+B) Toluene
+C) Chlorobenzene
+D) Benzene
+Answer: B [Explanation: –CH₃ is strongly activating and ortho-para directing.]
+
+Q: The major product of nitration of chlorobenzene is
+A) o-nitrochlorobenzene
+B) p-nitrochlorobenzene
+C) m-nitrochlorobenzene
+D) both A and B
+Answer: D [Explanation: –Cl is ortho-para directing (though deactivating).]
+
+Q: Which of the following compounds will give a white precipitate with ammoniacal AgNO₃?
+A) CH₃–C≡CH
+B) CH₃–C≡C–CH₃
+C) CH₂=CH₂
+D) CH₃–CH₃
+Answer: A [Explanation: Terminal alkynes form silver acetylide.]
+
+Q: The correct order of reactivity of the following towards free-radical chlorination is
+A) (CH₃)₃CH > (CH₃)₂CH₂ > CH₃CH₃
+B) CH₃CH₃ > (CH₃)₂CH₂ > (CH₃)₃CH
+C) (CH₃)₂CH₂ > (CH₃)₃CH > CH₃CH₃
+D) (CH₃)₃CH > CH₃CH₃ > (CH₃)₂CH₂
+Answer: A [Explanation: Reactivity order: 3° H > 2° H > 1° H.]
+
+Q: The number of monochloro products obtained on free-radical chlorination of 2-methylbutane is
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B [Explanation: Four different types of hydrogen atoms.]
+
+Q: Which of the following is the most stable conformer of ethane?
+A) Eclipsed
+B) Staggered
+C) Skew
+D) All equally stable
+Answer: B [Explanation: Minimum torsional strain in staggered conformation.]
+
+Q: The energy barrier between staggered and eclipsed conformations of ethane is approximately
+A) 4 kJ mol⁻¹
+B) 12.5 kJ mol⁻¹
+C) 25 kJ mol⁻¹
+D) 50 kJ mol⁻¹
+Answer: B [Explanation: Standard value is about 12.5 kJ mol⁻¹ (3 kcal mol⁻¹).]
+
+Q: Which of the following alkenes will give the same product with HBr in presence and absence of peroxide?
+A) CH₃–CH=CH₂
+B) CH₃–CH=CH–CH₃
+C) (CH₃)₂C=CH₂
+D) CH₂=CH₂
+Answer: B [Explanation: Symmetrical alkene gives same product by both mechanisms.]
+
+Q: The major product of the reaction of propyne with H₂O/Hg²⁺/H⁺ is
+A) propanal
+B) propanone
+C) propene
+D) propan-1-ol
+Answer: B [Explanation: Markovnikov addition followed by tautomerism gives ketone.]
+
+Q: Which of the following is aromatic according to Hückel's rule?
+A) Cyclobutadiene
+B) Cyclooctatetraene
+C) Cyclopentadienyl anion
+D) Cyclopropenyl anion
+Answer: C [Explanation: 6 π-electrons (4n+2, n=1), planar and cyclic.]
+
+Q: The directive influence of –NO₂ group is
+A) ortho-para
+B) meta
+C) both
+D) none
+Answer: B [Explanation: Strongly deactivating and meta-directing.]
+
+Q: Which of the following compounds will undergo Friedel-Crafts alkylation most readily?
+A) Nitrobenzene
+B) Anisole
+C) Chlorobenzene
+D) Benzaldehyde
+Answer: B [Explanation: –OCH₃ is strongly activating.]
+
+Q: The product formed when benzene is treated with excess of chlorine in presence of sunlight is
+A) chlorobenzene
+B) hexachlorobenzene
+C) benzene hexachloride
+D) both B and C
+Answer: C [Explanation: Free-radical addition gives BHC (gammexane).]
+
+Q: Which of the following reagents is used for the conversion of an alkyl halide into an alkane?
+A) Zn/HCl
+B) Na/dry ether
+C) both A and B
+D) alcoholic KOH
+Answer: C [Explanation: Both reduction methods give alkanes.]
+
+Q: The number of σ and π bonds in benzene is
+A) 6σ + 3π
+B) 12σ + 3π
+C) 9σ + 3π
+D) 6σ + 6π
+Answer: B [Explanation: 6 C–C σ + 6 C–H σ = 12σ; 3 π bonds.]
+
+Q: Which of the following is the most stable alkene?
+A) CH₂=CH₂
+B) CH₃–CH=CH₂
+C) (CH₃)₂C=CH₂
+D) (CH₃)₂C=C(CH₃)₂
+Answer: D [Explanation: Maximum hyperconjugation (12 α-hydrogens).]
+
+Q: The major product of the reaction of 1-butene with HBr in presence of peroxide is
+A) 1-bromobutane
+B) 2-bromobutane
+C) 1,2-dibromobutane
+D) 2,2-dibromobutane
+Answer: A [Explanation: Anti-Markovnikov addition.]
+
+Q: Which of the following compounds will give a positive Baeyer's test?
+A) Cyclohexane
+B) Cyclohexene
+C) Benzene
+D) both B and C
+Answer: B [Explanation: Alkenes decolourise cold alkaline KMnO₄.]
+
+Q: The hybridisation of carbon atoms in ethyne is
+A) sp³
+B) sp²
+C) sp
+D) sp³d
+Answer: C [Explanation: Linear geometry, triple bond.]
+
+Q: Which of the following is the correct order of acidity?
+A) CH≡CH > CH₂=CH₂ > CH₃–CH₃
+B) CH₃–CH₃ > CH₂=CH₂ > CH≡CH
+C) CH₂=CH₂ > CH≡CH > CH₃–CH₃
+D) CH≡CH > CH₃–CH₃ > CH₂=CH₂
+Answer: A [Explanation: Higher s-character increases acidity.]
+
+Q: The product formed when acetylene is passed through red-hot iron tube is
+A) benzene
+B) ethene
+C) ethane
+D) toluene
+Answer: A [Explanation: Cyclic polymerisation of acetylene.]
+
+Q: Which of the following substituents is meta-directing?
+A) –OH
+B) –CH₃
+C) –NO₂
+D) –Cl
+Answer: C [Explanation: Strongly electron-withdrawing groups are meta-directing.]
+
+Q: The number of possible structural isomers of C₄H₈ (only alkenes) is
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B [Explanation: But-1-ene, cis/trans-but-2-ene, 2-methylpropene.]
+
+Q: Which of the following reagents is used for the ozonolysis of alkenes?
+A) O₃ followed by Zn/H₂O
+B) O₃ followed by H₂O₂
+C) both A and B
+D) KMnO₄
+Answer: C [Explanation: Reductive and oxidative work-up respectively.]
+
+Q: The major product of the reaction of propyne with excess HBr is
+A) 1,2-dibromopropane
+B) 2,2-dibromopropane
+C) 1,1-dibromopropane
+D) 1,3-dibromopropane
+Answer: B [Explanation: Markovnikov addition twice gives geminal dihalide.]
+
+Q: Which of the following is anti-aromatic?
+A) Benzene
+B) Cyclobutadiene
+C) Cyclopentadienyl anion
+D) Naphthalene
+Answer: B [Explanation: 4 π-electrons (4n, n=1), planar → anti-aromatic.]
+
+Q: The correct order of reactivity towards electrophilic aromatic substitution is
+A) aniline > phenol > benzene > nitrobenzene
+B) phenol > aniline > benzene > nitrobenzene
+C) aniline > benzene > phenol > nitrobenzene
+D) nitrobenzene > benzene > phenol > aniline
+Answer: A [Explanation: –NH₂ is more activating than –OH.]
+
+Q: Which of the following compounds will not give a precipitate with ammoniacal AgNO₃?
+A) CH₃–C≡CH
+B) Ph–C≡CH
+C) CH₃–C≡C–CH₃
+D) HC≡CH
+Answer: C [Explanation: Internal alkynes do not form silver acetylide.]
+
+Q: Assertion (A): Toluene is more reactive than benzene towards nitration.
+Reason (R): The methyl group is electron-releasing and increases electron density on the ring.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Hyperconjugation and +I effect of –CH₃.]
+
+Q: The number of monochloro derivatives possible for 2,2-dimethylpropane is
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: A [Explanation: All hydrogens are equivalent.]
+
+Q: Which of the following is the most stable carbocation?
+A) CH₃⁺
+B) CH₃CH₂⁺
+C) (CH₃)₂CH⁺
+D) (CH₃)₃C⁺
+Answer: D [Explanation: Maximum hyperconjugation.]
+
+Q: The product formed when ethylene is treated with cold alkaline KMnO₄ is
+A) ethylene glycol
+B) acetaldehyde
+C) acetic acid
+D) formaldehyde
+Answer: A [Explanation: Syn-hydroxylation gives vicinal diol.]
+
+Q: Which of the following compounds has the highest heat of hydrogenation?
+A) 1-Butene
+B) cis-2-Butene
+C) trans-2-Butene
+D) 2-Methylpropene
+Answer: A [Explanation: Least substituted alkene has highest heat of hydrogenation (least stable).]
+
