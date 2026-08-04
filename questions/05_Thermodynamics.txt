@@ -1,0 +1,517 @@
+Q: An ideal gas expands isothermally from 2 L to 10 L against vacuum. Which statement is rigorously correct?
+A) q = +w and ΔU > 0
+B) q = -w = 0 and ΔU = 0
+C) w = -p_exΔV with p_ex > 0
+D) The process is reversible
+Answer: B
+[Explanation:] Free expansion (p_ex=0) gives w=0. Joule's experiment shows q=0 for isothermal free expansion of an ideal gas; hence ΔU=0.
+
+Q: For an isothermal reversible expansion of 1 mol ideal gas from V_i to V_f at temperature T, the work done by the system is
+A) nRT ln(V_f/V_i)
+B) -nRT ln(V_f/V_i)
+C) p_ex(V_f - V_i)
+D) zero
+Answer: A
+[Explanation:] w_rev = -nRT ln(V_f/V_i) (work done on the system). Work done by the system is therefore +nRT ln(V_f/V_i).
+
+Q: In a closed system, 500 J of heat is absorbed and 200 J of work is done by the system. ΔU is
+A) +700 J
+B) +300 J
+C) -300 J
+D) -700 J
+Answer: B
+[Explanation:] First law (IUPAC): ΔU = q + w. q = +500 J, w = -200 J ⇒ ΔU = +300 J.
+
+Q: Which quantity is always a state function?
+A) q
+B) w
+C) q + w
+D) path-dependent heat at constant pressure
+Answer: C
+[Explanation:] ΔU = q + w depends only on initial and final states; q and w individually are path-dependent.
+
+Q: For the isothermal irreversible compression of an ideal gas by a constant external pressure, the magnitude of work done on the system is
+A) greater than that for reversible compression between the same volumes
+B) smaller than that for reversible compression between the same volumes
+C) equal to the reversible work
+D) independent of external pressure
+Answer: A
+[Explanation:] On a p-V plot the area under the irreversible path (constant p_ex) is larger than the area under the reversible isotherm; hence more work is done on the system.
+
+Q: ΔH = ΔU + Δn_gRT is valid only when
+A) the reaction occurs at constant volume
+B) all gases behave ideally and temperature is constant
+C) pressure is not constant
+D) solids and liquids are also present in large amounts
+Answer: B
+[Explanation:] Derivation assumes ideal-gas law for the gaseous species and constant T so that pΔV = Δn_gRT.
+
+Q: For the reaction H₂O(l) → H₂O(g) at 373 K and 1 bar, Δ_vapH = 40.79 kJ mol⁻¹. ΔU is approximately
+A) 40.79 kJ mol⁻¹
+B) 37.7 kJ mol⁻¹
+C) 43.9 kJ mol⁻¹
+D) zero
+Answer: B
+[Explanation:] Δn_g = +1, ΔU = ΔH - Δn_gRT = 40.79 - 1 × 8.314 × 10⁻³ × 373 ≈ 37.7 kJ mol⁻¹.
+
+Q: Which of the following is an intensive property?
+A) Internal energy
+B) Enthalpy
+C) Heat capacity
+D) Molar heat capacity
+Answer: D
+[Explanation:] Molar quantities are intensive; U, H and total heat capacity are extensive.
+
+Q: For an ideal gas, C_p - C_V equals
+A) R only for monatomic gases
+B) R for all ideal gases
+C) zero
+D) γR
+Answer: B
+[Explanation:] From ΔH = ΔU + Δ(nRT) one obtains C_p = C_V + R for any ideal gas.
+
+Q: In a bomb calorimeter the measured heat change equals
+A) ΔH
+B) ΔU
+C) q_p
+D) zero because volume is constant
+Answer: B
+[Explanation:] Bomb calorimeter operates at constant volume; q_V = ΔU.
+
+Q: 1.0 g graphite is burnt in a bomb calorimeter (C = 20.7 kJ K⁻¹). Temperature rises by 1 K. ΔU for combustion of 1 mol graphite is
+A) -20.7 kJ mol⁻¹
+B) -248.4 kJ mol⁻¹
+C) +20.7 kJ mol⁻¹
+D) -12.0 kJ mol⁻¹
+Answer: B
+[Explanation:] Heat released for 1 g = -20.7 kJ; for 12 g = -248.4 kJ mol⁻¹. Since Δn_g = 0, ΔH = ΔU.
+
+Q: Standard state of a pure substance is defined as
+A) 1 atm and 298 K only
+B) pure form at 1 bar and a specified temperature
+C) 1 M solution at 1 bar
+D) any pressure and 0 K
+Answer: B
+[Explanation:] NCERT defines standard state as the pure substance at 1 bar and the temperature of interest (commonly 298 K).
+
+Q: Enthalpy of fusion is always
+A) negative
+B) positive
+C) zero at the melting point
+D) equal to enthalpy of vaporisation
+Answer: B
+[Explanation:] Melting is endothermic; Δ_fusH° > 0.
+
+Q: For an adiabatic process in an isolated system
+A) q = 0 and ΔU = w
+B) w = 0 and ΔU = q
+C) q = w = 0
+D) ΔU = 0 only if the gas is ideal
+Answer: A
+[Explanation:] By definition q = 0 for an adiabatic process; first law then gives ΔU = w.
+
+Q: Which process is reversible?
+A) Free expansion of an ideal gas
+B) Compression by a finite constant external pressure
+C) Infinitely slow expansion against a continuously adjusted external pressure equal to the gas pressure
+D) Sudden mixing of two gases
+Answer: C
+[Explanation:] Only a process that can be reversed by an infinitesimal change in an external variable is thermodynamically reversible.
+
+Q: When 2 L of an ideal gas at 10 atm expands isothermally against a constant external pressure of 1 atm to a final volume of 10 L, q equals
+A) zero
+B) 8 L atm
+C) -8 L atm
+D) 39.4 L atm
+Answer: B
+[Explanation:] w = -p_exΔV = -1 × 8 = -8 L atm; for isothermal ideal-gas expansion ΔU = 0, so q = -w = +8 L atm.
+
+Q: The relationship ΔH = ΔU + pΔV is valid for
+A) any process at constant pressure
+B) only ideal-gas reactions
+C) only isothermal processes
+D) only adiabatic processes
+Answer: A
+[Explanation:] Derived directly from the definition H = U + pV at constant pressure.
+
+Q: Which pair consists of both extensive properties?
+A) Temperature and pressure
+B) Density and molar volume
+C) Internal energy and enthalpy
+D) Specific heat and refractive index
+Answer: C
+[Explanation:] U and H scale with the amount of substance; the others are intensive.
+
+Q: For the reaction N₂(g) + 3H₂(g) → 2NH₃(g) at constant T and p, ΔH - ΔU equals
+A) +2RT
+B) -2RT
+C) +RT
+D) zero
+Answer: B
+[Explanation:] Δn_g = 2 - 4 = -2; ΔH = ΔU + Δn_gRT ⇒ ΔH - ΔU = -2RT.
+
+Q: In the first-law expression ΔU = q + w, the IUPAC sign convention assigns
+A) positive w when work is done by the system
+B) positive w when work is done on the system
+C) positive q when heat leaves the system
+D) both q and w always positive
+Answer: B
+[Explanation:] IUPAC convention: w > 0 for work done on the system; q > 0 for heat absorbed by the system.
+
+Q: An adiabatic wall
+A) allows heat transfer but not matter
+B) allows neither heat nor matter transfer
+C) allows matter transfer but not heat
+D) is the same as a diathermic wall
+Answer: B
+[Explanation:] Adiabatic wall prevents heat transfer; an isolated system is closed by adiabatic walls.
+
+Q: For an ideal gas undergoing isothermal expansion, ΔU = 0 because
+A) q = 0
+B) the internal energy of an ideal gas depends only on temperature
+C) w = 0
+D) the process is reversible
+Answer: B
+[Explanation:] U of an ideal gas is a function of T alone; constant T forces ΔU = 0.
+
+Q: The heat capacity measured in a constant-pressure calorimeter is
+A) C_V
+B) C_p
+C) independent of pressure
+D) always equal to R
+Answer: B
+[Explanation:] At constant pressure q_p = C_pΔT = ΔH.
+
+Q: Which statement about state functions is false?
+A) Their change is independent of path
+B) Absolute values of U can be measured experimentally
+C) H is a state function because U, p and V are state functions
+D) T and V are state functions
+Answer: B
+[Explanation:] Absolute internal energy cannot be measured; only differences ΔU are accessible.
+
+Q: In a reversible isothermal expansion of an ideal gas the entropy of the system
+A) decreases
+B) remains zero
+C) increases
+D) is undefined
+Answer: C
+[Explanation:] Although ΔU = 0,
+
+explanation alag line me nahi..answer ki hi line me
+Here are all 45 NEET-level MCQs on Thermodynamics in your correct format with [Explanation:] added in the same line as the answer:
+
+Q: An ideal gas expands isothermally from 2 L to 10 L against vacuum. Which statement is rigorously correct?
+A) q = +w and ΔU > 0
+B) q = -w = 0 and ΔU = 0
+C) w = -p_exΔV with p_ex > 0
+D) The process is reversible
+Answer: B [Explanation: Free expansion (p_ex=0) gives w=0. Joule's experiment shows q=0 for isothermal free expansion of an ideal gas; hence ΔU=0.]
+
+Q: For an isothermal reversible expansion of 1 mol ideal gas from V_i to V_f at temperature T, the work done by the system is
+A) nRT ln(V_f/V_i)
+B) -nRT ln(V_f/V_i)
+C) p_ex(V_f - V_i)
+D) zero
+Answer: A [Explanation: w_rev = -nRT ln(V_f/V_i) (work done on the system). Work done by the system is therefore +nRT ln(V_f/V_i).]
+
+Q: In a closed system, 500 J of heat is absorbed and 200 J of work is done by the system. ΔU is
+A) +700 J
+B) +300 J
+C) -300 J
+D) -700 J
+Answer: B [Explanation: First law (IUPAC): ΔU = q + w. q = +500 J, w = -200 J ⇒ ΔU = +300 J.]
+
+Q: Which quantity is always a state function?
+A) q
+B) w
+C) q + w
+D) path-dependent heat at constant pressure
+Answer: C [Explanation: ΔU = q + w depends only on initial and final states; q and w individually are path-dependent.]
+
+Q: For the isothermal irreversible compression of an ideal gas by a constant external pressure, the magnitude of work done on the system is
+A) greater than that for reversible compression between the same volumes
+B) smaller than that for reversible compression between the same volumes
+C) equal to the reversible work
+D) independent of external pressure
+Answer: A [Explanation: On a p-V plot the area under the irreversible path (constant p_ex) is larger than the area under the reversible isotherm; hence more work is done on the system.]
+
+Q: ΔH = ΔU + Δn_gRT is valid only when
+A) the reaction occurs at constant volume
+B) all gases behave ideally and temperature is constant
+C) pressure is not constant
+D) solids and liquids are also present in large amounts
+Answer: B [Explanation: Derivation assumes ideal-gas law for the gaseous species and constant T so that pΔV = Δn_gRT.]
+
+Q: For the reaction H₂O(l) → H₂O(g) at 373 K and 1 bar, Δ_vapH = 40.79 kJ mol⁻¹. ΔU is approximately
+A) 40.79 kJ mol⁻¹
+B) 37.7 kJ mol⁻¹
+C) 43.9 kJ mol⁻¹
+D) zero
+Answer: B [Explanation: Δn_g = +1, ΔU = ΔH - Δn_gRT = 40.79 - 1 × 8.314 × 10⁻³ × 373 ≈ 37.7 kJ mol⁻¹.]
+
+Q: Which of the following is an intensive property?
+A) Internal energy
+B) Enthalpy
+C) Heat capacity
+D) Molar heat capacity
+Answer: D [Explanation: Molar quantities are intensive; U, H and total heat capacity are extensive.]
+
+Q: For an ideal gas, C_p - C_V equals
+A) R only for monatomic gases
+B) R for all ideal gases
+C) zero
+D) γR
+Answer: B [Explanation: From ΔH = ΔU + Δ(nRT) one obtains C_p = C_V + R for any ideal gas.]
+
+Q: In a bomb calorimeter the measured heat change equals
+A) ΔH
+B) ΔU
+C) q_p
+D) zero because volume is constant
+Answer: B [Explanation: Bomb calorimeter operates at constant volume; q_V = ΔU.]
+
+Q: 1.0 g graphite is burnt in a bomb calorimeter (C = 20.7 kJ K⁻¹). Temperature rises by 1 K. ΔU for combustion of 1 mol graphite is
+A) -20.7 kJ mol⁻¹
+B) -248.4 kJ mol⁻¹
+C) +20.7 kJ mol⁻¹
+D) -12.0 kJ mol⁻¹
+Answer: B [Explanation: Heat released for 1 g = -20.7 kJ; for 12 g = -248.4 kJ mol⁻¹. Since Δn_g = 0, ΔH = ΔU.]
+
+Q: Standard state of a pure substance is defined as
+A) 1 atm and 298 K only
+B) pure form at 1 bar and a specified temperature
+C) 1 M solution at 1 bar
+D) any pressure and 0 K
+Answer: B [Explanation: NCERT defines standard state as the pure substance at 1 bar and the temperature of interest (commonly 298 K).]
+
+Q: Enthalpy of fusion is always
+A) negative
+B) positive
+C) zero at the melting point
+D) equal to enthalpy of vaporisation
+Answer: B [Explanation: Melting is endothermic; Δ_fusH° > 0.]
+
+Q: For an adiabatic process in an isolated system
+A) q = 0 and ΔU = w
+B) w = 0 and ΔU = q
+C) q = w = 0
+D) ΔU = 0 only if the gas is ideal
+Answer: A [Explanation: By definition q = 0 for an adiabatic process; first law then gives ΔU = w.]
+
+Q: Which process is reversible?
+A) Free expansion of an ideal gas
+B) Compression by a finite constant external pressure
+C) Infinitely slow expansion against a continuously adjusted external pressure equal to the gas pressure
+D) Sudden mixing of two gases
+Answer: C [Explanation: Only a process that can be reversed by an infinitesimal change in an external variable is thermodynamically reversible.]
+
+Q: When 2 L of an ideal gas at 10 atm expands isothermally against a constant external pressure of 1 atm to a final volume of 10 L, q equals
+A) zero
+B) 8 L atm
+C) -8 L atm
+D) 39.4 L atm
+Answer: B [Explanation: w = -p_exΔV = -1 × 8 = -8 L atm; for isothermal ideal-gas expansion ΔU = 0, so q = -w = +8 L atm.]
+
+Q: The relationship ΔH = ΔU + pΔV is valid for
+A) any process at constant pressure
+B) only ideal-gas reactions
+C) only isothermal processes
+D) only adiabatic processes
+Answer: A [Explanation: Derived directly from the definition H = U + pV at constant pressure.]
+
+Q: Which pair consists of both extensive properties?
+A) Temperature and pressure
+B) Density and molar volume
+C) Internal energy and enthalpy
+D) Specific heat and refractive index
+Answer: C [Explanation: U and H scale with the amount of substance; the others are intensive.]
+
+Q: For the reaction N₂(g) + 3H₂(g) → 2NH₃(g) at constant T and p, ΔH - ΔU equals
+A) +2RT
+B) -2RT
+C) +RT
+D) zero
+Answer: B [Explanation: Δn_g = 2 - 4 = -2; ΔH = ΔU + Δn_gRT ⇒ ΔH - ΔU = -2RT.]
+
+Q: In the first-law expression ΔU = q + w, the IUPAC sign convention assigns
+A) positive w when work is done by the system
+B) positive w when work is done on the system
+C) positive q when heat leaves the system
+D) both q and w always positive
+Answer: B [Explanation: IUPAC convention: w > 0 for work done on the system; q > 0 for heat absorbed by the system.]
+
+Q: An adiabatic wall
+A) allows heat transfer but not matter
+B) allows neither heat nor matter transfer
+C) allows matter transfer but not heat
+D) is the same as a diathermic wall
+Answer: B [Explanation: Adiabatic wall prevents heat transfer; an isolated system is closed by adiabatic walls.]
+
+Q: For an ideal gas undergoing isothermal expansion, ΔU = 0 because
+A) q = 0
+B) the internal energy of an ideal gas depends only on temperature
+C) w = 0
+D) the process is reversible
+Answer: B [Explanation: U of an ideal gas is a function of T alone; constant T forces ΔU = 0.]
+
+Q: The heat capacity measured in a constant-pressure calorimeter is
+A) C_V
+B) C_p
+C) independent of pressure
+D) always equal to R
+Answer: B [Explanation: At constant pressure q_p = C_pΔT = ΔH.]
+
+Q: Which statement about state functions is false?
+A) Their change is independent of path
+B) Absolute values of U can be measured experimentally
+C) H is a state function because U, p and V are state functions
+D) T and V are state functions
+Answer: B [Explanation: Absolute internal energy cannot be measured; only differences ΔU are accessible.]
+
+Q: In a reversible isothermal expansion of an ideal gas the entropy of the system
+A) decreases
+B) remains zero
+C) increases
+D) is undefined
+Answer: C [Explanation: Although ΔU = 0, q_rev = nRT ln(V_f/V_i) > 0; hence ΔS = q_rev/T > 0.]
+
+Q: For free expansion of an ideal gas into vacuum, which quantities are zero?
+A) q, w, ΔU
+B) only w
+C) only q
+D) ΔH but not ΔU
+Answer: A [Explanation: p_ex = 0 ⇒ w = 0; Joule showed q = 0; therefore ΔU = 0.]
+
+Q: The numerical value of C_p - C_V for 2 mol of an ideal gas is
+A) R
+B) 2R
+C) R/2
+D) zero
+Answer: B [Explanation: For n moles, C_p - C_V = nR.]
+
+Q: When ice melts at 0 °C and 1 bar, the process is
+A) spontaneous and ΔH < 0
+B) non-spontaneous and ΔH > 0
+C) spontaneous with ΔH > 0 (driven by entropy)
+D) at equilibrium with ΔH = 0
+Answer: C [Explanation: Melting is endothermic (Δ_fusH > 0) yet spontaneous above 0 °C because TΔS > ΔH.]
+
+Q: Hess's law is a direct consequence of the fact that
+A) enthalpy is a state function
+B) internal energy is path-dependent
+C) heat is a state function
+D) work is a state function
+Answer: A [Explanation: Because H is a state function, ΔH for a reaction is independent of the path taken; therefore the algebraic sum of ΔH values for any sequence of steps equals ΔH for the overall reaction.]
+
+Q: The standard enthalpy of formation of an element in its most stable form is
+A) always positive
+B) always negative
+C) zero by definition
+D) equal to its bond enthalpy
+Answer: C [Explanation: By convention Δ_fH° = 0 for the element in its standard state.]
+
+Q: For the reaction C(graphite) + O₂(g) → CO₂(g) carried out in a bomb calorimeter, Δn_g = 0. Therefore
+A) ΔH = ΔU
+B) ΔH > ΔU
+C) ΔH < ΔU
+D) ΔH cannot be determined
+Answer: A [Explanation: Δn_g = 0 ⇒ ΔH = ΔU.]
+
+Q: An open system differs from a closed system in that
+A) energy can be exchanged only in an open system
+B) matter can be exchanged only in an open system
+C) neither matter nor energy can be exchanged in an open system
+D) volume is constant in an open system
+Answer: B [Explanation: Open systems exchange both matter and energy; closed systems exchange only energy.]
+
+Q: The work done in a reversible isothermal expansion of an ideal gas is maximum (in magnitude for expansion) because
+A) the external pressure is always equal to the gas pressure
+B) the external pressure is zero
+C) the process is adiabatic
+D) temperature increases
+Answer: A [Explanation: The continuous matching of p_ex with p_gas maximises the area under the p-V curve for expansion.]
+
+Q: Which of the following changes leaves the internal energy of an ideal gas unchanged?
+A) Isothermal compression
+B) Adiabatic expansion
+C) Isochoric heating
+D) Isobaric heating
+Answer: A [Explanation: U of an ideal gas depends only on T; isothermal process ⇒ ΔU = 0.]
+
+Q: In the expression w = -∫p_ex dV, the negative sign is required so that
+A) work done by the system is positive
+B) work done on the system is positive (IUPAC)
+C) ΔU is always positive
+D) heat is always positive
+Answer: B [Explanation: IUPAC convention requires w > 0 when work is done on the system; the minus sign ensures this for compression (ΔV < 0).]
+
+Q: Specific heat capacity is
+A) an extensive property
+B) an intensive property
+C) identical to molar heat capacity
+D) path-dependent
+Answer: B [Explanation: Specific heat is defined per unit mass and is therefore intensive.]
+
+Q: For a process in which q = 0 and w = 0, the system must be
+A) open
+B) closed but not isolated
+C) isolated
+D) adiabatic but not isolated
+Answer: C [Explanation: Only an isolated system exchanges neither heat nor work (ΔU = 0).]
+
+Q: The enthalpy change for the vaporisation of water at 100 °C and 1 bar is 40.79 kJ mol⁻¹. The corresponding internal-energy change is smaller because
+A) work is done by the system
+B) work is done on the system
+C) heat is absorbed at constant volume
+D) the process is irreversible
+Answer: A [Explanation: Expansion work pΔV = Δn_gRT is performed by the system, so ΔU = ΔH - pΔV < ΔH.]
+
+Q: Which of the following is not a state function?
+A) q_V
+B) q_p
+C) w_ad for a given change of state
+D) path-dependent irreversible work
+Answer: D [Explanation: q_V = ΔU and q_p = ΔH are state functions; adiabatic work between two states equals ΔU and is therefore path-independent. Ordinary irreversible w is path-dependent.]
+
+Q: In a constant-pressure calorimeter an exothermic reaction causes the temperature of the water to rise. ΔH of the reaction is
+A) positive
+B) negative
+C) zero
+D) equal to C_VΔT
+Answer: B [Explanation: Heat is released by the system (q_p < 0); therefore ΔH = q_p < 0.]
+
+Q: The mathematical statement of the first law for an isolated system is
+A) ΔU = q + w
+B) ΔU = 0
+C) ΔH = 0
+D) q = -w
+Answer: B [Explanation: Isolated ⇒ q = 0, w = 0 ⇒ ΔU = 0.]
+
+Q: When 1 mol of an ideal gas expands reversibly and isothermally from 1 L to 10 L at 300 K, the heat absorbed is closest to
+A) 5.7 kJ
+B) 0
+C) -5.7 kJ
+D) 11.4 kJ
+Answer: A [Explanation: q = -w = nRT ln(V_f/V_i) = 1 × 8.314 × 300 × ln10 ≈ 5.74 kJ.]
+
+Q: Which process can never be adiabatic?
+A) Free expansion of an ideal gas
+B) Sudden compression of a gas in an insulated cylinder
+C) Isothermal expansion of an ideal gas
+D) Reversible expansion of an ideal gas in a thermally insulated container
+Answer: C [Explanation: An isothermal process for an ideal gas requires heat exchange to keep T constant; it cannot be adiabatic (q = 0).]
+
+Q: The difference ΔH - ΔU for the reaction 2H₂(g) + O₂(g) → 2H₂O(l) at 298 K is
+A) +RT
+B) -3RT
+C) -RT
+D) +2RT
+Answer: B [Explanation: Δn_g = 0 - 3 = -3; ΔH = ΔU - 3RT.]
+
+Q: A system absorbs 100 J of heat and performs 40 J of work. The change in internal energy is
+A) +140 J
+B) +60 J
+C) -60 J
+D) -140 J
+Answer: B [Explanation: ΔU = q + w = 100 + (-40) = +60 J (IUPAC signs).]
