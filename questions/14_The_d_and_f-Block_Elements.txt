@@ -1,0 +1,318 @@
+Q: The electronic configuration of Cr is 3d⁵4s¹ instead of 3d⁴4s² because
+A) 3d orbitals have lower energy than 4s
+B) half-filled configuration is more stable
+C) 4s electrons are more penetrating
+D) exchange energy of 3d⁴ is higher
+Answer: B [Explanation: Extra stability of half-filled d⁵ configuration.]
+
+Q: Which of the following is not regarded as a transition element according to IUPAC?
+A) Fe
+B) Zn
+C) Cu
+D) Mn
+Answer: B [Explanation: Zn has completely filled d¹⁰ configuration in ground state and common oxidation state.]
+
+Q: The correct order of atomic radii of the first transition series is
+A) Sc < Ti < V < Cr < Mn
+B) Sc > Ti > V > Cr > Mn
+C) Sc > Ti ≈ V ≈ Cr ≈ Mn
+D) Sc < Ti ≈ V ≈ Cr < Mn
+Answer: C [Explanation: Atomic radii decrease initially then become almost constant due to poor shielding of d-electrons.]
+
+Q: The maximum oxidation state shown by Mn is
+A) +5
+B) +6
+C) +7
+D) +4
+Answer: C [Explanation: Mn shows +7 in KMnO₄ (all 4s and 3d electrons removed).]
+
+Q: Which of the following ions has the maximum magnetic moment?
+A) Mn²⁺
+B) Fe³⁺
+C) Cr³⁺
+D) V³⁺
+Answer: A [Explanation: Mn²⁺ has 5 unpaired electrons (d⁵); magnetic moment = √35 BM.]
+
+Q: The colour of KMnO₄ is due to
+A) d–d transition
+B) charge transfer spectrum
+C) f–f transition
+D) ligand field transition
+Answer: B [Explanation: Intense purple colour arises from ligand-to-metal charge transfer.]
+
+Q: In the acidic medium, KMnO₄ oxidises oxalic acid. The number of electrons involved per MnO₄⁻ is
+A) 3
+B) 5
+C) 1
+D) 7
+Answer: B [Explanation: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O]
+
+Q: The correct order of acidic strength of the oxides is
+A) Mn₂O₇ > CrO₃ > V₂O₅
+B) V₂O₅ > CrO₃ > Mn₂O₇
+C) CrO₃ > Mn₂O₇ > V₂O₅
+D) Mn₂O₇ > V₂O₅ > CrO₃
+Answer: A [Explanation: Higher oxidation state → more acidic oxide.]
+
+Q: Which of the following statements is correct about lanthanoids?
+A) All lanthanoids show +2 oxidation state
+B) Lanthanoid contraction is due to poor shielding of 4f electrons
+C) They form coloured ions only in +3 state
+D) Their basic character increases with atomic number
+Answer: B [Explanation: Lanthanoid contraction arises from imperfect shielding of 4f electrons.]
+
+Q: The electronic configuration of Eu²⁺ is
+A) 4f⁷
+B) 4f⁶
+C) 4f⁵
+D) 4f⁸
+Answer: A [Explanation: Eu (4f⁷6s²) loses two 6s electrons → 4f⁷.]
+
+Q: Which of the following is used as an oxidising agent in acidic medium?
+A) K₂Cr₂O₇
+B) KMnO₄
+C) Both A and B
+D) Neither
+Answer: C [Explanation: Both are strong oxidising agents in acidic medium.]
+
+Q: The number of unpaired electrons in [Cr(H₂O)₆]³⁺ is
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: D [Explanation: Cr³⁺ is d³; all three electrons remain unpaired in t₂g set.]
+
+Q: The correct order of ionic radii of the following is
+A) La³⁺ > Eu³⁺ > Lu³⁺
+B) Lu³⁺ > Eu³⁺ > La³⁺
+C) Eu³⁺ > La³⁺ > Lu³⁺
+D) La³⁺ > Lu³⁺ > Eu³⁺
+Answer: A [Explanation: Due to lanthanoid contraction, ionic radii decrease from La³⁺ to Lu³⁺.]
+
+Q: Assertion (A): Zn is not considered a transition element.
+Reason (R): Zn has completely filled d-orbitals in ground state as well as in +2 oxidation state.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: IUPAC definition requires incomplete d-subshell.]
+
+Q: The catalytic activity of transition metals is due to
+A) variable oxidation states
+B) large surface area
+C) ability to form complexes
+D) All of these
+Answer: D [Explanation: All factors contribute to catalytic behaviour.]
+
+Q: In the preparation of K₂Cr₂O₇ from chromite ore, the first step is
+A) fusion with Na₂CO₃ in air
+B) acidification
+C) crystallisation
+D) reduction
+Answer: A [Explanation: 4FeCr₂O₄ + 8Na₂CO₃ + 7O₂ → 8Na₂CrO₄ + 2Fe₂O₃ + 8CO₂]
+
+Q: The structure of dichromate ion is
+A) two tetrahedra sharing one oxygen
+B) two tetrahedra sharing two oxygens
+C) octahedral
+D) planar
+Answer: A [Explanation: Cr₂O₇²⁻ consists of two CrO₄ tetrahedra sharing one oxygen atom.]
+
+Q: Which of the following has the highest melting point?
+A) Cr
+B) Mn
+C) Fe
+D) Zn
+Answer: A [Explanation: Cr has maximum number of unpaired electrons → strongest metallic bonding.]
+
+Q: The +2 oxidation state is more stable than +3 for
+A) Fe
+B) Mn
+C) both Fe and Mn in aqueous solution under certain conditions
+D) Cr
+Answer: C [Explanation: Fe²⁺ and Mn²⁺ are more stable in many cases due to higher hydration enthalpy or half-filled configuration.]
+
+Q: The magnetic moment of Mn²⁺ (in BM) is
+A) 5.92
+B) 4.90
+C) 3.87
+D) 2.84
+Answer: A [Explanation: √[n(n+2)] = √[5×7] = √35 ≈ 5.92]
+
+Q: Which of the following is not a characteristic of transition metals?
+A) Variable oxidation states
+B) Formation of coloured compounds
+C) Formation of interstitial compounds
+D) Fixed valency
+Answer: D [Explanation: Transition metals show variable oxidation states.]
+
+Q: The actinoids show greater number of oxidation states than lanthanoids because
+A) 5f orbitals are more diffused
+B) energy difference between 5f, 6d and 7s is smaller
+C) actinoids are radioactive
+D) both A and B
+Answer: D [Explanation: Smaller energy gap allows more oxidation states.]
+
+Q: The colour of transition metal compounds is due to
+A) d–d transition
+B) charge transfer
+C) both A and B
+D) f–f transition
+Answer: C [Explanation: Both mechanisms can cause colour.]
+
+Q: Which of the following pairs have almost same atomic radius due to lanthanoid contraction?
+A) Zr and Hf
+B) Nb and Ta
+C) Mo and W
+D) All of these
+Answer: D [Explanation: All 4d–5d pairs show similar radii due to lanthanoid contraction.]
+
+Q: The oxidising power of KMnO₄ is maximum in
+A) acidic medium
+B) neutral medium
+C) alkaline medium
+D) same in all
+Answer: A [Explanation: In acidic medium MnO₄⁻ is reduced to Mn²⁺ (5e⁻ change).]
+
+Q: The electronic configuration of Gd³⁺ is
+A) 4f⁷
+B) 4f⁸
+C) 4f⁶
+D) 4f⁹
+Answer: A [Explanation: Gd (4f⁷5d¹6s²) loses 5d and 6s electrons → 4f⁷.]
+
+Q: Which of the following is diamagnetic?
+A) [Ni(CN)₄]²⁻
+B) [NiCl₄]²⁻
+C) [CoF₆]³⁻
+D) [Fe(H₂O)₆]²⁺
+Answer: A [Explanation: [Ni(CN)₄]²⁻ is square planar with dsp² hybridisation and no unpaired electrons.]
+
+Q: The correct order of decreasing basic character of lanthanoid hydroxides is
+A) La(OH)₃ > Ce(OH)₃ > Lu(OH)₃
+B) Lu(OH)₃ > Ce(OH)₃ > La(OH)₃
+C) Ce(OH)₃ > La(OH)₃ > Lu(OH)₃
+D) La(OH)₃ > Lu(OH)₃ > Ce(OH)₃
+Answer: A [Explanation: Basic character decreases with decrease in size (lanthanoid contraction).]
+
+Q: K₂Cr₂O₇ on heating with concentrated H₂SO₄ and a soluble chloride gives
+A) chromyl chloride
+B) chromic acid
+C) chromium metal
+D) CrO₃
+Answer: A [Explanation: Chromyl chloride test: CrO₂Cl₂ is formed.]
+
+Q: The number of moles of KMnO₄ required to oxidise 1 mole of FeC₂O₄ in acidic medium is
+A) 0.6
+B) 0.2
+C) 0.4
+D) 1.0
+Answer: A [Explanation: FeC₂O₄ → Fe³⁺ + 2CO₂ (3e⁻); MnO₄⁻ takes 5e⁻ → 3/5 = 0.6]
+
+Q: Which of the following has the lowest melting point among 3d series?
+A) Zn
+B) Mn
+C) Cu
+D) Sc
+Answer: A [Explanation: Zn has completely filled d¹⁰ and no unpaired electrons → weakest metallic bonding.]
+
+Q: The interstitial compounds are formed by transition metals because
+A) they have large atomic size
+B) they have vacant interstitial sites
+C) both A and B
+D) they are highly electropositive
+Answer: C [Explanation: Both factors allow small atoms (H, C, N) to occupy voids.]
+
+Q: The +3 oxidation state is most stable for
+A) Fe
+B) Mn
+C) Co
+D) Cr
+Answer: A [Explanation: Fe³⁺ (d⁵) has extra stability of half-filled configuration.]
+
+Q: Which of the following is not an actinoid?
+A) Th
+B) U
+C) Pu
+D) La
+Answer: D [Explanation: La is a lanthanoid (or sometimes placed in group 3).]
+
+Q: The magnetic moment of a transition metal ion is 3.87 BM. The number of unpaired electrons is
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B [Explanation: √[n(n+2)] = 3.87 → n=3]
+
+Q: Assertion (A): Transition metals form a large number of complex compounds.
+Reason (R): Transition metals have vacant d-orbitals and high charge/size ratio.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Vacant orbitals and high polarising power favour complex formation.]
+
+Q: In KMnO₄, the oxidation state of Mn is
+A) +5
+B) +6
+C) +7
+D) +4
+Answer: C [Explanation: K(+1) + Mn + 4O(-2) = 0 → Mn = +7]
+
+Q: Which of the following shows maximum number of oxidation states?
+A) Mn
+B) Cr
+C) Fe
+D) V
+Answer: A [Explanation: Mn shows oxidation states from +2 to +7.]
+
+Q: The lanthanoid contraction is responsible for
+A) similar size of Zr and Hf
+B) similar properties of 4d and 5d elements
+C) both A and B
+D) none
+Answer: C [Explanation: Both consequences arise from lanthanoid contraction.]
+
+Q: The hybridisation of Cr in CrO₄²⁻ is
+A) sp³
+B) dsp²
+C) sp³d
+D) d²sp³
+Answer: A [Explanation: Tetrahedral geometry → sp³ hybridisation.]
+
+Q: Which of the following is coloured due to charge transfer?
+A) KMnO₄
+B) K₂Cr₂O₇
+C) Both
+D) [Ti(H₂O)₆]³⁺
+Answer: C [Explanation: Both KMnO₄ and K₂Cr₂O₇ show intense colour due to LMCT.]
+
+Q: The correct electronic configuration of Cu⁺ is
+A) 3d¹⁰
+B) 3d⁹4s¹
+C) 3d⁸4s²
+D) 3d⁹
+Answer: A [Explanation: Cu loses the 4s electron → 3d¹⁰.]
+
+Q: Which of the following is used in volumetric analysis as a primary standard?
+A) KMnO₄
+B) K₂Cr₂O₇
+C) Both
+D) NaOH
+Answer: B [Explanation: K₂Cr₂O₇ is a primary standard; KMnO₄ is not (it is secondary).]
+
+Q: The number of unpaired electrons in Fe³⁺ is
+A) 4
+B) 5
+C) 3
+D) 6
+Answer: B [Explanation: Fe³⁺ is 3d⁵ → 5 unpaired electrons.]
+
+Q: Assertion (A): Actinoids show greater tendency towards complex formation than lanthanoids.
+Reason (R): Actinoids have higher charge density and more available orbitals.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Higher charge density and availability of 5f, 6d, 7s orbitals favour complexation.]
+
