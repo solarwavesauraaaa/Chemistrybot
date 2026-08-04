@@ -1,0 +1,317 @@
+Q: In the reaction 2H₂S(g) + O₂(g) → 2S(s) + 2H₂O(l), the species that is oxidised is
+A) O₂
+B) H₂S
+C) H₂O
+D) S
+Answer: B [Explanation: Hydrogen is removed from H₂S (or sulphur is oxidised from –2 to 0); oxygen is reduced.]
+
+Q: Which of the following is not an example of oxidation according to the classical definition?
+A) 2Mg + O₂ → 2MgO
+B) CH₄ + 2O₂ → CO₂ + 2H₂O
+C) 2K₄[Fe(CN)₆] + H₂O₂ → 2K₃[Fe(CN)₆] + 2KOH
+D) Fe₂O₃ + 3CO → 2Fe + 3CO₂
+Answer: D [Explanation: In (D) oxygen is removed from Fe₂O₃; this is reduction of iron, not oxidation.]
+
+Q: In the reaction 2Na(s) + H₂(g) → 2NaH(s), sodium acts as
+A) oxidising agent
+B) reducing agent
+C) both oxidising and reducing agent
+D) neither
+Answer: B [Explanation: Sodium loses electrons (Na → Na⁺ + e⁻) and is oxidised; hydrogen gains electrons and is reduced. Sodium is therefore the reducing agent.]
+
+Q: The half-reaction that represents oxidation in the formation of NaCl from its elements is
+A) Cl₂ + 2e⁻ → 2Cl⁻
+B) 2Na → 2Na⁺ + 2e⁻
+C) Na⁺ + e⁻ → Na
+D) 2Cl⁻ → Cl₂ + 2e⁻
+Answer: B [Explanation: Loss of electrons constitutes oxidation; sodium loses electrons to form Na⁺.]
+
+Q: When a zinc strip is placed in aqueous copper nitrate, the blue colour disappears because
+A) Zn²⁺ ions are formed and Cu²⁺ is reduced to Cu
+B) Cu²⁺ ions are oxidised
+C) zinc is reduced
+D) no reaction occurs
+Answer: A [Explanation: Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s); Cu²⁺ is reduced and the blue colour vanishes.]
+
+Q: The correct order of electron-releasing tendency of the metals based on competitive electron-transfer experiments is
+A) Ag > Cu > Zn
+B) Zn > Cu > Ag
+C) Cu > Zn > Ag
+D) Zn > Ag > Cu
+Answer: B [Explanation: Zinc displaces copper, copper displaces silver; therefore the activity (electron-releasing tendency) decreases in the order Zn > Cu > Ag.]
+
+Q: In the reaction 2H₂(g) + O₂(g) → 2H₂O(l), the oxidation number of hydrogen changes from
+A) 0 to +1
+B) 0 to –1
+C) +1 to 0
+D) –1 to +1
+Answer: A [Explanation: In elemental H₂ the oxidation number is 0; in water it is +1.]
+
+Q: The oxidation number of sulphur in H₂SO₄ is
+A) +4
+B) +6
+C) –2
+D) +2
+Answer: B [Explanation: Let oxidation number of S be x: 2(+1) + x + 4(-2) = 0 ⇒ x = +6.]
+
+Q: Which of the following is a disproportionation reaction?
+A) 2H₂O₂ → 2H₂O + O₂
+B) Zn + Cu²⁺ → Zn²⁺ + Cu
+C) 2Na + Cl₂ → 2NaCl
+D) 2HgO → 2Hg + O₂
+Answer: A [Explanation: In H₂O₂ oxygen is both oxidised (to 0 in O₂) and reduced (to –2 in H₂O); the same element undergoes simultaneous oxidation and reduction.]
+
+Q: The reaction 3Fe₃O₄ + 8Al → 9Fe + 4Al₂O₃ is an example of
+A) combination redox reaction
+B) decomposition redox reaction
+C) displacement redox reaction
+D) disproportionation
+Answer: C [Explanation: Aluminium displaces iron from its oxide; it is a metal-displacement redox reaction.]
+
+Q: In the balanced equation Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O, the oxidising agent is
+A) H⁺
+B) Cr₂O₇²⁻
+C) Cr³⁺
+D) H₂O
+Answer: B [Explanation: Cr₂O₇²⁻ gains electrons and is reduced; it is the oxidising agent.]
+
+Q: Assertion (A): The reaction 2Na(s) + Cl₂(g) → 2NaCl(s) is a redox reaction.
+Reason (R): Sodium loses electrons while chlorine gains electrons.
+A) Both A and R are true and R is the correct explanation of A
+B) Both A and R are true but R is not the correct explanation of A
+C) A is true but R is false
+D) A is false but R is true
+Answer: A [Explanation: Loss of electrons by Na (oxidation) and gain by Cl (reduction) occur simultaneously; hence it is a redox reaction and R correctly explains A.]
+
+Q: The oxidation number of carbon in C₆H₁₂O₆ is
+A) 0
+B) +1
+C) –1
+D) +2
+Answer: A [Explanation: Let oxidation number of C be x: 6x + 12(+1) + 6(-2) = 0 ⇒ 6x = 0 ⇒ x = 0.]
+
+Q: Which species can act only as an oxidising agent?
+A) MnO₄⁻
+B) H₂O₂
+C) SO₂
+D) H₂S
+Answer: A [Explanation: In MnO₄⁻ manganese is already in its highest oxidation state (+7); it can only be reduced.]
+
+Q: Balancing the half-reaction MnO₄⁻ → Mn²⁺ in acidic medium requires
+A) 5 electrons and 8 H⁺ on the left
+B) 5 electrons and 4 H₂O on the left
+C) 3 electrons and 4 H⁺ on the left
+D) 5 electrons and 8 H⁺ on the right
+Answer: A [Explanation: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O.]
+
+Q: In the reaction 2KMnO₄ + 16HCl → 2KCl + 2MnCl₂ + 5Cl₂ + 8H₂O, the oxidising agent is
+A) HCl
+B) KMnO₄
+C) MnCl₂
+D) Cl₂
+Answer: B [Explanation: Manganese is reduced from +7 to +2; KMnO₄ is the oxidising agent.]
+
+Q: The correct coefficient of Fe²⁺ when the following half-reactions are balanced and added is
+Fe²⁺ → Fe³⁺
+MnO₄⁻ → Mn²⁺ (acidic medium)
+A) 1
+B) 5
+C) 3
+D) 2
+Answer: B [Explanation: Oxidation half-reaction needs 1 e⁻; reduction half-reaction needs 5 e⁻; multiply oxidation half by 5.]
+
+Q: Which of the following is a combination redox reaction?
+A) 2H₂O₂ → 2H₂O + O₂
+B) N₂ + 3H₂ → 2NH₃
+C) 2Na + Cl₂ → 2NaCl
+D) CaCO₃ → CaO + CO₂
+Answer: C [Explanation: Two elements combine to form a compound with change in oxidation numbers.]
+
+Q: The oxidation number of oxygen in OF₂ is
+A) –2
+B) +2
+C) –1
+D) 0
+Answer: B [Explanation: Fluorine is more electronegative; oxidation number of F is –1, therefore O is +2.]
+
+Q: In the displacement reaction Cu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s), the reducing agent is
+A) Ag⁺
+B) Cu
+C) Cu²⁺
+D) Ag
+Answer: B [Explanation: Copper loses electrons and is oxidised; it is the reducing agent.]
+
+Q: The sum of the oxidation numbers of all atoms in K₂Cr₂O₇ is
+A) +6
+B) 0
+C) +12
+D) –2
+Answer: B [Explanation: The algebraic sum of oxidation numbers in a neutral compound is always zero.]
+
+Q: Which reaction is an example of decomposition redox reaction?
+A) 2HgO → 2Hg + O₂
+B) Zn + 2HCl → ZnCl₂ + H₂
+C) 2Na + Cl₂ → 2NaCl
+D) 2H₂O₂ → 2H₂O + O₂
+Answer: A [Explanation: A single compound breaks down into two elements with change in oxidation numbers.]
+
+Q: When the equation P₄ + OH⁻ + H₂O → PH₃ + H₂PO₂⁻ is balanced in basic medium, the coefficient of OH⁻ is
+A) 3
+B) 4
+C) 6
+D) 12
+Answer: A [Explanation: The balanced equation is P₄ + 3OH⁻ + 3H₂O → PH₃ + 3H₂PO₂⁻.]
+
+Q: The species that can act both as oxidising and reducing agent is
+A) MnO₄⁻
+B) H₂O₂
+C) F₂
+D) KMnO₄
+Answer: B [Explanation: Oxygen in H₂O₂ is in –1 oxidation state and can be oxidised to 0 or reduced to –2.]
+
+Q: In the reaction Cl₂ + 2OH⁻ → Cl⁻ + OCl⁻ + H₂O, chlorine undergoes
+A) only oxidation
+B) only reduction
+C) disproportionation
+D) neither oxidation nor reduction
+Answer: C [Explanation: Chlorine is simultaneously reduced to Cl⁻ (–1) and oxidised to OCl⁻ (+1).]
+
+Q: The oxidation number of nitrogen in NH₄NO₃ is
+A) –3 and +5
+B) –3 only
+C) +5 only
+D) 0
+Answer: A [Explanation: In NH₄⁺ nitrogen is –3; in NO₃⁻ nitrogen is +5.]
+
+Q: Which metal cannot displace hydrogen from dilute acids?
+A) Zn
+B) Fe
+C) Cu
+D) Mg
+Answer: C [Explanation: Copper lies below hydrogen in the activity series and cannot liberate H₂ from dilute acids.]
+
+Q: The balanced ionic equation for the reaction of MnO₄⁻ with Fe²⁺ in acidic medium is
+A) MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O
+B) MnO₄⁻ + 3Fe²⁺ + 4H⁺ → MnO₂ + 3Fe³⁺ + 2H₂O
+C) MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺
+D) MnO₄⁻ + 5Fe²⁺ → Mn²⁺ + 5Fe³⁺
+Answer: A [Explanation: Standard half-reactions: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O and Fe²⁺ → Fe³⁺ + e⁻; multiply the latter by 5.]
+
+Q: In the compound Na₂S₄O₆, the average oxidation number of sulphur is
+A) +2
+B) +2.5
+C) +3
+D) +4
+Answer: B [Explanation: Let oxidation number of S be x: 2(+1) + 4x + 6(-2) = 0 ⇒ 4x = 10 ⇒ x = +2.5.]
+
+Q: Which of the following is not a redox reaction?
+A) BaCl₂ + H₂SO₄ → BaSO₄ + 2HCl
+B) 2Na + Cl₂ → 2NaCl
+C) 2H₂O₂ → 2H₂O + O₂
+D) Zn + 2HCl → ZnCl₂ + H₂
+Answer: A [Explanation: No change in oxidation numbers occurs; it is a double-displacement (precipitation) reaction.]
+
+Q: The oxidising agent in the reaction 2Fe³⁺ + Sn²⁺ → 2Fe²⁺ + Sn⁴⁺ is
+A) Fe³⁺
+B) Sn²⁺
+C) Fe²⁺
+D) Sn⁴⁺
+Answer: A [Explanation: Fe³⁺ gains electrons and is reduced; it is the oxidising agent.]
+
+Q: When H₂S is passed through an acidified solution of K₂Cr₂O₇, the colour changes from orange to green because
+A) Cr⁶⁺ is reduced to Cr³⁺
+B) Cr³⁺ is oxidised to Cr⁶⁺
+C) sulphur is reduced
+D) no redox change occurs
+Answer: A [Explanation: Dichromate (orange, Cr +6) is reduced to chromium(III) (green).]
+
+Q: The coefficient of H⁺ in the balanced equation MnO₄⁻ + C₂O₄²⁻ → Mn²⁺ + CO₂ (acidic medium) is
+A) 8
+B) 16
+C) 4
+D) 2
+Answer: B [Explanation: Balanced equation: 2MnO₄⁻ + 5C₂O₄²⁻ + 16H⁺ → 2Mn²⁺ + 10CO₂ + 8H₂O.]
+
+Q: Which of the following pairs of ions can be separated by using H₂S in acidic medium?
+A) Cu²⁺, Zn²⁺
+B) Zn²⁺, Mn²⁺
+C) Ni²⁺, Co²⁺
+D) Pb²⁺, Ba²⁺
+Answer: A [Explanation: Cu²⁺ forms insoluble CuS in acidic medium while Zn²⁺ does not; they can be separated.]
+
+Q: The oxidation number of phosphorus in Ba(H₂PO₂)₂ is
+A) +1
+B) +3
+C) +5
+D) –1
+Answer: A [Explanation: Let oxidation number of P be x: Ba²⁺ + 2H₂PO₂⁻; for H₂PO₂⁻: 2(+1) + x + 2(-2) = -1 ⇒ x = +1.]
+
+Q: In the reaction I₂ + 2S₂O₃²⁻ → 2I⁻ + S₄O₆²⁻, the oxidising agent is
+A) I₂
+B) S₂O₃²⁻
+C) I⁻
+D) S₄O₆²⁻
+Answer: A [Explanation: Iodine is reduced from 0 to –1; it is the oxidising agent.]
+
+Q: Which of the following is a correct statement about oxidation number?
+A) It is always a whole number
+B) The algebraic sum of oxidation numbers in a polyatomic ion equals the charge on the ion
+C) Fluorine can have positive oxidation number
+D) Oxygen is always –2
+Answer: B [Explanation: By definition the sum of oxidation numbers equals the net charge on the species.]
+
+Q: The reaction 2KClO₃ → 2KCl + 3O₂ is an example of
+A) combination redox
+B) decomposition redox
+C) displacement redox
+D) disproportionation
+Answer: B [Explanation: A single compound decomposes into two products with change in oxidation numbers.]
+
+Q: In acidic medium the balanced half-reaction for NO₃⁻ → NO is
+A) NO₃⁻ + 4H⁺ + 3e⁻ → NO + 2H₂O
+B) NO₃⁻ + 2H⁺ + e⁻ → NO + H₂O
+C) NO₃⁻ + 6H⁺ + 5e⁻ → NO + 3H₂O
+D) NO₃⁻ + 3e⁻ → NO
+Answer: A [Explanation: Nitrogen changes from +5 to +2 (gain of 3 e⁻); balance O with H₂O and H with H⁺.]
+
+Q: Which element shows the maximum number of different oxidation states among the following?
+A) Mn
+B) Cr
+C) Fe
+D) Cu
+Answer: A [Explanation: Manganese exhibits oxidation states from –3 to +7.]
+
+Q: The equivalent mass of KMnO₄ in acidic medium is
+A) M/5
+B) M/3
+C) M/1
+D) M/2
+Answer: A [Explanation: MnO₄⁻ gains 5 electrons; equivalent mass = molar mass / 5.]
+
+Q: In the reaction H₂SO₄ + 2HBr → SO₂ + Br₂ + 2H₂O, the reducing agent is
+A) H₂SO₄
+B) HBr
+C) SO₂
+D) Br₂
+Answer: B [Explanation: Bromine is oxidised from –1 to 0; HBr is the reducing agent.]
+
+Q: The correct order of increasing oxidising power is
+A) F₂ < Cl₂ < Br₂ < I₂
+B) I₂ < Br₂ < Cl₂ < F₂
+C) Cl₂ < Br₂ < I₂ < F₂
+D) Br₂ < I₂ < Cl₂ < F₂
+Answer: B [Explanation: Oxidising power of halogens decreases down the group: F₂ > Cl₂ > Br₂ > I₂.]
+
+Q: When SO₂ is passed through an acidified K₂Cr₂O₇ solution, the colour changes to green. The change is due to
+A) oxidation of Cr³⁺
+B) reduction of Cr₂O₇²⁻ to Cr³⁺
+C) formation of CrO₅
+D) no redox change
+Answer: B [Explanation: Cr₂O₇²⁻ is reduced to Cr³⁺ (green) while SO₂ is oxidised to SO₄²⁻.]
+
+Q: The number of electrons transferred in the balanced equation 2MnO₄⁻ + 5C₂O₄²⁻ + 16H⁺ → 2Mn²⁺ + 10CO₂ + 8H₂O is
+A) 5
+B) 10
+C) 2
+D) 16
+Answer: B [Explanation: Each MnO₄⁻ gains 5 e⁻; two MnO₄⁻ gain 10 e⁻ in total.]
