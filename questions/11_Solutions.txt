@@ -1,0 +1,317 @@
+Q: A solution is prepared by dissolving 18 g glucose in 100 g water at 25°C. The mole fraction of glucose is approximately
+A) 0.017
+B) 0.034
+C) 0.009
+D) 0.052
+Answer: A [Explanation: n_glucose = 0.1; n_water ≈ 5.556; x = 0.1/5.656 ≈ 0.0177]
+
+Q: Which concentration unit is independent of temperature?
+A) Molarity
+B) Normality
+C) Molality
+D) Formality
+Answer: C [Explanation: Molality is based on mass of solvent, which does not change with temperature.]
+
+Q: For an ideal binary solution of A and B, which is correct?
+A) ΔH_mix = 0 and ΔV_mix = 0
+B) ΔH_mix > 0 and ΔV_mix > 0
+C) ΔH_mix < 0 and ΔV_mix < 0
+D) ΔH_mix = 0 but ΔV_mix ≠ 0
+Answer: A [Explanation: Ideal solutions obey Raoult's law and have zero enthalpy and volume of mixing.]
+
+Q: A solution of two liquids A and B shows negative deviation from Raoult's law. This means
+A) A–B interactions are weaker than A–A and B–B
+B) A–B interactions are stronger than A–A and B–B
+C) A–B interactions are equal to A–A and B–B
+D) ΔH_mix > 0
+Answer: B [Explanation: Stronger intermolecular forces lead to negative deviation.]
+
+Q: The vapour pressure of pure liquid A is 100 torr. On adding a non-volatile solute, vapour pressure becomes 90 torr. Mole fraction of solute is
+A) 0.10
+B) 0.90
+C) 0.11
+D) 0.05
+Answer: A [Explanation: Relative lowering = x₂ = (100–90)/100 = 0.10]
+
+Q: Which of the following aqueous solutions has the highest freezing point?
+A) 0.1 M glucose
+B) 0.1 M NaCl
+C) 0.1 M BaCl₂
+D) 0.1 M Al₂(SO₄)₃
+Answer: A [Explanation: Lowest van't Hoff factor (i = 1) → least depression → highest freezing point.]
+
+Q: 0.5 molal aqueous solution of a weak monobasic acid is 50% ionised. Freezing point of solution is (K_f = 1.86 K kg mol⁻¹)
+A) –1.395°C
+B) –0.93°C
+C) –2.79°C
+D) –1.86°C
+Answer: A [Explanation: i = 1 + α = 1.5; ΔT_f = 1.5 × 1.86 × 0.5 = 1.395]
+
+Q: Osmotic pressure is preferred for determination of molar mass of polymers because
+A) it can be measured at room temperature
+B) magnitude is large even for dilute solutions
+C) both A and B
+D) none
+Answer: C [Explanation: Both reasons make it suitable for macromolecules.]
+
+Q: Van't Hoff factor for 0.1 M K₂SO₄ solution that is 80% dissociated is
+A) 2.6
+B) 2.4
+C) 2.8
+D) 3.0
+Answer: A [Explanation: i = 1 + 2α = 1 + 2×0.8 = 2.6]
+
+Q: Henry's law constant for CO₂ in water is 1.67 × 10⁸ Pa at 298 K. Mass of CO₂ dissolved in 500 mL water at 2.5 atm is approximately
+A) 1.65 g
+B) 0.82 g
+C) 3.30 g
+D) 0.41 g
+Answer: A [Explanation: Calculate x from p = K_H·x, then moles and mass.]
+
+Q: Which pair forms an ideal solution?
+A) n-Hexane + n-Heptane
+B) Ethanol + Water
+C) Acetone + Chloroform
+D) Phenol + Aniline
+Answer: A [Explanation: Similar intermolecular forces → ideal behaviour.]
+
+Q: A 5% (w/w) solution of cane sugar (M = 342) is isotonic with 1% solution of substance X. Molar mass of X is
+A) 34.2
+B) 68.4
+C) 136.8
+D) 171
+Answer: B [Explanation: For isotonic solutions C₁ = C₂ → M_X = 68.4]
+
+Q: Which of the following shows positive deviation from Raoult's law?
+A) Acetone + Chloroform
+B) Acetone + Carbon disulphide
+C) Chloroform + Diethyl ether
+D) Phenol + Aniline
+Answer: B [Explanation: Weaker A–B interactions cause positive deviation.]
+
+Q: Elevation in boiling point of 0.1 molal aqueous solution of a non-volatile solute is (K_b = 0.52)
+A) 0.052°C
+B) 0.52°C
+C) 1.04°C
+D) 0.026°C
+Answer: A [Explanation: ΔT_b = K_b × m = 0.52 × 0.1 = 0.052]
+
+Q: Assertion (A): Molarity changes with temperature.
+Reason (R): Volume of solution changes with temperature.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Molarity is volume-dependent.]
+
+Q: 1.0 molal aqueous solution of A₂B₃ is 80% ionised. Boiling point of solution is (K_b = 0.52)
+A) 100.52°C
+B) 101.04°C
+C) 102.18°C
+D) 103.12°C
+Answer: C [Explanation: i = 1 + 4α = 4.2; ΔT_b = 4.2 × 0.52 × 1 = 2.184]
+
+Q: Relative lowering of vapour pressure of an aqueous solution of non-volatile solute is 0.05. Mole fraction of water is
+A) 0.05
+B) 0.95
+C) 0.90
+D) 1.05
+Answer: B [Explanation: x_solute = 0.05 → x_solvent = 0.95]
+
+Q: 0.01 M KCl solution has osmotic pressure 0.48 atm at 300 K. Degree of dissociation is (R = 0.082)
+A) 0.95
+B) 0.90
+C) 0.85
+D) 0.80
+Answer: A [Explanation: i = π/(CRT) ≈ 1.95 → α = 0.95]
+
+Q: Which of the following has the minimum freezing point?
+A) 0.1 M NaCl
+B) 0.1 M BaCl₂
+C) 0.1 M Al₂(SO₄)₃
+D) 0.1 M glucose
+Answer: C [Explanation: Highest i value (i ≈ 5) → maximum depression.]
+
+Q: Henry's law is not applicable when
+A) pressure is very high
+B) gas is highly soluble
+C) temperature is very low
+D) all of these
+Answer: D [Explanation: All are limitations of Henry's law.]
+
+Q: Elevation in boiling point of a solution of 13.44 g CuCl₂ in 1 kg water (assuming complete ionisation, K_b = 0.52) is
+A) 0.16°C
+B) 0.05°C
+C) 0.10°C
+D) 0.20°C
+Answer: A [Explanation: m = 0.1; i = 3; ΔT_b = 3 × 0.52 × 0.1 = 0.156]
+
+Q: Assertion (A): Osmotic pressure is a colligative property.
+Reason (R): It depends on the number of solute particles and solvent particles.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: C [Explanation: It depends only on number of solute particles.]
+
+Q: A solution containing 0.1 mol non-volatile solute in 1 kg solvent has vapour pressure 0.99 atm. Vapour pressure of pure solvent is approximately
+A) 1.00 atm
+B) 0.98 atm
+C) 1.01 atm
+D) 0.90 atm
+Answer: A [Explanation: Relative lowering is very small ≈ 0.0018.]
+
+Q: Osmotic pressure of 0.1 M glucose solution at 27°C is
+A) 2.46 atm
+B) 4.92 atm
+C) 1.23 atm
+D) 0.246 atm
+Answer: A [Explanation: π = CRT = 0.1 × 0.082 × 300 = 2.46]
+
+Q: Which aqueous solution has the highest vapour pressure at the same temperature?
+A) 0.1 M glucose
+B) 0.1 M NaCl
+C) 0.1 M BaCl₂
+D) Pure water
+Answer: D [Explanation: Pure solvent has highest vapour pressure.]
+
+Q: For a solution showing positive deviation
+A) ΔH_mix < 0
+B) ΔV_mix < 0
+C) boiling point is lower than expected
+D) boiling point is higher than expected
+Answer: C [Explanation: Higher vapour pressure → lower boiling point.]
+
+Q: 1.2% (w/v) NaCl is isotonic with 7.2% (w/v) non-electrolyte. Molar mass of non-electrolyte is
+A) 58.5
+B) 180
+C) 342
+D) 60
+Answer: C [Explanation: Using i = 2 for NaCl → M ≈ 342]
+
+Q: Degree of dissociation of Ca(NO₃)₂ in dilute solution with i = 2.47 is
+A) 0.735
+B) 0.65
+C) 0.80
+D) 0.90
+Answer: A [Explanation: i = 1 + 2α = 2.47 → α = 0.735]
+
+Q: Which is not a colligative property?
+A) Osmotic pressure
+B) Elevation in boiling point
+C) Depression in freezing point
+D) Absolute lowering of vapour pressure
+Answer: D [Explanation: Relative lowering is colligative; absolute lowering is not.]
+
+Q: A solution of 10 g non-volatile solute in 180 g water has mole fraction of solute 0.01. Molar mass of solute is
+A) 100
+B) 50
+C) 200
+D) 10
+Answer: A [Explanation: x₂ = 0.01 = n₂/(n₂ + 10) → n₂ ≈ 0.101 → M ≈ 99]
+
+Q: Assertion (A): Camphor is used in cryoscopy.
+Reason (R): It has a high cryoscopic constant.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: High K_f allows accurate measurement of small depressions.]
+
+Q: Boiling point of pure water is 373 K. A 0.5 molal non-volatile solute solution will boil at (K_b = 0.52)
+A) 373.26 K
+B) 373.52 K
+C) 372.74 K
+D) 373.13 K
+Answer: A [Explanation: ΔT_b = 0.52 × 0.5 = 0.26]
+
+Q: Which aqueous solution is expected to have the lowest vapour pressure?
+A) 0.1 M NaCl
+B) 0.1 M urea
+C) 0.1 M BaCl₂
+D) 0.1 M AlCl₃
+Answer: D [Explanation: Highest number of particles (i = 4).]
+
+Q: In a binary ideal solution, mole fraction of A in liquid is 0.4. Vapour pressures of pure A and B are 100 and 200 torr. Mole fraction of A in vapour is
+A) 0.25
+B) 0.40
+C) 0.50
+D) 0.75
+Answer: A [Explanation: p_A = 40, p_B = 120, total = 160; y_A = 40/160 = 0.25]
+
+Q: 0.001 molal non-electrolyte solution has osmotic pressure 0.0246 atm at 27°C (density ≈ 1 g mL⁻¹). Van't Hoff factor is
+A) 1
+B) 0.1
+C) 10
+D) 0.01
+Answer: A [Explanation: Calculation confirms ideal behaviour (i ≈ 1).]
+
+Q: Which of the following solutions has the highest osmotic pressure?
+A) 0.1 M glucose
+B) 0.1 M NaCl
+C) 0.1 M BaCl₂
+D) 0.1 M urea
+Answer: C [Explanation: Highest i value.]
+
+Q: A 0.2 molal solution of a weak monobasic acid is 10% ionised. Freezing point is (K_f = 1.86)
+A) –0.372°C
+B) –0.409°C
+C) –0.335°C
+D) –0.223°C
+Answer: B [Explanation: i = 1.1; ΔT_f = 1.1 × 1.86 × 0.2 = 0.4092]
+
+Q: Which concentration unit is used in Henry's law expression?
+A) Molarity
+B) Molality
+C) Mole fraction
+D) Mass percentage
+Answer: C [Explanation: p = K_H × x]
+
+Q: For a non-ideal solution showing negative deviation
+A) ΔH_mix > 0
+B) ΔV_mix > 0
+C) A–B interactions stronger than A–A and B–B
+D) vapour pressure higher than expected
+Answer: C [Explanation: Stronger interactions cause negative deviation.]
+
+Q: The molality of a solution containing 18 g glucose in 250 g water is
+A) 0.4 m
+B) 0.2 m
+C) 0.8 m
+D) 0.1 m
+Answer: A [Explanation: n = 0.1; molality = 0.1/0.25 = 0.4]
+
+Q: Which of the following is correct for an ideal solution?
+A) ΔG_mix = 0
+B) ΔS_mix = 0
+C) ΔH_mix = 0
+D) ΔV_mix ≠ 0
+Answer: C [Explanation: Ideal solutions have ΔH_mix = 0 and ΔV_mix = 0.]
+
+Q: A solution of urea (M = 60) prepared by dissolving 6 g in 500 mL water has osmotic pressure at 27°C
+A) 4.92 atm
+B) 2.46 atm
+C) 9.84 atm
+D) 1.23 atm
+Answer: A [Explanation: C = 0.2 M; π = 0.2 × 0.082 × 300 = 4.92]
+
+Q: Which of the following pairs will show negative deviation?
+A) Ethanol + Acetone
+B) Chloroform + Acetone
+C) Benzene + Toluene
+D) Hexane + Heptane
+Answer: B [Explanation: H-bonding between chloroform and acetone.]
+
+Q: The vapour pressure of a pure liquid A is 0.80 atm. On mixing non-volatile B, vapour pressure becomes 0.60 atm. Mole fraction of B is
+A) 0.25
+B) 0.50
+C) 0.75
+D) 0.20
+Answer: A [Explanation: x_B = (0.80 – 0.60)/0.80 = 0.25]
+
+Q: Which of the following statements is correct?
+A) Colligative properties depend on nature of solute
+B) Colligative properties depend on number of solute particles
+C) Colligative properties depend on nature of solvent only
+D) Colligative properties are independent of temperature
+Answer: B [Explanation: By definition, colligative properties depend only on the number of particles.]
