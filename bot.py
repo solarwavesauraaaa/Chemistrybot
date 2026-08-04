@@ -31,7 +31,7 @@ def run_health_check_server():
 # --------------------------------------------------
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("🤖 NCERT Physics Bot Ready!\n\nCommands:\n/start_quiz - Start MCQ Test\n/leaderboard - Check Ranks")
+    await update.message.reply_text("🤖 NCERT Chemistry Bot Ready!\n\nCommands:\n/start_quiz - Start MCQ Test\n/leaderboard - Check Ranks")
 
 async def trigger_quiz_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Triggers quiz manually when /start_quiz command is used"""
@@ -99,7 +99,7 @@ def main():
 
     # --- DAILY 10:00 PM (22:00 IST) SCHEDULER (Native JobQueue) ---
     tz = pytz.timezone("Asia/Kolkata")
-    target_time = datetime.time(hour=22, minute=0, second=0, tzinfo=tz)
+    target_time = datetime.time(hour=21, minute=0, second=0, tzinfo=tz)
     
     # Schedule daily quiz
     if app.job_queue:
