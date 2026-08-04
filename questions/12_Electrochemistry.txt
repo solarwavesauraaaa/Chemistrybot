@@ -1,0 +1,319 @@
+Q: In a Daniell cell, the standard electrode potential is 1.1 V when concentration of Zn²⁺ and Cu²⁺ is 1 M. If the concentration of Zn²⁺ is increased, the cell potential
+A) increases
+B) decreases
+C) remains same
+D) becomes zero
+Answer: B [Explanation: From Nernst equation, higher [Zn²⁺] decreases E_cell.]
+
+Q: The standard reduction potential of Zn²⁺/Zn and Cu²⁺/Cu are –0.76 V and +0.34 V respectively. The standard emf of the cell Zn|Zn²⁺||Cu²⁺|Cu is
+A) 1.10 V
+B) –1.10 V
+C) 0.42 V
+D) –0.42 V
+Answer: A [Explanation: E°_cell = E°_cathode – E°_anode = 0.34 – (–0.76) = 1.10 V]
+
+Q: For the cell reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), the Nernst equation is
+A) E = E° – (0.059/2) log ([Zn²⁺]/[Cu²⁺])
+B) E = E° – (0.059/2) log ([Cu²⁺]/[Zn²⁺])
+C) E = E° + (0.059/2) log ([Zn²⁺]/[Cu²⁺])
+D) E = E° – 0.059 log ([Zn²⁺]/[Cu²⁺])
+Answer: A [Explanation: Standard Nernst form for n=2.]
+
+Q: The relationship between standard free energy change and equilibrium constant is
+A) ΔG° = –nFE°
+B) ΔG° = nFE°
+C) ΔG° = –RT ln K
+D) Both A and C
+Answer: D [Explanation: Both relations are valid; ΔG° = –nFE° = –RT ln K.]
+
+Q: The unit of conductivity is
+A) ohm cm
+B) ohm⁻¹ cm
+C) ohm⁻¹ cm⁻¹
+D) ohm cm⁻¹
+Answer: C [Explanation: κ = 1/ρ; unit is S cm⁻¹ or ohm⁻¹ cm⁻¹.]
+
+Q: Molar conductivity of a solution increases with
+A) increase in concentration
+B) decrease in concentration
+C) increase in temperature only
+D) remains constant
+Answer: B [Explanation: Λ_m increases with dilution due to increased degree of dissociation and mobility.]
+
+Q: Kohlrausch's law is used to calculate
+A) Λ_m° of weak electrolytes
+B) degree of dissociation
+C) solubility of sparingly soluble salts
+D) All of these
+Answer: D [Explanation: All are important applications of Kohlrausch's law.]
+
+Q: The molar conductivity of 0.1 M acetic acid is 5.0 S cm² mol⁻¹. If Λ_m° is 400 S cm² mol⁻¹, the degree of dissociation is
+A) 0.0125
+B) 0.025
+C) 0.05
+D) 0.10
+Answer: A [Explanation: α = Λ_m / Λ_m° = 5/400 = 0.0125]
+
+Q: In electrolysis of molten NaCl, the product at cathode is
+A) Cl₂
+B) Na
+C) H₂
+D) O₂
+Answer: B [Explanation: Na⁺ is reduced at cathode to sodium metal.]
+
+Q: Faraday's first law states that the mass of substance deposited is proportional to
+A) time
+B) current
+C) quantity of electricity
+D) concentration
+Answer: C [Explanation: m ∝ Q (charge).]
+
+Q: The charge required to deposit 1 mole of Al from Al³⁺ is
+A) 1 F
+B) 2 F
+C) 3 F
+D) 4 F
+Answer: C [Explanation: Al³⁺ + 3e⁻ → Al; 3 faradays required.]
+
+Q: Which of the following is a primary battery?
+A) Lead storage battery
+B) Nickel-cadmium battery
+C) Dry cell
+D) Fuel cell
+Answer: C [Explanation: Dry cell (Leclanché cell) is a primary battery (non-rechargeable).]
+
+Q: In a lead storage battery, during discharging, the electrolyte becomes
+A) more concentrated H₂SO₄
+B) dilute H₂SO₄
+C) pure water
+D) NaOH
+Answer: B [Explanation: H₂SO₄ is consumed and water is produced, diluting the acid.]
+
+Q: Corrosion of iron is an electrochemical process. The anode reaction is
+A) Fe → Fe²⁺ + 2e⁻
+B) Fe²⁺ + 2e⁻ → Fe
+C) O₂ + 4H⁺ + 4e⁻ → 2H₂O
+D) 2H₂O → O₂ + 4H⁺ + 4e⁻
+Answer: A [Explanation: Iron is oxidised at anodic sites.]
+
+Q: Assertion (A): Molar conductivity of strong electrolytes increases slowly with dilution.
+Reason (R): For strong electrolytes, degree of dissociation is already nearly 1.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Increase is mainly due to increase in ionic mobility, not dissociation.]
+
+Q: The standard electrode potential of a half-cell is measured by coupling it with
+A) hydrogen electrode
+B) calomel electrode
+C) silver-silver chloride electrode
+D) any of these
+Answer: A [Explanation: Standard hydrogen electrode is the primary reference.]
+
+Q: For the cell Pt, H₂ (1 atm)|H⁺ (a=1)||Cu²⁺ (1 M)|Cu, E°_cell is 0.34 V. The value of ΔG° is
+A) –65.6 kJ
+B) –32.8 kJ
+C) +65.6 kJ
+D) +32.8 kJ
+Answer: A [Explanation: ΔG° = –nFE° = –2 × 96500 × 0.34 ≈ –65.6 kJ]
+
+Q: The conductivity of 0.001 M acetic acid is 5 × 10⁻⁵ S cm⁻¹. The molar conductivity is
+A) 5 S cm² mol⁻¹
+B) 50 S cm² mol⁻¹
+C) 0.5 S cm² mol⁻¹
+D) 500 S cm² mol⁻¹
+Answer: B [Explanation: Λ_m = (κ × 1000)/C = (5×10⁻⁵ × 1000)/0.001 = 50]
+
+Q: Which of the following increases with dilution for a strong electrolyte?
+A) Conductivity
+B) Molar conductivity
+C) Both
+D) Neither
+Answer: B [Explanation: κ decreases, Λ_m increases with dilution.]
+
+Q: The number of faradays required to deposit 108 g of silver from AgNO₃ solution is
+A) 1
+B) 2
+C) 0.5
+D) 3
+Answer: A [Explanation: Ag⁺ + e⁻ → Ag; 1 mole (108 g) requires 1 F.]
+
+Q: In a galvanic cell, the anode is
+A) positive electrode
+B) negative electrode
+C) neutral
+D) depends on the cell
+Answer: B [Explanation: Oxidation occurs at anode, which is negative.]
+
+Q: The Nernst equation for the half-cell MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O is
+A) E = E° – (0.059/5) log ([Mn²⁺]/[MnO₄⁻][H⁺]⁸)
+B) E = E° – (0.059/5) log ([MnO₄⁻][H⁺]⁸/[Mn²⁺])
+C) E = E° + (0.059/5) log ([Mn²⁺]/[MnO₄⁻][H⁺]⁸)
+D) E = E° – (0.059) log ([Mn²⁺]/[MnO₄⁻][H⁺]⁸)
+Answer: A [Explanation: Correct Nernst form for the reduction half-cell.]
+
+Q: Kohlrausch's law can be used to determine
+A) Λ_m° of weak electrolyte
+B) solubility product of sparingly soluble salt
+C) degree of dissociation of weak electrolyte
+D) All of these
+Answer: D [Explanation: All are standard applications.]
+
+Q: The equivalent conductivity of 1.0 M H₂SO₄ is 100 S cm² eq⁻¹. Its molar conductivity is
+A) 100
+B) 200
+C) 50
+D) 400
+Answer: B [Explanation: Λ_m = Λ_eq × n-factor; n-factor for H₂SO₄ is 2.]
+
+Q: During electrolysis of aqueous CuSO₄ using copper electrodes, the mass of cathode
+A) increases
+B) decreases
+C) remains same
+D) first increases then decreases
+Answer: A [Explanation: Cu²⁺ is deposited on cathode.]
+
+Q: The standard reduction potential values are:
+Fe³⁺/Fe²⁺ = +0.77 V; I₂/I⁻ = +0.54 V; Cu²⁺/Cu = +0.34 V; Zn²⁺/Zn = –0.76 V
+The strongest reducing agent is
+A) Fe²⁺
+B) I⁻
+C) Cu
+D) Zn
+Answer: D [Explanation: Lowest (most negative) reduction potential → strongest reducing agent.]
+
+Q: Assertion (A): Electrolytic conduction decreases with increase in temperature.
+Reason (R): Ionic mobility decreases with increase in temperature.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: D [Explanation: Electrolytic conduction increases with temperature; ionic mobility increases.]
+
+Q: The quantity of electricity required to liberate 11.2 L of hydrogen at STP from acidified water is
+A) 1 F
+B) 2 F
+C) 0.5 F
+D) 96500 C
+Answer: A [Explanation: 2H⁺ + 2e⁻ → H₂; 1 mole (22.4 L) requires 2 F, so 11.2 L requires 1 F.]
+
+Q: In a fuel cell, the reactants are
+A) continuously supplied
+B) stored inside
+C) solid
+D) only metals
+Answer: A [Explanation: Fuel cells require continuous supply of fuel and oxidant.]
+
+Q: The cell constant of a conductivity cell is 0.5 cm⁻¹. The resistance of 0.1 M KCl solution is 200 ohm. The conductivity is
+A) 0.0025 S cm⁻¹
+B) 0.025 S cm⁻¹
+C) 0.25 S cm⁻¹
+D) 2.5 S cm⁻¹
+Answer: A [Explanation: κ = cell constant / R = 0.5 / 200 = 0.0025 S cm⁻¹]
+
+Q: Which of the following is secondary battery?
+A) Dry cell
+B) Mercury cell
+C) Lead storage battery
+D) All of these
+Answer: C [Explanation: Lead storage battery is rechargeable (secondary).]
+
+Q: The emf of a concentration cell consisting of two hydrogen electrodes with pressures P₁ and P₂ is
+A) (0.059/2) log (P₁/P₂)
+B) (0.059) log (P₁/P₂)
+C) (0.059/2) log (P₂/P₁)
+D) zero
+Answer: A [Explanation: Correct Nernst form for hydrogen concentration cell.]
+
+Q: Faraday's second law is related to
+A) mass deposited proportional to current
+B) mass deposited proportional to time
+C) equivalent masses of different substances
+D) charge of electron
+Answer: C [Explanation: Masses of different substances deposited by same charge are in ratio of their equivalent masses.]
+
+Q: The limiting molar conductivity of an electrolyte is the sum of limiting molar conductivities of
+A) cation and anion
+B) only cation
+C) only anion
+D) solvent
+Answer: A [Explanation: Kohlrausch's law of independent migration of ions.]
+
+Q: In the electrolysis of aqueous NaCl, the product at anode is
+A) Na
+B) H₂
+C) Cl₂
+D) O₂
+Answer: C [Explanation: Cl⁻ is preferentially oxidised over water under practical conditions.]
+
+Q: The standard Gibbs energy change for the cell reaction is related to E° by
+A) ΔG° = nFE°
+B) ΔG° = –nFE°
+C) ΔG° = nF/E°
+D) ΔG° = –nF/E°
+Answer: B [Explanation: Standard relation.]
+
+Q: A solution of 0.1 M NaCl has molar conductivity 100 S cm² mol⁻¹. The conductivity is
+A) 0.01 S cm⁻¹
+B) 0.001 S cm⁻¹
+C) 10 S cm⁻¹
+D) 1 S cm⁻¹
+Answer: A [Explanation: κ = (Λ_m × C)/1000 = (100 × 0.1)/1000 = 0.01]
+
+Q: Which of the following has the highest molar conductivity at infinite dilution?
+A) NaCl
+B) KCl
+C) HCl
+D) LiCl
+Answer: C [Explanation: H⁺ has exceptionally high ionic mobility.]
+
+Q: The number of electrons involved in the reduction of Cr₂O₇²⁻ to Cr³⁺ in acidic medium is
+A) 2
+B) 3
+C) 6
+D) 1
+Answer: C [Explanation: Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O]
+
+Q: In a galvanic cell, salt bridge is used to
+A) complete the circuit
+B) maintain electrical neutrality
+C) both A and B
+D) prevent mixing of solutions only
+Answer: C [Explanation: Salt bridge completes circuit and maintains charge balance.]
+
+Q: Assertion (A): The conductivity of metals decreases with increase in temperature.
+Reason (R): The ionic conductivity increases with increase in temperature.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: B [Explanation: Both statements are true but refer to different types of conduction.]
+
+Q: The mass of copper deposited by passing 2 A current for 30 minutes through CuSO₄ solution is (Atomic mass Cu = 63.5)
+A) 1.185 g
+B) 2.37 g
+C) 0.592 g
+D) 3.555 g
+Answer: A [Explanation: Q = 2 × 1800 = 3600 C; moles = 3600/(2×96500); mass ≈ 1.185 g]
+
+Q: Which of the following is not a fuel cell?
+A) H₂–O₂ fuel cell
+B) CH₄–O₂ fuel cell
+C) Dry cell
+D) Phosphoric acid fuel cell
+Answer: C [Explanation: Dry cell is a primary battery, not a fuel cell.]
+
+Q: The electrode potential of a half-cell becomes equal to standard electrode potential when
+A) concentration of ions is 1 M
+B) temperature is 25°C
+C) both A and B
+D) pressure is 1 atm only
+Answer: C [Explanation: Standard conditions require unit activity (≈1 M) and 298 K.]
+
+Q: The value of equilibrium constant for a cell reaction with E° = 0.59 V and n = 1 at 25°C is approximately
+A) 10¹⁰
+B) 10⁵
+C) 10²⁰
+D) 10
+Answer: A [Explanation: log K = nE°/0.059 ≈ 10; K ≈ 10¹⁰]
