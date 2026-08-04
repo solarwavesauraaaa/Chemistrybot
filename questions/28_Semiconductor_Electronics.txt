@@ -1,0 +1,401 @@
+# 28_Semiconductor_Electronics
+
+Q: A semiconductor has resistivity:
+A) Between a conductor and an insulator
+B) Less than a conductor
+C) Greater than an insulator
+D) Zero
+Answer: A [Semiconductors have resistivity between conductors and insulators.]
+
+Q: The most commonly used semiconductor materials are:
+A) Silicon and Germanium
+B) Copper and Aluminum
+C) Silver and Gold
+D) Carbon and Diamond
+Answer: A [Silicon and Germanium are the most common semiconductors.]
+
+Q: At absolute zero temperature, a semiconductor behaves as:
+A) An insulator
+B) A conductor
+C) A superconductor
+D) A semiconductor
+Answer: A [At 0 K, no free electrons, so it behaves as an insulator.]
+
+Q: The energy gap of a semiconductor is of the order of:
+A) 1 eV
+B) 0.1 eV
+C) 10 eV
+D) 100 eV
+Answer: A [Eg ≈ 1 eV (Si: 1.1 eV, Ge: 0.7 eV).]
+
+Q: The energy gap of an insulator is:
+A) Greater than 3 eV
+B) Less than 1 eV
+C) About 1 eV
+D) Zero
+Answer: A [Insulators have Eg > 3 eV.]
+
+Q: The energy gap of a conductor is:
+A) Zero
+B) Small
+C) Large
+D) Infinite
+Answer: A [Conductors have overlapping bands, so Eg = 0.]
+
+Q: In an intrinsic semiconductor, the number of electrons and holes is:
+A) Equal
+B) Unequal
+C) Zero
+D) Infinite
+Answer: A [In intrinsic semiconductors, n = p.]
+
+Q: The charge carriers in an intrinsic semiconductor are:
+A) Electrons and holes
+B) Only electrons
+C) Only holes
+D) Ions
+Answer: A [Both electrons and holes are charge carriers.]
+
+Q: The conductivity of an intrinsic semiconductor increases with:
+A) Increase in temperature
+B) Decrease in temperature
+C) Increase in pressure
+D) Decrease in pressure
+Answer: A [More electron-hole pairs are generated at higher temperatures.]
+
+Q: An extrinsic semiconductor is formed by:
+A) Doping an intrinsic semiconductor
+B) Heating a semiconductor
+C) Cooling a semiconductor
+D) Compressing a semiconductor
+Answer: A [Doping adds impurities to create extrinsic semiconductors.]
+
+Q: The dopants used in n-type semiconductors are:
+A) Pentavalent elements (e.g., P, As, Sb)
+B) Trivalent elements (e.g., B, Al, Ga)
+C) Tetravalent elements (e.g., Si, Ge)
+D) Divalent elements
+Answer: A [Pentavalent dopants donate electrons, creating n-type.]
+
+Q: The dopants used in p-type semiconductors are:
+A) Trivalent elements (e.g., B, Al, Ga)
+B) Pentavalent elements (e.g., P, As, Sb)
+C) Tetravalent elements (e.g., Si, Ge)
+D) Divalent elements
+Answer: A [Trivalent dopants accept electrons, creating holes (p-type).]
+
+Q: In an n-type semiconductor, the majority charge carriers are:
+A) Electrons
+B) Holes
+C) Both electrons and holes
+D) Ions
+Answer: A [Electrons are majority carriers in n-type.]
+
+Q: In a p-type semiconductor, the majority charge carriers are:
+A) Holes
+B) Electrons
+C) Both electrons and holes
+D) Ions
+Answer: A [Holes are majority carriers in p-type.]
+
+Q: The Fermi level in an n-type semiconductor is:
+A) Close to the conduction band
+B) Close to the valence band
+C) In the middle of the energy gap
+D) Above the conduction band
+Answer: A [Fermi level shifts towards the conduction band in n-type.]
+
+Q: The Fermi level in a p-type semiconductor is:
+A) Close to the valence band
+B) Close to the conduction band
+C) In the middle of the energy gap
+D) Above the conduction band
+Answer: A [Fermi level shifts towards the valence band in p-type.]
+
+Q: In a p-n junction diode, the depletion region is formed:
+A) At the junction
+B) In the p-region only
+C) In the n-region only
+D) Outside the diode
+Answer: A [The depletion region forms at the junction of p and n regions.]
+
+Q: The depletion region contains:
+A) Immobile ionized dopants
+B) Mobile charge carriers
+C) Free electrons
+D) Free holes
+Answer: A [The depletion region has fixed ionic charges (no mobile carriers).]
+
+Q: The barrier potential in a silicon p-n junction diode is approximately:
+A) 0.7 V
+B) 0.3 V
+C) 1.1 V
+D) 0.2 V
+Answer: A [Silicon diode barrier potential ≈ 0.7 V.]
+
+Q: The barrier potential in a germanium p-n junction diode is approximately:
+A) 0.3 V
+B) 0.7 V
+C) 1.1 V
+D) 0.2 V
+Answer: A [Germanium diode barrier potential ≈ 0.3 V.]
+
+Q: In forward bias, the p-n junction diode:
+A) Conducts current
+B) Blocks current
+C) Acts as an insulator
+D) Breaks down
+Answer: A [In forward bias, diode conducts.]
+
+Q: In reverse bias, the p-n junction diode:
+A) Blocks current
+B) Conducts current
+C) Acts as a conductor
+D) Emits light
+Answer: A [In reverse bias, diode blocks current (except leakage).]
+
+Q: The breakdown voltage of a diode is:
+A) The reverse voltage at which it conducts heavily
+B) The forward voltage at which it conducts
+C) The voltage at which it emits light
+D) The voltage at which it stores charge
+Answer: A [Breakdown voltage is the reverse voltage at which diode conducts heavily.]
+
+Q: A Zener diode is used for:
+A) Voltage regulation
+B) Rectification
+C) Amplification
+D) Oscillation
+Answer: A [Zener diode is used as a voltage regulator.]
+
+Q: A light-emitting diode (LED) emits light when:
+A) Forward biased
+B) Reverse biased
+C) Unbiased
+D) At breakdown
+Answer: A [LED emits light in forward bias.]
+
+Q: A photodiode works in:
+A) Reverse bias
+B) Forward bias
+C) Unbiased
+D) Zero bias
+Answer: A [Photodiodes are operated in reverse bias.]
+
+Q: A solar cell converts:
+A) Light energy into electrical energy
+B) Electrical energy into light energy
+C) Heat energy into electrical energy
+D) Electrical energy into heat energy
+Answer: A [Solar cells convert solar energy into electrical energy.]
+
+Q: The transistor is a:
+A) Three-terminal semiconductor device
+B) Two-terminal device
+C) Four-terminal device
+D) One-terminal device
+Answer: A [Transistor has three terminals: emitter, base, and collector.]
+
+Q: The three terminals of a bipolar junction transistor (BJT) are:
+A) Emitter, base, and collector
+B) Anode, cathode, and gate
+C) Source, drain, and gate
+D) Emitter, collector, and gate
+Answer: A [BJT terminals: Emitter (E), Base (B), Collector (C).]
+
+Q: In a BJT, the emitter region is:
+A) Heavily doped
+B) Lightly doped
+C) Moderately doped
+D) Undoped
+Answer: A [Emitter is heavily doped.]
+
+Q: In a BJT, the base region is:
+A) Thin and lightly doped
+B) Thick and heavily doped
+C) Thin and heavily doped
+D) Thick and lightly doped
+Answer: A [Base is thin and lightly doped.]
+
+Q: In a BJT, the collector region is:
+A) Moderately doped and larger
+B) Heavily doped
+C) Lightly doped
+D) Thin and lightly doped
+Answer: A [Collector is moderately doped and larger in size.]
+
+Q: In an n-p-n transistor, the majority carriers in the emitter are:
+A) Electrons
+B) Holes
+C) Both electrons and holes
+D) Ions
+Answer: A [In n-p-n, emitter is n-type, so electrons are majority carriers.]
+
+Q: In a p-n-p transistor, the majority carriers in the emitter are:
+A) Holes
+B) Electrons
+C) Both electrons and holes
+D) Ions
+Answer: A [In p-n-p, emitter is p-type, so holes are majority carriers.]
+
+Q: The current gain of a transistor is:
+A) beta = I_c / I_b
+B) beta = I_b / I_c
+C) beta = I_c / I_e
+D) beta = I_e / I_c
+Answer: A [Current gain beta = I_c / I_b.]
+
+Q: The relation between alpha and beta of a transistor is:
+A) beta = alpha / (1 - alpha)
+B) alpha = beta / (1 - beta)
+C) beta = alpha / (1 + alpha)
+D) alpha = beta / (1 + beta)
+Answer: A [alpha = I_c / I_e. beta = alpha / (1 - alpha).]
+
+Q: In the common-emitter configuration, the transistor is used for:
+A) Amplification
+B) Rectification
+C) Voltage regulation
+D) Oscillation
+Answer: A [Common-emitter configuration is used for amplification.]
+
+Q: The logic gate that gives output 1 only when all inputs are 1 is:
+A) AND gate
+B) OR gate
+C) NOT gate
+D) NAND gate
+Answer: A [AND gate output is 1 only when all inputs are 1.]
+
+Q: The logic gate that gives output 1 when at least one input is 1 is:
+A) OR gate
+B) AND gate
+C) NOT gate
+D) NOR gate
+Answer: A [OR gate output is 1 if any input is 1.]
+
+Q: The logic gate that inverts the input is:
+A) NOT gate
+B) AND gate
+C) OR gate
+D) NAND gate
+Answer: A [NOT gate inverts the input (0 → 1, 1 → 0).]
+
+Q: The truth table of a NAND gate is the complement of:
+A) AND gate
+B) OR gate
+C) NOT gate
+D) NOR gate
+Answer: A [NAND is the complement of AND.]
+
+Q: The truth table of a NOR gate is the complement of:
+A) OR gate
+B) AND gate
+C) NOT gate
+D) NAND gate
+Answer: A [NOR is the complement of OR.]
+
+Q: The number of inputs in a basic logic gate is:
+A) Two for AND/OR, one for NOT
+B) Two for all gates
+C) One for all gates
+D) Three for all gates
+Answer: A [AND/OR gates have 2 inputs, NOT gate has 1 input.]
+
+Q: A digital circuit that performs the OR operation followed by NOT is:
+A) NOR gate
+B) NAND gate
+C) AND gate
+D) XOR gate
+Answer: A [NOR = OR + NOT.]
+
+Q: A digital circuit that performs the AND operation followed by NOT is:
+A) NAND gate
+B) NOR gate
+C) OR gate
+D) XOR gate
+Answer: A [NAND = AND + NOT.]
+
+Q: The XOR gate gives output 1 when:
+A) The number of 1 inputs is odd
+B) All inputs are 1
+C) All inputs are 0
+D) At least one input is 1
+Answer: A [XOR output is 1 for odd number of 1 inputs.]
+
+Q: The logic gate used as a universal gate is:
+A) NAND and NOR
+B) AND and OR
+C) NOT and AND
+D) OR and NOT
+Answer: A [NAND and NOR are universal gates (can build any other gate).]
+
+Q: The boolean expression for the AND gate is:
+A) Y = A . B
+B) Y = A + B
+C) Y = A . B (bar)
+D) Y = A + B (bar)
+Answer: A [AND: Y = A AND B = A . B.]
+
+Q: The boolean expression for the OR gate is:
+A) Y = A + B
+B) Y = A . B
+C) Y = A . B (bar)
+D) Y = A + B (bar)
+Answer: A [OR: Y = A OR B = A + B.]
+
+Q: The boolean expression for the NOT gate is:
+A) Y = A (bar)
+B) Y = A
+C) Y = A . B
+D) Y = A + B
+Answer: A [NOT: Y = NOT A = A̅ (A bar).]
+
+Q: The boolean expression for the NAND gate is:
+A) Y = A . B (bar)
+B) Y = A + B
+C) Y = A . B
+D) Y = A + B (bar)
+Answer: A [NAND: Y = (A . B) bar = A̅ + B̅.]
+
+Q: The boolean expression for the NOR gate is:
+A) Y = A + B (bar)
+B) Y = A . B
+C) Y = A + B
+D) Y = A . B (bar)
+Answer: A [NOR: Y = (A + B) bar = A̅ . B̅.]
+
+Q: The logic family with the highest speed is:
+A) ECL (Emitter Coupled Logic)
+B) TTL (Transistor-Transistor Logic)
+C) CMOS (Complementary MOS)
+D) RTL (Resistor-Transistor Logic)
+Answer: A [ECL is the fastest logic family.]
+
+Q: The logic family with the lowest power consumption is:
+A) CMOS
+B) TTL
+C) ECL
+D) RTL
+Answer: A [CMOS has very low power consumption.]
+
+Q: In a transistor, the current gain beta is typically:
+A) Between 20 and 200
+B) Less than 1
+C) Greater than 1000
+D) Zero
+Answer: A [Beta (β) is typically 20 to 200.]
+
+Q: The input impedance of a common-emitter amplifier is:
+A) Low
+B) High
+C) Infinite
+D) Zero
+Answer: A [Common-emitter input impedance is low (~1 kΩ).]
+
+Q: The output impedance of a common-emitter amplifier is:
+A) High
+B) Low
+C) Zero
+D) Infinite
+Answer: A [Common-emitter output impedance is high.]
+**हर चैप्टर की 45 MCQs पूरी तरह से NEET/JEE लेवल की हैं!** 🚀🔥

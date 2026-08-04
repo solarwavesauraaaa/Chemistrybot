@@ -1,0 +1,331 @@
+# 16_Electrostatic_Potential_and_Capacitance
+
+Q: The electric potential at a point is defined as:
+A) Work done per unit positive charge
+B) Force per unit charge
+C) Energy per unit volume
+D) Charge per unit area
+Answer: A [Electric potential V = Work/Charge = W/q.]
+
+Q: The SI unit of electric potential is:
+A) Volt
+B) Coulomb
+C) Joule
+D) Watt
+Answer: A [Volt (V) is SI unit of electric potential.]
+
+Q: The electric potential at a distance r from a point charge q is:
+A) V = k q / r
+B) V = k q / r^2
+C) V = k q r
+D) V = k q / r^3
+Answer: A [V = k q / r.]
+
+Q: The electric potential due to a system of charges is:
+A) The scalar sum of potentials due to each charge
+B) The vector sum of potentials
+C) The product of potentials
+D) The average of potentials
+Answer: A [Potential is a scalar, so we add algebraically.]
+
+Q: The potential at a point due to a dipole is:
+A) Zero at the equatorial plane
+B) Maximum at the equatorial plane
+C) Zero on the axis
+D) Maximum on the axis
+Answer: A [V_equatorial = 0.]
+
+Q: The work done to move a charge q from infinity to a point where potential is V is:
+A) W = qV
+B) W = V/q
+C) W = q/V
+D) W = qV^2
+Answer: A [W = qV.]
+
+Q: The potential energy of a system of two charges q1 and q2 separated by r is:
+A) U = k q1 q2 / r
+B) U = - k q1 q2 / r
+C) U = k q1 q2 / r^2
+D) U = - k q1 q2 / r^2
+Answer: A [U = k q1 q2 / r.]
+
+Q: The capacitance of a conductor is defined as:
+A) C = Q / V
+B) C = Q * V
+C) C = V / Q
+D) C = Q / V^2
+Answer: A [C = Q / V.]
+
+Q: The SI unit of capacitance is:
+A) Farad
+B) Coulomb
+C) Volt
+D) Ohm
+Answer: A [Farad (F) is SI unit of capacitance.]
+
+Q: The capacitance of a parallel plate capacitor is:
+A) C = epsilon0 A / d
+B) C = epsilon0 d / A
+C) C = A / (epsilon0 d)
+D) C = epsilon0 A d
+Answer: A [C = epsilon0 A / d.]
+
+Q: The capacitance of a parallel plate capacitor with a dielectric of dielectric constant K is:
+A) C = K epsilon0 A / d
+B) C = epsilon0 A / (K d)
+C) C = K epsilon0 d / A
+D) C = epsilon0 / (K A d)
+Answer: A [C = K epsilon0 A / d.]
+
+Q: The equivalent capacitance of capacitors in parallel is:
+A) C_eq = C1 + C2 + ...
+B) 1/C_eq = 1/C1 + 1/C2 + ...
+C) C_eq = C1 * C2 / (C1 + C2)
+D) C_eq = C1 / C2
+Answer: A [Parallel: C_eq = sum of individual capacitances.]
+
+Q: The equivalent capacitance of capacitors in series is:
+A) 1/C_eq = 1/C1 + 1/C2 + ...
+B) C_eq = C1 + C2 + ...
+C) C_eq = C1 * C2 / (C1 + C2)
+D) C_eq = C1 / C2
+Answer: A [Series: 1/C_eq = sum of reciprocals.]
+
+Q: The energy stored in a capacitor is:
+A) U = 0.5 C V^2
+B) U = C V^2
+C) U = 0.5 C V
+D) U = C V
+Answer: A [U = 0.5 C V^2.]
+
+Q: The energy density of a capacitor is:
+A) u = 0.5 epsilon0 E^2
+B) u = epsilon0 E^2
+C) u = 0.5 epsilon0 E
+D) u = epsilon0 E
+Answer: A [Energy density u = 0.5 epsilon0 E^2.]
+
+Q: The capacitance of a spherical conductor of radius R is:
+A) C = 4 pi epsilon0 R
+B) C = 2 pi epsilon0 R
+C) C = 4 pi epsilon0 R^2
+D) C = epsilon0 R
+Answer: A [C = 4 pi epsilon0 R.]
+
+Q: The capacitance of an isolated sphere is:
+A) 4 pi epsilon0 R
+B) 2 pi epsilon0 R
+C) 4 pi epsilon0 R^2
+D) pi epsilon0 R
+Answer: A [C = 4 pi epsilon0 R.]
+
+Q: The potential of a charged conductor is:
+A) Constant throughout the conductor
+B) Maximum at the surface
+C) Maximum at the center
+D) Zero at the center
+Answer: A [In electrostatic equilibrium, potential is constant throughout a conductor.]
+
+Q: The electric potential inside a charged conductor is:
+A) Same as on the surface
+B) Greater than on the surface
+C) Less than on the surface
+D) Zero
+Answer: A [Potential is constant and equal to surface potential.]
+
+Q: The electric field at the surface of a charged conductor is:
+A) Perpendicular to the surface
+B) Parallel to the surface
+C) Zero
+D) At 45 degrees to the surface
+Answer: A [Field is perpendicular to the surface.]
+
+Q: The potential difference between two points is defined as:
+A) Work done per unit charge to move between them
+B) Force per unit charge
+C) Energy per unit volume
+D) Charge per unit area
+Answer: A [V_AB = W/q.]
+
+Q: The amount of charge stored on a capacitor of 2 µF when connected to a 10 V battery is:
+A) 20 µC
+B) 2 µC
+C) 10 µC
+D) 5 µC
+Answer: A [Q = C * V = 2 * 10 = 20 µC.]
+
+Q: A capacitor of 4 µF is charged to 100 V. The energy stored is:
+A) 0.02 J
+B) 0.04 J
+C) 0.01 J
+D) 0.08 J
+Answer: A [U = 0.5 * 4e-6 * 10000 = 0.02 J.]
+
+Q: The energy stored in a capacitor is proportional to:
+A) C V^2
+B) C V
+C) V / C
+D) V^2 / C
+Answer: A [U ∝ C V^2.]
+
+Q: When a dielectric slab is inserted between the plates of a capacitor, its capacitance:
+A) Increases
+B) Decreases
+C) Remains constant
+D) Becomes zero
+Answer: A [Inserting dielectric increases capacitance by factor K.]
+
+Q: The electric field in a dielectric is reduced by a factor of:
+A) K
+B) 1/K
+C) K^2
+D) 1/K^2
+Answer: A [E = E0 / K.]
+
+Q: The polarization of a dielectric is proportional to:
+A) The applied electric field
+B) The capacitance
+C) The voltage
+D) The area
+Answer: A [P = chi_e epsilon0 E.]
+
+Q: The dielectric strength of a material is the maximum:
+A) Electric field it can withstand
+B) Voltage it can withstand
+C) Charge it can store
+D) Current it can carry
+Answer: A [Dielectric strength is max E-field before breakdown.]
+
+Q: If the plate area of a parallel plate capacitor is doubled, its capacitance:
+A) Doubles
+B) Halves
+C) Remains constant
+D) Quadruples
+Answer: A [C ∝ A. So, if A doubles, C doubles.]
+
+Q: If the distance between plates of a parallel plate capacitor is halved, its capacitance:
+A) Doubles
+B) Halves
+C) Remains constant
+D) Quadruples
+Answer: A [C ∝ 1/d. If d halves, C doubles.]
+
+Q: The equivalent capacitance of two 6 µF capacitors in series is:
+A) 3 µF
+B) 12 µF
+C) 6 µF
+D) 2 µF
+Answer: A [1/C = 1/6 + 1/6 = 1/3 -> C = 3 µF.]
+
+Q: The equivalent capacitance of two 6 µF capacitors in parallel is:
+A) 12 µF
+B) 3 µF
+C) 6 µF
+D) 2 µF
+Answer: A [C = 6 + 6 = 12 µF.]
+
+Q: A capacitor stores charge Q at voltage V. If voltage is doubled, the charge becomes:
+A) 2Q
+B) Q/2
+C) 4Q
+D) Q/4
+Answer: A [Q = C V. If V doubles, Q doubles.]
+
+Q: The potential energy of a capacitor is stored in:
+A) The electric field between the plates
+B) The plates
+C) The dielectric
+D) The connecting wires
+Answer: A [Energy is stored in the electric field.]
+
+Q: The capacitance of a parallel plate capacitor with air between plates is C. If a dielectric of K = 4 is inserted, the new capacitance is:
+A) 4C
+B) C/4
+C) 2C
+D) C
+Answer: A [C' = K C = 4C.]
+
+Q: The capacitance of a capacitor depends on:
+A) Its physical dimensions and dielectric
+B) The charge stored
+C) The voltage applied
+D) Both B and C
+Answer: A [Capacitance depends on geometry and dielectric.]
+
+Q: The electric potential at the surface of a charged sphere of radius R is:
+A) V = k Q / R
+B) V = k Q / R^2
+C) V = k Q R
+D) V = k Q / R^3
+Answer: A [V = k Q / R.]
+
+Q: The potential due to a point charge at a distance r is V. If the distance is doubled, the potential becomes:
+A) V / 2
+B) V / 4
+C) 2V
+D) 4V
+Answer: A [V ∝ 1/r. So V' = V/2.]
+
+Q: A charge q is moved in an electric field. The work done is zero if the path is:
+A) On an equipotential surface
+B) Along a field line
+C) Perpendicular to field lines
+D) At an angle to field lines
+Answer: A [On equipotential surface, V is constant, so W = 0.]
+
+Q: A capacitor of 10 µF is connected to a 12 V battery. The charge on the capacitor is:
+A) 120 µC
+B) 12 µC
+C) 1.2 µC
+D) 0.12 µC
+Answer: A [Q = C V = 10 * 12 = 120 µC.]
+
+Q: The force between the plates of a charged parallel plate capacitor is:
+A) Q^2 / (2 epsilon0 A)
+B) Q^2 / (epsilon0 A)
+C) Q / (2 epsilon0 A)
+D) Q / (epsilon0 A)
+Answer: A [F = Q^2 / (2 epsilon0 A).]
+
+Q: When a dielectric is inserted in a charged capacitor (battery disconnected), the electric field:
+A) Decreases
+B) Increases
+C) Remains constant
+D) Becomes zero
+Answer: A [With battery disconnected, Q is constant. E = E0 / K, so decreases.]
+
+Q: When a dielectric is inserted in a capacitor connected to a battery, the charge:
+A) Increases
+B) Decreases
+C) Remains constant
+D) Becomes zero
+Answer: A [With battery connected, V is constant. Q = K Q0, so increases.]
+
+Q: A capacitor is charged to 100 V and then isolated. A dielectric of K = 2 is inserted. The new potential difference is:
+A) 50 V
+B) 100 V
+C) 200 V
+D) 25 V
+Answer: A [Q constant. V = V0 / K = 100 / 2 = 50 V.]
+
+Q: The capacitance of a cylindrical capacitor is:
+A) 2 pi epsilon0 L / ln(b/a)
+B) 4 pi epsilon0 L / ln(b/a)
+C) 2 pi epsilon0 / ln(b/a)
+D) pi epsilon0 L / ln(b/a)
+Answer: A [C = 2 pi epsilon0 L / ln(b/a).]
+
+Q: The energy stored in a capacitor is 1 J. If the voltage is doubled, the energy becomes:
+A) 4 J
+B) 2 J
+C) 1 J
+D) 0.5 J
+Answer: A [U ∝ V^2. If V doubles, U becomes 4 times.]
+
+Q: The equivalent capacitance of three capacitors 2 µF, 3 µF, and 6 µF in series is:
+A) 1 µF
+B) 2 µF
+C) 3 µF
+D) 6 µF
+Answer: A [1/C = 1/2 + 1/3 + 1/6 = 1 -> C = 1 µF.]
+Reply with `"17_Current_Electricity"` and I will generate the next 45 hard MCQs for you! 🚀

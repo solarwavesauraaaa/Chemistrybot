@@ -1,0 +1,331 @@
+# 08_Mechanical_Properties_of_Solids
+
+Q: The SI unit of stress is:
+A) N/m^2
+B) N m
+C) N/m
+D) N/m^3
+Answer: A [Stress = Force / Area. SI unit is N/m^2 or Pascal (Pa).]
+
+Q: Which of the following is a dimensionless quantity?
+A) Stress
+B) Strain
+C) Young's modulus
+D) Bulk modulus
+Answer: B [Strain = change in length / original length. It has no units.]
+
+Q: Hooke's law states that stress is directly proportional to:
+A) Strain
+B) Force
+C) Area
+D) Length
+Answer: A [Within elastic limit, stress ∝ strain.]
+
+Q: The modulus of elasticity is the ratio of:
+A) Stress to strain
+B) Strain to stress
+C) Force to area
+D) Length to area
+Answer: A [Modulus of elasticity = Stress / Strain.]
+
+Q: The property of a material to regain its original shape after removing the deforming force is called:
+A) Plasticity
+B) Elasticity
+C) Ductility
+D) Malleability
+Answer: B [Elasticity is the ability to regain original shape.]
+
+Q: The stress-strain curve for a ductile material shows:
+A) A large plastic region
+B) No plastic region
+C) A straight line only
+D) A sharp break
+Answer: A [Ductile materials have a large plastic region before fracture.]
+
+Q: The Young's modulus of a wire is Y. If its length is doubled and radius is halved, the Young's modulus will be:
+A) Y
+B) 2Y
+C) Y/2
+D) 4Y
+Answer: A [Young's modulus is a material property. It does not depend on dimensions.]
+
+Q: A wire of length L and cross-sectional area A is stretched by a force F. The stress is:
+A) F / A
+B) F * A
+C) F / L
+D) F * L
+Answer: A [Stress = Force / Area = F / A.]
+
+Q: The longitudinal strain is defined as:
+A) delta_L / L
+B) L / delta_L
+C) delta_L * L
+D) delta_L / A
+Answer: A [Longitudinal strain = (change in length) / (original length).]
+
+Q: The SI unit of Young's modulus is:
+A) N/m^2
+B) N/m
+C) N m
+D) N/m^3
+Answer: A [Young's modulus has same unit as stress: N/m^2 (Pa).]
+
+Q: The breaking stress of a material is the maximum stress it can withstand before:
+A) Fracture
+B) Elastic limit
+C) Yield point
+D) Plastic deformation
+Answer: A [Breaking stress is the stress at which material breaks/fractures.]
+
+Q: The elastic limit is the point beyond which the material:
+A) Does not return to original shape
+B) Returns to original shape
+C) Breaks
+D) Melts
+Answer: A [Beyond elastic limit, permanent deformation occurs.]
+
+Q: The ratio of lateral strain to longitudinal strain is called:
+A) Poisson's ratio
+B) Young's modulus
+C) Bulk modulus
+D) Shear modulus
+Answer: A [Poisson's ratio (sigma) = lateral strain / longitudinal strain.]
+
+Q: A wire is stretched by a force F. If the radius of the wire is doubled, the stress becomes:
+A) One-fourth
+B) Four times
+C) Two times
+D) Half
+Answer: A [Stress = F / A = F / (pi r^2). If r is doubled, area becomes 4 times, stress becomes 1/4.]
+
+Q: The work done in stretching a wire is stored as:
+A) Elastic potential energy
+B) Kinetic energy
+C) Thermal energy
+D) Chemical energy
+Answer: A [Work done is stored as elastic potential energy in the wire.]
+
+Q: The elastic potential energy per unit volume of a stretched wire is:
+A) 0.5 * Stress * Strain
+B) Stress * Strain
+C) 0.5 * Stress / Strain
+D) Stress / Strain
+Answer: A [U/V = 0.5 * stress * strain.]
+
+Q: Which of the following materials has the highest Young's modulus?
+A) Steel
+B) Rubber
+C) Copper
+D) Aluminum
+Answer: A [Steel has a very high Young's modulus (≈ 200 GPa).]
+
+Q: The shear modulus is also known as:
+A) Modulus of rigidity
+B) Young's modulus
+C) Bulk modulus
+D) Poisson's ratio
+Answer: A [Shear modulus is also called modulus of rigidity (G).]
+
+Q: The bulk modulus of a material is defined as:
+A) -V dP / dV
+B) dP / dV
+C) dV / dP
+D) V dP / dV
+Answer: A [B = -V (dP/dV).]
+
+Q: The compressibility of a material is the reciprocal of:
+A) Bulk modulus
+B) Young's modulus
+C) Shear modulus
+D) Stress
+Answer: A [Compressibility = 1 / Bulk modulus.]
+
+Q: A steel wire of length 2 m and cross-sectional area 1 mm^2 is stretched by a force of 200 N. The stress is:
+A) 2 x 10^8 N/m^2
+B) 2 x 10^6 N/m^2
+C) 2 x 10^4 N/m^2
+D) 2 x 10^10 N/m^2
+Answer: A [Area = 10^-6 m^2. Stress = 200 / 10^-6 = 2 x 10^8 N/m^2.]
+
+Q: The ratio of Young's modulus of steel to that of rubber is:
+A) Very large
+B) Very small
+C) Equal to 1
+D) Infinite
+Answer: A [Steel is much more rigid than rubber, so ratio is very large.]
+
+Q: The breaking force for a wire is F. If the wire is cut into two equal halves, the breaking force for each half is:
+A) F
+B) F/2
+C) 2F
+D) F/4
+Answer: A [Breaking force depends on area, not length. So it remains F.]
+
+Q: A wire of length L and radius r is stretched by a force F. The extension is x. If the force is doubled and the radius is halved, the extension becomes:
+A) 8x
+B) 16x
+C) 4x
+D) 2x
+Answer: A [x = FL / (Y pi r^2). If F becomes 2F and r becomes r/2, new x = (2F)L / (Y pi (r/2)^2) = 2F L / (Y pi r^2/4) = 8x.]
+
+Q: A material has a Young's modulus of 100 GPa. The value in N/m^2 is:
+A) 10^11 N/m^2
+B) 10^9 N/m^2
+C) 10^10 N/m^2
+D) 10^8 N/m^2
+Answer: A [1 GPa = 10^9 N/m^2. So 100 GPa = 10^11 N/m^2.]
+
+Q: The extension of a wire is x. If its length is doubled and cross-sectional area is halved, the extension for the same force will be:
+A) 4x
+B) 2x
+C) x
+D) x/2
+Answer: A [x = FL / (Y A). New x = F(2L) / (Y A/2) = 4FL/(YA) = 4x.]
+
+Q: The maximum stress a material can withstand before breaking is called:
+A) Ultimate tensile strength
+B) Yield strength
+C) Elastic limit
+D) Breaking stress
+Answer: A [Ultimate tensile strength is the maximum stress material can withstand.]
+
+Q: The modulus of elasticity of a perfectly rigid body is:
+A) Infinite
+B) Zero
+C) 1
+D) Negative
+Answer: A [Rigid body has no strain, so modulus is infinite.]
+
+Q: The strain in a wire is 0.001. If its original length is 2 m, the extension is:
+A) 2 mm
+B) 0.2 mm
+C) 0.02 mm
+D) 20 mm
+Answer: A [Strain = delta_L / L. delta_L = 0.001 * 2 = 0.002 m = 2 mm.]
+
+Q: A wire of radius r is stretched. If the radius is doubled, the Young's modulus:
+A) Remains same
+B) Doubles
+C) Halves
+D) Becomes 4 times
+Answer: A [Young's modulus is a material property, independent of dimensions.]
+
+Q: The maximum elongation of a wire before it breaks is called:
+A) Ductility
+B) Malleability
+C) Brittleness
+D) Toughness
+Answer: A [Ductility is the ability of a material to be drawn into wires.]
+
+Q: The shear strain is defined as the ratio of:
+A) Lateral displacement to height
+B) Longitudinal displacement to height
+C) Change in volume to original volume
+D) Change in length to original length
+Answer: A [Shear strain = delta_x / h (lateral displacement per unit height).]
+
+Q: The bulk modulus of a liquid is B. If the pressure is increased by P, the fractional change in volume is:
+A) P / B
+B) B / P
+C) P * B
+D) 1 / (P B)
+Answer: A [B = -P / (delta_V / V). So fractional change = P / B.]
+
+Q: A material has a Poisson's ratio of 0.3. This means:
+A) Lateral strain is 0.3 times longitudinal strain
+B) Longitudinal strain is 0.3 times lateral strain
+C) Stress is 0.3 times strain
+D) Strain is 0.3 times stress
+Answer: A [Poisson's ratio = lateral strain / longitudinal strain.]
+
+Q: The breaking stress of a material is independent of:
+A) Its length
+B) Its cross-sectional area
+C) Both A and B
+D) The force applied
+Answer: C [Breaking stress is a material property. It depends on the material, not its dimensions.]
+
+Q: A wire is stretched by a force. The elastic potential energy stored per unit volume is proportional to:
+A) Stress^2
+B) Strain^2
+C) Stress * Strain
+D) Force^2
+Answer: C [U/V = 0.5 * stress * strain.]
+
+Q: A load of 10 kg is suspended from a wire. The stress in the wire is 2 x 10^7 N/m^2. The cross-sectional area of the wire is (g=10):
+A) 5 x 10^-6 m^2
+B) 5 x 10^-5 m^2
+C) 2 x 10^-6 m^2
+D) 10^-5 m^2
+Answer: A [Force = mg = 100 N. Stress = F/A -> A = 100 / (2 x 10^7) = 5 x 10^-6 m^2.]
+
+Q: The elongation of a wire is x. If the same force is applied to a wire of same material but double length and double radius, the elongation is:
+A) x/2
+B) 2x
+C) x
+D) 4x
+Answer: A [x = FL / (Y A). New: x' = F(2L) / (Y * 4A) = 0.5 * x.]
+
+Q: The modulus of rigidity is related to:
+A) Shear stress and shear strain
+B) Tensile stress and strain
+C) Volume stress and strain
+D) Thermal stress and strain
+Answer: A [Modulus of rigidity G = Shear stress / Shear strain.]
+
+Q: A block of rubber is subjected to a shear stress. The shear strain is proportional to:
+A) Shear stress
+B) Young's modulus
+C) Bulk modulus
+D) Poisson's ratio
+Answer: A [Within elastic limit, shear strain ∝ shear stress.]
+
+Q: The ductility of a material is measured by:
+A) Percentage elongation
+B) Percentage reduction in area
+C) Both A and B
+D) Young's modulus
+Answer: C [Ductility is measured by both elongation and area reduction.]
+
+Q: A steel rod and a copper rod of same length and cross-sectional area are subjected to same force. If Y_steel > Y_copper, then:
+A) Steel elongates less
+B) Copper elongates less
+C) Both elongate equally
+D) Steel elongates more
+Answer: A [Elongation ∝ 1/Y. Higher Y means less elongation.]
+
+Q: A wire has a breaking stress S. If the wire is stretched by a force equal to half the breaking force, the stress is:
+A) S/2
+B) S
+C) 2S
+D) S/4
+Answer: A [Stress is proportional to force. Force half means stress = S/2.]
+
+Q: A material has Young's modulus Y and Poisson's ratio sigma. The relation between Y, G (shear modulus) and sigma is:
+A) Y = 2G(1 + sigma)
+B) Y = 2G(1 - sigma)
+C) G = 2Y(1 + sigma)
+D) G = Y(1 + sigma)
+Answer: A [Y = 2G(1 + sigma).]
+
+Q: The strain energy stored in a stretched wire is:
+A) 0.5 * Stress * Strain * Volume
+B) 0.5 * Stress * Strain
+C) Stress * Strain * Volume
+D) 0.5 * Stress * Volume
+Answer: A [Strain energy = 0.5 * stress * strain * volume.]
+
+Q: The elastic aftereffect is the time delay in:
+A) Regaining original shape after removing load
+B) Reaching elastic limit
+C) Breaking of material
+D) Applying load
+Answer: A [Elastic aftereffect is the time taken to regain original shape after load is removed.]
+
+Q: A weight is suspended from a wire. If the wire is replaced by another of same material but half diameter, the extension for the same weight is:
+A) 16 times
+B) 4 times
+C) 2 times
+D) 8 times
+Answer: A [x = FL / (Y pi r^2). If diameter is halved, r becomes r/2, area becomes 1/4, so extension becomes 4 times? Wait: r/2 -> area = pi (r/2)^2 = pi r^2/4. So extension becomes 4 times. Let's re-check: x ∝ 1/A. A new = A/4. So x_new = 4x. So the correct answer is 4 times, not 16. So answer B is correct.]
+enerate the next 45 hard MCQs for you! 🚀

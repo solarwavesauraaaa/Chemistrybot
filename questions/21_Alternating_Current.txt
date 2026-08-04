@@ -1,0 +1,354 @@
+# 21_Alternating_Current
+
+Bhai, लीजिए **"21_Alternating_Current"** की 45 कठिन MCQs तैयार हैं। 
+
+Q: An alternating current varies with time as:
+A) I = I0 sin(omega t)
+B) I = I0 cos(omega t)
+C) Both A and B
+D) I = I0 tan(omega t)
+Answer: C [AC can be represented by sine or cosine functions.]
+
+Q: The peak value of an AC voltage is 200 V. Its RMS value is:
+A) 141.4 V
+B) 200 V
+C) 100 V
+D) 282.8 V
+Answer: A [V_rms = V0 / sqrt(2) = 200 / 1.414 ≈ 141.4 V.]
+
+Q: The RMS value of an AC current is:
+A) I_rms = I0 / sqrt(2)
+B) I_rms = I0 * sqrt(2)
+C) I_rms = I0 / 2
+D) I_rms = I0 * 2
+Answer: A [I_rms = I0 / sqrt(2).]
+
+Q: The average value of a full-wave rectified AC is:
+A) 2 V0 / pi
+B) V0 / pi
+C) V0 / 2
+D) 2 V0
+Answer: A [Average value = 2 V0 / pi.]
+
+Q: The average value of a half-wave rectified AC is:
+A) V0 / pi
+B) 2 V0 / pi
+C) V0 / 2
+D) V0
+Answer: A [Half-wave average = V0 / pi.]
+
+Q: The frequency of AC in India is:
+A) 50 Hz
+B) 60 Hz
+C) 100 Hz
+D) 220 Hz
+Answer: A [Indian AC frequency is 50 Hz.]
+
+Q: The voltage in India is:
+A) 220 V
+B) 110 V
+C) 230 V
+D) 240 V
+Answer: A [Indian domestic supply is 220 V RMS.]
+
+Q: In a purely resistive AC circuit, the phase difference between voltage and current is:
+A) 0°
+B) 90°
+C) 180°
+D) 45°
+Answer: A [In resistor, V and I are in phase.]
+
+Q: In a purely inductive AC circuit, the phase difference between voltage and current is:
+A) 90°
+B) 0°
+C) 180°
+D) 45°
+Answer: A [Voltage leads current by 90° in inductor.]
+
+Q: In a purely capacitive AC circuit, the phase difference between voltage and current is:
+A) 90°
+B) 0°
+C) 180°
+D) 45°
+Answer: A [Current leads voltage by 90° in capacitor.]
+
+Q: The inductive reactance is:
+A) X_L = omega L
+B) X_L = 1 / omega L
+C) X_L = omega / L
+D) X_L = L / omega
+Answer: A [X_L = omega L.]
+
+Q: The capacitive reactance is:
+A) X_C = 1 / (omega C)
+B) X_C = omega C
+C) X_C = C / omega
+D) X_C = omega / C
+Answer: A [X_C = 1 / (omega C).]
+
+Q: The impedance of an AC circuit is:
+A) Z = sqrt(R^2 + (X_L - X_C)^2)
+B) Z = R + X_L + X_C
+C) Z = sqrt(R^2 + X_L^2 + X_C^2)
+D) Z = R + X_L - X_C
+Answer: A [Z = sqrt(R^2 + (X_L - X_C)^2).]
+
+Q: The power factor of an AC circuit is:
+A) cos(phi) = R / Z
+B) cos(phi) = Z / R
+C) cos(phi) = X_L / Z
+D) cos(phi) = X_C / Z
+Answer: A [Power factor = R / Z.]
+
+Q: The average power in an AC circuit is:
+A) P = V_rms I_rms cos(phi)
+B) P = V_rms I_rms
+C) P = V_rms I_rms sin(phi)
+D) P = V0 I0
+Answer: A [P = V_rms I_rms cos(phi).]
+
+Q: The power factor of a purely resistive circuit is:
+A) 1
+B) 0
+C) 0.5
+D) 0.707
+Answer: A [cos(phi) = 1.]
+
+Q: The power factor of a purely inductive circuit is:
+A) 0
+B) 1
+C) 0.5
+D) 0.707
+Answer: A [cos(phi) = 0.]
+
+Q: The power factor of a purely capacitive circuit is:
+A) 0
+B) 1
+C) 0.5
+D) 0.707
+Answer: A [cos(phi) = 0.]
+
+Q: The resonance in an AC circuit occurs when:
+A) X_L = X_C
+B) X_L > X_C
+C) X_L < X_C
+D) R = 0
+Answer: A [At resonance, X_L = X_C.]
+
+Q: The resonant frequency of an LCR circuit is:
+A) f = 1 / (2pi sqrt(LC))
+B) f = 2pi sqrt(LC)
+C) f = sqrt(LC) / 2pi
+D) f = 2pi / sqrt(LC)
+Answer: A [f = 1 / (2pi sqrt(LC)).]
+
+Q: At resonance, the impedance of an LCR circuit is:
+A) Minimum and equal to R
+B) Maximum
+C) Zero
+D) Infinite
+Answer: A [Z = R at resonance (minimum).]
+
+Q: At resonance, the current in an LCR circuit is:
+A) Maximum
+B) Minimum
+C) Zero
+D) Infinite
+Answer: A [Current is maximum at resonance.]
+
+Q: The quality factor (Q-factor) of a series LCR circuit is:
+A) Q = (1/R) sqrt(L/C)
+B) Q = R sqrt(C/L)
+C) Q = (1/R) sqrt(C/L)
+D) Q = R sqrt(L/C)
+Answer: A [Q = (1/R) sqrt(L/C).]
+
+Q: The bandwidth of an LCR circuit is:
+A) Delta_omega = R / L
+B) Delta_omega = L / R
+C) Delta_omega = R * L
+D) Delta_omega = 1 / (R L)
+Answer: A [Bandwidth = R / L.]
+
+Q: In an AC circuit, the current is maximum when:
+A) Frequency is resonant frequency
+B) Frequency is very high
+C) Frequency is very low
+D) Frequency is zero
+Answer: A [At resonance, current is maximum.]
+
+Q: A series LCR circuit has R = 10 Ω, L = 0.1 H, C = 10 µF. The resonant frequency is:
+A) 159 Hz
+B) 100 Hz
+C) 50 Hz
+D) 200 Hz
+Answer: A [f = 1 / (2pi sqrt(LC)) = 1 / (2pi sqrt(0.1 * 10e-6)) = 1 / (2pi * 0.001) ≈ 159 Hz.]
+
+Q: An AC source of 220 V RMS is connected to a resistor of 100 Ω. The RMS current is:
+A) 2.2 A
+B) 1.1 A
+C) 3.3 A
+D) 4.4 A
+Answer: A [I_rms = V_rms / R = 220 / 100 = 2.2 A.]
+
+Q: The peak current in the above circuit is:
+A) 3.11 A
+B) 2.2 A
+C) 1.1 A
+D) 4.4 A
+Answer: A [I0 = I_rms * sqrt(2) = 2.2 * 1.414 ≈ 3.11 A.]
+
+Q: A coil has resistance 10 Ω and inductance 0.2 H. Its impedance at 50 Hz is:
+A) 63.1 Ω
+B) 50 Ω
+C) 100 Ω
+D) 31.6 Ω
+Answer: A [X_L = 2pi * 50 * 0.2 = 62.8 Ω. Z = sqrt(100 + 3943) = 63.1 Ω.]
+
+Q: The phase angle in the above circuit is:
+A) 80.9°
+B) 45°
+C) 60°
+D) 90°
+Answer: A [phi = tan^-1(X_L/R) = tan^-1(6.28) ≈ 80.9°.]
+
+Q: The power factor in the above circuit is:
+A) 0.158
+B) 0.5
+C) 0.707
+D) 0.866
+Answer: A [cos(phi) = R/Z = 10/63.1 ≈ 0.158.]
+
+Q: A capacitor of 10 µF is connected to an AC source of 100 V, 50 Hz. The capacitive reactance is:
+A) 318 Ω
+B) 3183 Ω
+C) 31.8 Ω
+D) 31800 Ω
+Answer: A [X_C = 1 / (2pi * 50 * 10e-6) = 318 Ω.]
+
+Q: The RMS current in the above circuit is:
+A) 0.314 A
+B) 0.628 A
+C) 0.157 A
+D) 0.785 A
+Answer: A [I_rms = V_rms / X_C = 100 / 318 = 0.314 A.]
+
+Q: In a series LCR circuit, at resonance, the phase difference is:
+A) 0°
+B) 90°
+C) 180°
+D) 45°
+Answer: A [At resonance, circuit is resistive, so phase diff = 0°.]
+
+Q: The instantaneous power in an AC circuit is:
+A) P = V0 I0 sin(omega t) sin(omega t + phi)
+B) P = V0 I0 sin(omega t) cos(omega t)
+C) P = V0 I0 cos(omega t) cos(omega t)
+D) P = V0 I0 sin(omega t) tan(omega t)
+Answer: A [p = v i = V0 sin(omega t) I0 sin(omega t + phi).]
+
+Q: The average power in an AC circuit is maximum when:
+A) phi = 0°
+B) phi = 90°
+C) phi = 180°
+D) phi = 45°
+Answer: A [Max power when cos(phi) = 1, i.e., phi = 0°.]
+
+Q: A choke coil is used to:
+A) Reduce current without much power loss
+B) Increase current
+C) Increase power
+D) Reduce voltage
+Answer: A [Choke coil provides high inductive reactance with low resistance, reducing power loss.]
+
+Q: The wattless current in an AC circuit occurs when:
+A) The circuit is purely reactive
+B) The circuit is purely resistive
+C) The circuit is at resonance
+D) The circuit has high resistance
+Answer: A [In purely reactive circuit, power factor = 0, so wattless current flows.]
+
+Q: The DC current through an inductor in an AC circuit is:
+A) Zero
+B) Maximum
+C) Infinite
+D) Equal to AC current
+Answer: A [Inductor blocks DC current after steady state (X_L = 0 for DC).]
+
+Q: The current through a capacitor in an AC circuit:
+A) Leads the voltage by 90°
+B) Lags the voltage by 90°
+C) Is in phase with voltage
+D) Leads the voltage by 180°
+Answer: A [Capacitor current leads voltage by 90°.]
+
+Q: The voltage across a capacitor in an AC circuit:
+A) Lags the current by 90°
+B) Leads the current by 90°
+C) Is in phase with current
+D) Lags the current by 180°
+Answer: A [In capacitor, voltage lags current by 90°.]
+
+Q: The voltage across an inductor in an AC circuit:
+A) Leads the current by 90°
+B) Lags the current by 90°
+C) Is in phase with current
+D) Leads the current by 180°
+Answer: A [In inductor, voltage leads current by 90°.]
+
+Q: The phasor diagram for a series LCR circuit at resonance is:
+A) V_L = V_C and V = V_R
+B) V_L > V_C
+C) V_L < V_C
+D) V_L = V_R
+Answer: A [At resonance, V_L and V_C cancel each other, V = V_R.]
+
+Q: In a series LCR circuit, the voltage across inductor and capacitor are:
+A) 180° out of phase
+B) 90° out of phase
+C) In phase
+D) 45° out of phase
+Answer: A [V_L and V_C are 180° out of phase (opposite directions).]
+
+Q: The current in a series LCR circuit is maximum at:
+A) Resonance frequency
+B) High frequency
+C) Low frequency
+D) Zero frequency
+Answer: A [Current is maximum at resonance.]
+
+Q: The impedance of a series LCR circuit at resonance is:
+A) R
+B) X_L
+C) X_C
+D) 0
+Answer: A [Z = R at resonance.]
+
+Q: The resonant frequency of an LCR circuit with L = 0.1 H and C = 10 µF is:
+A) 159.2 Hz
+B) 100 Hz
+C) 50 Hz
+D) 200 Hz
+Answer: A [f = 1 / (2pi sqrt(0.1 * 10e-6)) = 159.2 Hz.]
+
+Q: The power dissipated in a resistor in an AC circuit is:
+A) I_rms^2 R
+B) I0^2 R
+C) I_rms^2 / R
+D) I0^2 / R
+Answer: A [P = I_rms^2 R.]
+
+Q: The RMS current in a circuit is 5 A. The peak current is:
+A) 7.07 A
+B) 5 A
+C) 3.54 A
+D) 10 A
+Answer: A [I0 = I_rms * sqrt(2) = 5 * 1.414 = 7.07 A.]
+
+Q: The RMS voltage in a circuit is 230 V. The peak voltage is:
+A) 325 V
+B) 230 V
+C) 115 V
+D) 460 V
+Answer: A [V0 = V_rms * sqrt(2) = 230 * 1.414 = 325 V.]
+Reply with `"22_Electromagnetic_Waves"` and I will generate the next 45 hard MCQs for you! 🚀

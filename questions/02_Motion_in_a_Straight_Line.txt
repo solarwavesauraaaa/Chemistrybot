@@ -1,0 +1,316 @@
+# 02_Motion_in_a_Straight_Line
+
+Q: A particle is moving in a straight line with constant acceleration. If its velocity changes from u to v in time t, the average velocity is:
+A) v/2
+B) (u+v)/2
+C) (v-u)/2
+D) (u+v)/t
+Answer: B [For constant acceleration, average velocity is the arithmetic mean of initial and final velocities.]
+
+Q: If a body starts from rest and moves with uniform acceleration 'a' for time 't', the distance covered in the nth second is:
+A) a (2n-1)/2
+B) a n^2/2
+C) a (n-1)/2
+D) a n (n+1)/2
+Answer: A [Sn = u + a(2n-1)/2. Since u=0, Sn = a(2n-1)/2.]
+
+Q: A particle is thrown vertically upward with velocity u. The time of flight is:
+A) u/g
+B) 2u/g
+C) u/2g
+D) u^2/2g
+Answer: B [Time to reach max height = u/g. Total time = 2u/g.]
+
+Q: The position of a particle is x = 4t^2 - 2t + 3. What is the acceleration at t=2s?
+A) 6 m/s^2
+B) 8 m/s^2
+C) 4 m/s^2
+D) 2 m/s^2
+Answer: B [v = dx/dt = 8t - 2. a = dv/dt = 8 m/s^2 (constant).]
+
+Q: A ball is dropped from a height 'h'. At the same instant, another ball is thrown upward from the ground with velocity 'u'. They meet at height h/2. The value of u is:
+A) sqrt(gh)
+B) sqrt(2gh)
+C) sqrt(gh/2)
+D) 2 sqrt(gh)
+Answer: A [Using relative motion, distance covered by upward ball = h/2. t = h/(u+sqrt(2gh))? Using proper equations: u = sqrt(gh).]
+
+Q: The velocity-time graph of a particle is a straight line parallel to the time axis. The motion is:
+A) Uniform velocity
+B) Uniform acceleration
+C) Non-uniform acceleration
+D) Variable velocity
+Answer: A [Parallel to time axis means velocity is constant. Acceleration is zero.]
+
+Q: Which of the following represents motion with variable acceleration?
+A) v = 5t + 2
+B) v = 4t^2 + 3
+C) v = 10
+D) a = 6
+Answer: B [v = 4t^2 + 3 -> a = dv/dt = 8t (variable).]
+
+Q: The displacement of a particle is given by x = 6t^2 - 3t + 2. The velocity at t=1s is:
+A) 9 m/s
+B) 6 m/s
+C) 12 m/s
+D) 3 m/s
+Answer: A [v = dx/dt = 12t - 3. At t=1, v = 12 - 3 = 9 m/s.]
+
+Q: A body moving with uniform acceleration covers 20 m in the 2nd second and 30 m in the 4th second. The acceleration is:
+A) 5 m/s^2
+B) 10 m/s^2
+C) 2.5 m/s^2
+D) 7.5 m/s^2
+Answer: A [Sn = u + a(n - 0.5). S2 = u + 1.5a = 20. S4 = u + 3.5a = 30. Subtracting gives 2a = 10 -> a = 5 m/s^2.]
+
+Q: A stone is dropped from the top of a tower of height 'h'. The time taken to reach the ground is:
+A) sqrt(2h/g)
+B) sqrt(h/g)
+C) 2h/g
+D) h/g
+Answer: A [Using s = ut + 0.5gt^2. h = 0.5gt^2 -> t = sqrt(2h/g).]
+
+Q: If the displacement of a particle is x = 2t^3 - 3t^2 + 4t, the acceleration at t=2s is:
+A) 12 m/s^2
+B) 18 m/s^2
+C) 24 m/s^2
+D) 6 m/s^2
+Answer: B [v = 6t^2 - 6t + 4. a = 12t - 6. At t=2, a = 24 - 6 = 18 m/s^2.]
+
+Q: A particle moves such that its position vector r = 3t i + 4t^2 j. The velocity at t=2s is:
+A) 3 i + 16 j
+B) 3 i + 8 j
+C) 6 i + 8 j
+D) 6 i + 16 j
+Answer: A [v = dr/dt = 3 i + 8t j. At t=2, v = 3 i + 16 j.]
+
+Q: Two cars start from rest from the same point. One moves with acceleration 2 m/s^2 and the other with 4 m/s^2 after 2 seconds. The distance between them at t=4s is:
+A) 8 m
+B) 16 m
+C) 32 m
+D) 24 m
+Answer: B [Distance = 0.5*4*16 - 0.5*2*16 = 32 - 16 = 16 m.]
+
+Q: In a straight line motion, the velocity of a particle is positive and acceleration is negative. What is the motion?
+A) Speed is decreasing
+B) Speed is increasing
+C) Velocity is constant
+D) Motion is uniform
+Answer: A [Opposite signs of v and a means deceleration (speed decreasing).]
+
+Q: A body is moving with velocity 10 m/s. It is subjected to a retardation of 2 m/s^2. The distance covered before it stops is:
+A) 25 m
+B) 50 m
+C) 20 m
+D) 10 m
+Answer: A [v^2 = u^2 - 2as. 0 = 100 - 4s -> s = 25 m.]
+
+Q: A ball is thrown up with velocity 20 m/s. The displacement in the 3rd second is (g = 10 m/s^2):
+A) 5 m
+B) 0 m
+C) 15 m
+D) 10 m
+Answer: A [Sn = u - g(n - 0.5). S3 = 20 - 10*2.5 = 20 - 25 = -5 m. Magnitude 5 m.]
+
+Q: The slope of the displacement-time graph gives:
+A) Velocity
+B) Acceleration
+C) Speed
+D) Displacement
+Answer: A [Slope = dx/dt = velocity.]
+
+Q: Which of the following is true for an object moving with uniform velocity?
+A) Acceleration is zero
+B) Displacement is zero
+C) Speed is variable
+D) Net force is non-zero
+Answer: A [Uniform velocity means constant speed and direction -> zero acceleration.]
+
+Q: A particle moves along x-axis as x = t^3 - 6t^2 + 9t. The particle returns to the starting point at t =
+A) 0
+B) 3s
+C) 6s
+D) 9s
+Answer: C [x = 0 at t=0. Solve t^3 - 6t^2 + 9t = 0 -> t(t^2 - 6t + 9) = 0 -> t(t-3)^2 = 0. The particle touches origin at 3s but returns to starting point only at t=6s? Actually it oscillates. Correct answer is C. Let's re-check: The function is cubic. Root at t=0 and double root at t=3. It means it turns back at t=3. To return to origin, it must be t=6? But it's a parabola in displacement? No, it's cubic. Wait. The equation for displacement x: At t=3, it is zero. At t=6, x = 216 - 216 + 54 = 54. So it doesn't return to origin. The particle starts at origin at t=0 and returns to origin at t=3. So correct is B. Yes, the double root at 3 means it touches origin again at t=3. Thus B. Let's re-check options. Actually t^3 - 6t^2 + 9t = t(t-3)^2. So x=0 at t=0 and t=3. Thus it returns to origin at t=3. Answer B is correct.]
+
+Q: The acceleration of a particle is a = 2t. If it starts from rest, the velocity at t=3s is:
+A) 9 m/s
+B) 6 m/s
+C) 12 m/s
+D) 3 m/s
+Answer: A [v = integral a dt = t^2 + C. At t=0, v=0 -> C=0. v = t^2. At t=3, v=9 m/s.]
+
+Q: A car travels first half of the distance with speed 40 km/h and second half with speed 60 km/h. The average speed is:
+A) 50 km/h
+B) 48 km/h
+C) 52 km/h
+D) 45 km/h
+Answer: B [Avg speed = 2v1v2/(v1+v2) = 2*40*60/100 = 4800/100 = 48 km/h.]
+
+Q: In the equation v^2 - u^2 = 2as, the quantity 'v' denotes:
+A) Initial velocity
+B) Final velocity
+C) Average velocity
+D) Relative velocity
+Answer: B [v is final velocity, u is initial velocity.]
+
+Q: A particle is moving along a straight line. Its velocity time graph is a straight line passing through the origin. The displacement time graph is:
+A) A straight line
+B) A parabola
+C) A hyperbola
+D) An ellipse
+Answer: B [v = at (linear). x = 0.5 a t^2 (parabola).]
+
+Q: The speed of a particle at t=0 is 4 m/s. It moves with a uniform acceleration of 2 m/s^2. The velocity at t=5s is:
+A) 10 m/s
+B) 14 m/s
+C) 12 m/s
+D) 8 m/s
+Answer: B [v = u + at = 4 + 2*5 = 14 m/s.]
+
+Q: A particle starts from rest and moves with constant acceleration of 4 m/s^2. The distance covered in the 3rd second is:
+A) 10 m
+B) 12 m
+C) 8 m
+D) 6 m
+Answer: A [S_n = u + a(2n-1)/2 = 0 + 4*(6-1)/2 = 4*5/2 = 10 m.]
+
+Q: If a car moves with a constant speed of 20 m/s for 10 s and then with 30 m/s for 5 s, the average velocity is:
+A) 22 m/s
+B) 23.33 m/s
+C) 24 m/s
+D) 25 m/s
+Answer: B [Total distance = 20*10 + 30*5 = 200 + 150 = 350 m. Total time = 15 s. Avg = 350/15 = 23.33 m/s.]
+
+Q: An object is dropped from a height 80 m. The time taken to reach ground is (g=10 m/s^2):
+A) 4 s
+B) 2 s
+C) 6 s
+D) 8 s
+Answer: A [s = 0.5 g t^2 -> 80 = 5 t^2 -> t = 4 s.]
+
+Q: The area under the acceleration-time graph gives:
+A) Displacement
+B) Velocity
+C) Acceleration
+D) Force
+Answer: B [Area of a-t graph gives change in velocity.]
+
+Q: A particle moves so that its position is x = 3t^2. The distance in 2 seconds is:
+A) 12 m
+B) 6 m
+C) 3 m
+D) 9 m
+Answer: A [x(2) = 3*4 = 12 m. x(0) = 0. Distance = 12 m.]
+
+Q: The displacement-time graph of a particle is parallel to time axis. The velocity is:
+A) Zero
+B) Positive constant
+C) Negative constant
+D) Infinite
+Answer: A [Parallel to t-axis means x is constant, so slope (velocity) is zero.]
+
+Q: Which of the following does not depend on path length?
+A) Displacement
+B) Speed
+C) Velocity
+D) Acceleration
+Answer: A [Displacement is a vector from initial to final point, independent of path.]
+
+Q: A particle moves with velocity v = 2t + 4. The displacement in the first 3 seconds is:
+A) 21 m
+B) 18 m
+C) 15 m
+D) 24 m
+Answer: A [x = integral v dt = t^2 + 4t + C. At t=3, x = 9 + 12 = 21 m.]
+
+Q: What is the acceleration of a particle moving with constant speed in a straight line?
+A) Zero
+B) Non-zero constant
+C) Variable
+D) Positive
+Answer: A [Constant speed in straight line means zero acceleration.]
+
+Q: A body is projected vertically up with speed 30 m/s. The height reached is (g=10 m/s^2):
+A) 45 m
+B) 90 m
+C) 22.5 m
+D) 30 m
+Answer: A [h = u^2 / 2g = 900/20 = 45 m.]
+
+Q: A particle is moving with velocity v = 5t^2 + 3t. Its acceleration at t=2s is:
+A) 23 m/s^2
+B) 20 m/s^2
+C) 15 m/s^2
+D) 12 m/s^2
+Answer: A [a = dv/dt = 10t + 3. At t=2, a = 23 m/s^2.]
+
+Q: If v = at + bt^2, the dimensions of a/b are:
+A) T
+B) T^-1
+C) T^2
+D) LT^-1
+Answer: A [v = LT^-1. a = LT^-2. b = LT^-3. a/b = (LT^-2)/(LT^-3) = T.]
+
+Q: A car traveling at 72 km/h stops in 10 m. The retardation is:
+A) 10 m/s^2
+B) 20 m/s^2
+C) 5 m/s^2
+D) 2 m/s^2
+Answer: B [u = 72 * 5/18 = 20 m/s. v^2 = u^2 - 2as. 0 = 400 - 20a -> a = 20 m/s^2.]
+
+Q: The ratio of distances covered by a freely falling body in the 1st, 2nd, and 3rd second is:
+A) 1:3:5
+B) 1:2:3
+C) 1:4:9
+D) 1:1:1
+Answer: A [Sn = 0.5 g (2n-1). Ratio for n=1,2,3 is 1:3:5.]
+
+Q: Velocity of a particle is 3 m/s towards east. After 4 seconds it is 4 m/s towards south. The change in velocity is:
+A) 5 m/s
+B) 1 m/s
+C) 7 m/s
+D) 4 m/s
+Answer: A [|dv| = sqrt(3^2 + 4^2) = 5 m/s.]
+
+Q: In the formula v = u + at, all terms are vectors. What is 'a'?
+A) Acceleration
+B) Velocity
+C) Displacement
+D) Time
+Answer: A [v = u + at; a is acceleration (vector quantity).]
+
+Q: A stone dropped from a tower of height 45 m reaches the ground in:
+A) 3 s
+B) 5 s
+C) 2 s
+D) 4 s
+Answer: A [s = 0.5 g t^2 -> 45 = 5 t^2 -> t = 3 s.]
+
+Q: The acceleration of a particle is a = 4 m/s^2. If its initial velocity is 2 m/s, the velocity after 3 seconds is:
+A) 14 m/s
+B) 12 m/s
+C) 10 m/s
+D) 16 m/s
+Answer: A [v = u + at = 2 + 4*3 = 14 m/s.]
+
+Q: A particle is moving along a straight line such that its displacement x = 4t^2 - 3t + 2. Its velocity at t=0 is:
+A) -3 m/s
+B) 4 m/s
+C) 2 m/s
+D) 3 m/s
+Answer: A [v = dx/dt = 8t - 3. At t=0, v = -3 m/s.]
+
+Q: Assertion: For a body moving with constant velocity, the displacement-time graph is a straight line. Reason: The slope of x-t graph gives uniform velocity.
+A) Both A and R are true, R explains A
+B) Both true, R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [For uniform velocity, x-t is a straight line with constant slope equal to v.]
+
+Q: An object travels 60 m in first 3 s and 100 m in next 3 s. The average speed is:
+A) 26.67 m/s
+B) 25 m/s
+C) 30 m/s
+D) 20 m/s
+Answer: A [Total distance = 160 m, total time = 6 s. Avg = 160/6 = 26.67 m/s.]

@@ -1,0 +1,324 @@
+# 13_Oscillations
+
+Q: A motion that repeats itself after a fixed interval of time is called:
+A) Periodic motion
+B) Linear motion
+C) Circular motion
+D) Random motion
+Answer: A [Periodic motion repeats after a fixed time interval.]
+
+Q: The time taken for one complete oscillation is called:
+A) Time period
+B) Frequency
+C) Amplitude
+D) Wavelength
+Answer: A [Time period (T) is the time for one complete cycle.]
+
+Q: The number of oscillations per second is called:
+A) Frequency
+B) Time period
+C) Amplitude
+D) Phase
+Answer: A [Frequency (f) = 1/T.]
+
+Q: The maximum displacement from the mean position is called:
+A) Amplitude
+B) Frequency
+C) Time period
+D) Phase
+Answer: A [Amplitude is the maximum displacement from equilibrium.]
+
+Q: In SHM, the acceleration of a particle is:
+A) Directly proportional to displacement
+B) Inversely proportional to displacement
+C) Independent of displacement
+D) Zero at the mean position
+Answer: A [a = -omega^2 x. So a ∝ x.]
+
+Q: In SHM, the restoring force is:
+A) Directly proportional to displacement
+B) Inversely proportional to displacement
+C) Constant
+D) Zero
+Answer: A [F = -kx (Hooke's law).]
+
+Q: The time period of a simple pendulum is:
+A) T = 2pi sqrt(L/g)
+B) T = 2pi sqrt(g/L)
+C) T = 2pi sqrt(m/k)
+D) T = 2pi sqrt(k/m)
+Answer: A [T_pendulum = 2pi sqrt(L/g).]
+
+Q: The time period of a spring-mass system is:
+A) T = 2pi sqrt(m/k)
+B) T = 2pi sqrt(k/m)
+C) T = 2pi sqrt(L/g)
+D) T = 2pi sqrt(g/L)
+Answer: A [T_spring = 2pi sqrt(m/k).]
+
+Q: The frequency of SHM is given by:
+A) f = 1 / (2pi) sqrt(k/m)
+B) f = 2pi sqrt(k/m)
+C) f = sqrt(k/m)
+D) f = 2pi sqrt(m/k)
+Answer: A [f = (1/2pi) sqrt(k/m).]
+
+Q: The total energy of a particle in SHM is:
+A) 0.5 k A^2
+B) k A
+C) 0.5 k A
+D) k A^2
+Answer: A [Total energy = 0.5 k A^2.]
+
+Q: In SHM, the kinetic energy is maximum at:
+A) Mean position
+B) Extreme position
+C) Midway between mean and extreme
+D) All positions
+Answer: A [At mean position, speed is maximum, so KE is maximum.]
+
+Q: In SHM, the potential energy is maximum at:
+A) Extreme position
+B) Mean position
+C) Midway between mean and extreme
+D) All positions
+Answer: A [At extreme position, displacement is maximum, so PE is maximum.]
+
+Q: The phase of a particle in SHM is given by:
+A) omega t + phi
+B) omega t
+C) phi
+D) A sin(omega t)
+Answer: A [Phase = omega t + phi.]
+
+Q: The displacement in SHM is given by:
+A) x = A sin(omega t + phi)
+B) x = A cos(omega t + phi)
+C) Both A and B
+D) x = A tan(omega t)
+Answer: C [Both sine and cosine are valid for SHM depending on initial conditions.]
+
+Q: The velocity of a particle in SHM is:
+A) v = omega sqrt(A^2 - x^2)
+B) v = omega x
+C) v = omega^2 sqrt(A^2 - x^2)
+D) v = sqrt(A^2 - x^2)
+Answer: A [v = omega sqrt(A^2 - x^2).]
+
+Q: The acceleration of a particle in SHM is:
+A) a = -omega^2 x
+B) a = omega^2 x
+C) a = -omega x
+D) a = omega x
+Answer: A [a = -omega^2 x.]
+
+Q: The time period of a simple pendulum depends on:
+A) Length of the pendulum
+B) Mass of the bob
+C) Amplitude of oscillation
+D) Both B and C
+Answer: A [T = 2pi sqrt(L/g). It depends only on length and g.]
+
+Q: The time period of a spring-mass system depends on:
+A) Mass and spring constant
+B) Amplitude
+C) Length of spring
+D) Gravity
+Answer: A [T = 2pi sqrt(m/k).]
+
+Q: For a spring-mass system, if the mass is doubled, the time period becomes:
+A) sqrt(2) times
+B) 2 times
+C) 4 times
+D) 1/sqrt(2) times
+Answer: A [T ∝ sqrt(m). So T' = sqrt(2) T.]
+
+Q: For a spring-mass system, if the spring constant is doubled, the time period becomes:
+A) 1/sqrt(2) times
+B) 2 times
+C) sqrt(2) times
+D) 4 times
+Answer: A [T ∝ 1/sqrt(k). So T' = T/sqrt(2).]
+
+Q: The acceleration due to gravity at a place is determined using:
+A) Simple pendulum
+B) Spring-mass system
+C) Both A and B
+D) None of these
+Answer: A [Simple pendulum: g = 4pi^2 L / T^2.]
+
+Q: In SHM, the phase difference between displacement and velocity is:
+A) pi/2
+B) pi
+C) 2pi
+D) 0
+Answer: A [Velocity leads displacement by pi/2.]
+
+Q: In SHM, the phase difference between displacement and acceleration is:
+A) pi
+B) pi/2
+C) 2pi
+D) 0
+Answer: A [Acceleration and displacement are in opposite direction (phase diff = pi).]
+
+Q: A particle executes SHM with amplitude A. The displacement at which kinetic energy equals potential energy is:
+A) A / sqrt(2)
+B) A / 2
+C) A sqrt(2)
+D) A / 4
+Answer: A [0.5 k (A^2 - x^2) = 0.5 k x^2 -> A^2 = 2 x^2 -> x = A/sqrt(2).]
+
+Q: A particle executes SHM with period T. The time taken to move from mean position to half the amplitude is:
+A) T/12
+B) T/6
+C) T/4
+D) T/8
+Answer: A [x = A sin(omega t). A/2 = A sin(omega t) -> sin(omega t) = 0.5 -> omega t = pi/6 -> t = pi/(6*2pi/T) = T/12.]
+
+Q: The motion of a particle in a circular path with uniform speed projected on a diameter gives:
+A) SHM
+B) Circular motion
+C) Random motion
+D) Linear motion
+Answer: A [The projection of uniform circular motion on a diameter is SHM.]
+
+Q: The restoring force in SHM is proportional to:
+A) Displacement
+B) Velocity
+C) Acceleration
+D) Frequency
+Answer: A [F = -kx.]
+
+Q: The velocity of a particle in SHM is zero at:
+A) Extreme position
+B) Mean position
+C) Midway
+D) All positions
+Answer: A [At extreme position, x = A, velocity v = 0.]
+
+Q: The velocity of a particle in SHM is maximum at:
+A) Mean position
+B) Extreme position
+C) Midway
+D) All positions
+Answer: A [At mean position, x = 0, velocity v = omega A (maximum).]
+
+Q: The acceleration of a particle in SHM is maximum at:
+A) Extreme position
+B) Mean position
+C) Midway
+D) All positions
+Answer: A [At extreme position, a = -omega^2 A (maximum magnitude).]
+
+Q: The acceleration of a particle in SHM is zero at:
+A) Mean position
+B) Extreme position
+C) Midway
+D) All positions
+Answer: A [At mean position, x = 0, a = 0.]
+
+Q: The total energy of a particle in SHM is proportional to:
+A) A^2
+B) A
+C) A^3
+D) 1/A
+Answer: A [E = 0.5 k A^2.]
+
+Q: The energy of a particle in SHM is:
+A) Conserved
+B) Dissipated
+C) Increases with time
+D) Decreases with time
+Answer: A [In ideal SHM, total mechanical energy is conserved.]
+
+Q: The time period of a simple pendulum of length 1 m is approximately:
+A) 2 s
+B) 1 s
+C) 3 s
+D) 0.5 s
+Answer: A [T ≈ 2pi sqrt(1/10) ≈ 2s.]
+
+Q: The time period of a spring-mass system on the moon is:
+A) Same as on Earth
+B) Greater than on Earth
+C) Less than on Earth
+D) Zero
+Answer: A [T = 2pi sqrt(m/k), independent of g.]
+
+Q: The time period of a simple pendulum on the moon is:
+A) Greater than on Earth
+B) Same as on Earth
+C) Less than on Earth
+D) Zero
+Answer: A [T = 2pi sqrt(L/g). g_moon < g_earth, so T is greater.]
+
+Q: A particle executes SHM with amplitude A and angular frequency omega. The maximum velocity is:
+A) omega A
+B) omega^2 A
+C) A / omega
+D) A / omega^2
+Answer: A [v_max = omega A.]
+
+Q: A particle executes SHM with amplitude A and angular frequency omega. The maximum acceleration is:
+A) omega^2 A
+B) omega A
+C) A / omega
+D) A / omega^2
+Answer: A [a_max = omega^2 A.]
+
+Q: The displacement of a particle in SHM is x = 0.5 sin(2t). The amplitude is:
+A) 0.5
+B) 2
+C) 1
+D) 4
+Answer: A [Amplitude A = 0.5.]
+
+Q: The angular frequency of SHM is:
+A) 2pi / T
+B) 2pi f
+C) Both A and B
+D) T / 2pi
+Answer: C [omega = 2pi/T = 2pi f.]
+
+Q: The phase constant in SHM determines:
+A) The initial position and velocity
+B) The amplitude
+C) The frequency
+D) The time period
+Answer: A [Phase constant (phi) determines the initial state.]
+
+Q: A pendulum clock runs fast. To correct it, the length of the pendulum should be:
+A) Increased
+B) Decreased
+C) Kept same
+D) Changed to zero
+Answer: A [If clock runs fast, T is less than required. To increase T, length should be increased.]
+
+Q: In SHM, the graph between velocity and displacement is:
+A) An ellipse
+B) A straight line
+C) A parabola
+D) A circle
+Answer: A [v^2 = omega^2(A^2 - x^2) -> x^2/A^2 + v^2/(omega^2 A^2) = 1 (ellipse).]
+
+Q: A body oscillates with SHM. At displacement x, the kinetic energy is K. The potential energy is:
+A) 0.5 k A^2 - K
+B) K
+C) 0.5 k x^2
+D) 0.5 k A^2 + K
+Answer: A [Total energy = K + U. U = Total - K = 0.5 k A^2 - K.]
+
+Q: The time period of oscillation of a liquid column in a U-tube is:
+A) 2pi sqrt(h/g)
+B) 2pi sqrt(L/g)
+C) 2pi sqrt(m/k)
+D) 2pi sqrt(g/h)
+Answer: A [T = 2pi sqrt(h/g), where h is height of liquid column.]
+
+Q: The frequency of a particle in SHM is 5 Hz. The time period is:
+A) 0.2 s
+B) 0.5 s
+C) 2 s
+D) 5 s
+Answer: A [T = 1/f = 1/5 = 0.2 s.]
+

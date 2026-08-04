@@ -1,0 +1,365 @@
+# 23_Ray_Optics_and_Optical_Instruments
+
+Q: The law of reflection states that:
+A) Angle of incidence equals angle of reflection
+B) Angle of incidence is greater than angle of reflection
+C) Angle of incidence is less than angle of reflection
+D) Incident ray and reflected ray are parallel
+Answer: A [Law of reflection: i = r.]
+
+Q: The angle of incidence is 30°. The angle between the incident ray and the reflected ray is:
+A) 60°
+B) 30°
+C) 90°
+D) 120°
+Answer: A [Angle between incident and reflected = 2i = 60°.]
+
+Q: The image formed by a plane mirror is:
+A) Virtual, erect, and same size
+B) Real, inverted, and same size
+C) Virtual, inverted, and magnified
+D) Real, erect, and diminished
+Answer: A [Plane mirror forms a virtual, erect, same-size image.]
+
+Q: The focal length of a plane mirror is:
+A) Infinity
+B) Zero
+C) 1 m
+D) 2 m
+Answer: A [Plane mirror has R = ∞, so f = ∞.]
+
+Q: The mirror formula is:
+A) 1/f = 1/v + 1/u
+B) 1/f = 1/v - 1/u
+C) f = v + u
+D) f = v - u
+Answer: A [1/f = 1/v + 1/u.]
+
+Q: The magnification of a mirror is given by:
+A) m = -v/u
+B) m = v/u
+C) m = -u/v
+D) m = u/v
+Answer: A [m = -v/u.]
+
+Q: A concave mirror forms a real image when the object is placed:
+A) Beyond the focus
+B) Between the pole and focus
+C) At the focus
+D) At infinity
+Answer: A [Concave mirror forms a real image for object beyond focus.]
+
+Q: A concave mirror forms a virtual image when the object is placed:
+A) Between the pole and focus
+B) Beyond the focus
+C) At the focus
+D) At infinity
+Answer: A [Object between pole and focus gives virtual, erect, magnified image.]
+
+Q: The refractive index of a medium is defined as:
+A) n = c / v
+B) n = v / c
+C) n = c / v^2
+D) n = v / c^2
+Answer: A [n = c / v.]
+
+Q: Snell's law of refraction is:
+A) n1 sin(i) = n2 sin(r)
+B) n1 cos(i) = n2 cos(r)
+C) n1 sin(r) = n2 sin(i)
+D) n1 sin(i) = n2 cos(r)
+Answer: A [Snell's law: n1 sin i = n2 sin r.]
+
+Q: When light travels from a rarer to a denser medium, it:
+A) Bends towards the normal
+B) Bends away from the normal
+C) Does not bend
+D) Reflects completely
+Answer: A [From rarer to denser, light bends towards the normal.]
+
+Q: When light travels from a denser to a rarer medium, it:
+A) Bends away from the normal
+B) Bends towards the normal
+C) Does not bend
+D) Reflects completely
+Answer: A [From denser to rarer, light bends away from the normal.]
+
+Q: The critical angle is defined as:
+A) The angle of incidence for which angle of refraction is 90°
+B) The angle of incidence for which angle of refraction is 0°
+C) The angle of refraction for which angle of incidence is 90°
+D) The angle of incidence for which total internal reflection occurs
+Answer: A [Critical angle: sin(c) = n2/n1.]
+
+Q: Total internal reflection occurs when:
+A) Light travels from denser to rarer medium and i > c
+B) Light travels from rarer to denser medium and i > c
+C) Light travels from denser to rarer medium and i < c
+D) Light travels from rarer to denser medium and i < c
+Answer: A [TIR occurs when i > c in denser-to-rarer medium.]
+
+Q: Optical fibres work on the principle of:
+A) Total internal reflection
+B) Refraction
+C) Reflection
+D) Diffraction
+Answer: A [Optical fibres use TIR to transmit light.]
+
+Q: The lens formula is:
+A) 1/f = 1/v - 1/u
+B) 1/f = 1/v + 1/u
+C) f = v - u
+D) f = v + u
+Answer: A [Lens formula: 1/f = 1/v - 1/u.]
+
+Q: The magnification of a lens is:
+A) m = v / u
+B) m = -v / u
+C) m = -u / v
+D) m = u / v
+Answer: A [m = v/u.]
+
+Q: A convex lens forms a real image when the object is placed:
+A) Beyond the focus
+B) Between the focus and lens
+C) At the focus
+D) At infinity
+Answer: A [Convex lens forms real image for object beyond focus.]
+
+Q: A convex lens forms a virtual image when the object is placed:
+A) Between the focus and the lens
+B) Beyond the focus
+C) At the focus
+D) At infinity
+Answer: A [Object between focus and lens gives virtual, erect, magnified image.]
+
+Q: The power of a lens is given by:
+A) P = 1 / f (in meters)
+B) P = f (in meters)
+C) P = f / 1
+D) P = 1 / f^2
+Answer: A [Power P = 1/f (f in meters).]
+
+Q: The SI unit of power of a lens is:
+A) Dioptre
+B) Metre
+C) Dioptre / metre
+D) 1 / metre
+Answer: A [Dioptre (D) is SI unit of lens power.]
+
+Q: A convex lens has:
+A) Positive power
+B) Negative power
+C) Zero power
+D) Infinite power
+Answer: A [Convex lens has positive focal length, so positive power.]
+
+Q: A concave lens has:
+A) Negative power
+B) Positive power
+C) Zero power
+D) Infinite power
+Answer: A [Concave lens has negative focal length, so negative power.]
+
+Q: A lens of power +2 D has focal length:
+A) 50 cm
+B) 25 cm
+C) 100 cm
+D) 40 cm
+Answer: A [f = 1/P = 1/2 = 0.5 m = 50 cm.]
+
+Q: A lens of power -4 D has focal length:
+A) -25 cm
+B) -50 cm
+C) -100 cm
+D) -40 cm
+Answer: A [f = 1/(-4) = -0.25 m = -25 cm.]
+
+Q: The combination of lenses in contact has power:
+A) P = P1 + P2
+B) P = P1 - P2
+C) P = P1 * P2
+D) P = 1/P1 + 1/P2
+Answer: A [Power adds for lenses in contact.]
+
+Q: The equivalent focal length of two lenses in contact is:
+A) 1/f = 1/f1 + 1/f2
+B) f = f1 + f2
+C) f = f1 * f2 / (f1 + f2)
+D) f = f1 / f2
+Answer: A [1/f = 1/f1 + 1/f2.]
+
+Q: The magnification of a compound microscope is:
+A) m = m_o × m_e
+B) m = m_o + m_e
+C) m = m_o / m_e
+D) m = m_e / m_o
+Answer: A [Total magnification = product of objective and eyepiece magnifications.]
+
+Q: The magnifying power of a simple microscope is:
+A) m = 1 + D / f
+B) m = D / f
+C) m = f / D
+D) m = 1 + f / D
+Answer: A [For final image at near point: m = 1 + D/f.]
+
+Q: The magnifying power of a simple microscope when image is at infinity is:
+A) m = D / f
+B) m = 1 + D / f
+C) m = f / D
+D) m = 1 + f / D
+Answer: A [At infinity: m = D/f.]
+
+Q: The near point of a normal human eye is:
+A) 25 cm
+B) 10 cm
+C) 50 cm
+D) Infinity
+Answer: A [Near point (least distance of distinct vision) = 25 cm.]
+
+Q: The far point of a normal human eye is:
+A) Infinity
+B) 25 cm
+C) 1 m
+D) 50 cm
+Answer: A [Far point of normal eye is infinity.]
+
+Q: Myopia (nearsightedness) is corrected using:
+A) Concave lens
+B) Convex lens
+C) Bifocal lens
+D) Cylindrical lens
+Answer: A [Myopia is corrected using a concave lens.]
+
+Q: Hypermetropia (farsightedness) is corrected using:
+A) Convex lens
+B) Concave lens
+C) Bifocal lens
+D) Cylindrical lens
+Answer: A [Hypermetropia is corrected using a convex lens.]
+
+Q: Astigmatism is corrected using:
+A) Cylindrical lens
+B) Concave lens
+C) Convex lens
+D) Bifocal lens
+Answer: A [Astigmatism is corrected using a cylindrical lens.]
+
+Q: The resolving power of a microscope is:
+A) Directly proportional to the numerical aperture
+B) Inversely proportional to wavelength
+C) Both A and B
+D) Independent of wavelength
+Answer: C [Resolving power ∝ NA / lambda.]
+
+Q: The resolving power of a telescope is:
+A) Directly proportional to the diameter of the objective
+B) Inversely proportional to wavelength
+C) Both A and B
+D) Independent of diameter
+Answer: C [RP ∝ D / lambda.]
+
+Q: The prism formula is:
+A) delta = i + e - A
+B) delta = i - e + A
+C) delta = i + e + A
+D) delta = i - e - A
+Answer: A [Angle of deviation = i + e - A.]
+
+Q: The angle of minimum deviation is related to refractive index by:
+A) n = sin((A + delta_m)/2) / sin(A/2)
+B) n = sin(A/2) / sin((A + delta_m)/2)
+C) n = sin(A/2) / sin(delta_m/2)
+D) n = sin(delta_m/2) / sin(A/2)
+Answer: A [Prism formula: n = sin((A+delta_m)/2) / sin(A/2).]
+
+Q: A ray of light is incident normally on a glass slab. The angle of refraction is:
+A) 0°
+B) 90°
+C) 45°
+D) 30°
+Answer: A [Normally incident means i = 0°, so r = 0°.]
+
+Q: A glass slab of refractive index 1.5 has thickness 10 cm. The lateral shift for a ray incident at 60° is approximately:
+A) 5.8 cm
+B) 10 cm
+C) 3 cm
+D) 15 cm
+Answer: A [Lateral shift = t sin(i-r) / cos(r). Approximate value ~ 5.8 cm.]
+
+Q: A convex lens of focal length 20 cm forms a real image twice the size of the object. The object distance is:
+A) 30 cm
+B) 40 cm
+C) 15 cm
+D) 10 cm
+Answer: A [m = -2 = -v/u -> v = 2u. 1/20 = 1/2u + 1/u = 3/2u -> u = 30 cm.]
+
+Q: The angle of deviation produced by a prism depends on:
+A) The angle of incidence and prism angle
+B) Only the angle of incidence
+C) Only the prism angle
+D) Only the refractive index
+Answer: A [delta depends on i, A, and n.]
+
+Q: The human eye lens is:
+A) Convex
+B) Concave
+C) Bifocal
+D) Cylindrical
+Answer: A [Eye lens is a convex lens.]
+
+Q: The ciliary muscles of the eye help in:
+A) Changing the focal length of the eye lens
+B) Changing the size of the pupil
+C) Protecting the eye
+D) Producing vitreous humor
+Answer: A [Ciliary muscles change the curvature of the lens for accommodation.]
+
+Q: The diameter of the pupil is controlled by:
+A) Iris
+B) Retina
+C) Cornea
+D) Ciliary muscles
+Answer: A [Iris controls the size of the pupil.]
+
+Q: The image formed on the retina is:
+A) Real and inverted
+B) Virtual and erect
+C) Real and erect
+D) Virtual and inverted
+Answer: A [The image on retina is real and inverted.]
+
+Q: The least distance of distinct vision for a normal eye is:
+A) 25 cm
+B) 10 cm
+C) 50 cm
+D) 100 cm
+Answer: A [Near point = 25 cm.]
+
+Q: The angle of deviation produced by a prism is minimum when:
+A) i = e
+B) i = e/2
+C) i = 2e
+D) i = 0
+Answer: A [At minimum deviation, i = e.]
+
+Q: The refractive index of a prism is 1.5 and the angle of prism is 60°. The angle of minimum deviation is:
+A) 37.2°
+B) 30°
+C) 45°
+D) 60°
+Answer: A [Using n = sin((A+delta_m)/2)/sin(A/2). 1.5 = sin(30 + delta_m/2)/sin(30). sin(30+delta/2) = 0.75 -> 30+delta/2 = 48.6° -> delta = 37.2°.]
+
+Q: The magnifying power of a telescope is given by:
+A) m = f_o / f_e
+B) m = f_e / f_o
+C) m = f_o + f_e
+D) m = f_o * f_e
+Answer: A [Magnification of telescope = f_o / f_e.]
+
+Q: A simple microscope has a magnifying power of 10. The focal length is (D = 25 cm):
+A) 2.5 cm
+B) 5 cm
+C) 10 cm
+D) 2 cm
+Answer: A [m = 1 + D/f = 10 -> 25/f = 9 -> f = 2.78 cm ≈ 2.5 cm.]

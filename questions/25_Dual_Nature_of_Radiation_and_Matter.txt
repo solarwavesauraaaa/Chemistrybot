@@ -1,0 +1,359 @@
+# 25_Dual_Nature_of_Radiation_and_Matter
+
+Q: The photoelectric effect demonstrates the:
+A) Particle nature of light
+B) Wave nature of light
+C) Dual nature of light
+D) Quantum nature of light
+Answer: A [Photoelectric effect shows light behaves as particles (photons).]
+
+Q: The energy of a photon is given by:
+A) E = h f
+B) E = h / f
+C) E = f / h
+D) E = h c f
+Answer: A [E = h f = h c / lambda.]
+
+Q: The momentum of a photon is:
+A) p = h / lambda
+B) p = h lambda
+C) p = h / c
+D) p = c / h
+Answer: A [p = h / lambda = h f / c.]
+
+Q: The work function of a metal is:
+A) The minimum energy required to eject an electron
+B) The maximum energy of an ejected electron
+C) The kinetic energy of an electron
+D) The potential energy of an electron
+Answer: A [Work function (phi) is the minimum energy to remove an electron.]
+
+Q: The threshold frequency is:
+A) The minimum frequency of light required for photoelectric emission
+B) The maximum frequency of light required for photoelectric emission
+C) The frequency of the incident light
+D) The frequency of the emitted electron
+Answer: A [Threshold frequency f0 is the minimum frequency to cause emission.]
+
+Q: The photoelectric equation is given by:
+A) K_max = h f - phi
+B) K_max = phi - h f
+C) K_max = h f + phi
+D) K_max = h f / phi
+Answer: A [Einstein's photoelectric equation: K_max = h f - phi.]
+
+Q: The stopping potential is:
+A) The potential required to stop the most energetic photoelectrons
+B) The potential required to accelerate photoelectrons
+C) The potential of the anode
+D) The potential of the cathode
+Answer: A [Stopping potential (V0) stops electrons with maximum kinetic energy.]
+
+Q: The relation between stopping potential and maximum kinetic energy is:
+A) K_max = e V0
+B) K_max = V0 / e
+C) K_max = e / V0
+D) K_max = e V0^2
+Answer: A [K_max = e V0.]
+
+Q: If the intensity of incident light is increased, the photoelectric current:
+A) Increases
+B) Decreases
+C) Remains constant
+D) Becomes zero
+Answer: A [Photoelectric current is directly proportional to intensity.]
+
+Q: If the frequency of incident light is increased, the maximum kinetic energy of photoelectrons:
+A) Increases
+B) Decreases
+C) Remains constant
+D) Becomes zero
+Answer: A [K_max = h f - phi. Increasing f increases K_max.]
+
+Q: The photoelectric effect is instantaneous because:
+A) Energy transfer is a quantum process
+B) Light travels fast
+C) Electrons are loosely bound
+D) The metal is a good conductor
+Answer: A [The emission is instantaneous due to photon-electron interaction.]
+
+Q: The de Broglie wavelength of a particle is:
+A) lambda = h / p
+B) lambda = p / h
+C) lambda = h p
+D) lambda = h / (m v^2)
+Answer: A [lambda = h / p = h / mv.]
+
+Q: The de Broglie wavelength of an electron accelerated through a potential V is:
+A) lambda = h / sqrt(2 m e V)
+B) lambda = sqrt(2 m e V) / h
+C) lambda = h / (2 m e V)
+D) lambda = 2 m e V / h
+Answer: A [lambda = h / sqrt(2meV).]
+
+Q: The de Broglie wavelength of a particle of mass m and kinetic energy K is:
+A) lambda = h / sqrt(2 m K)
+B) lambda = sqrt(2 m K) / h
+C) lambda = h / (2 m K)
+D) lambda = 2 m K / h
+Answer: A [lambda = h / sqrt(2mK).]
+
+Q: The de Broglie wavelength of a particle is inversely proportional to:
+A) Momentum
+B) Energy
+C) Velocity
+D) Mass
+Answer: A [lambda = h / p, so inversely proportional to momentum.]
+
+Q: The dual nature of matter was proposed by:
+A) de Broglie
+B) Einstein
+C) Planck
+D) Compton
+Answer: A [de Broglie proposed the wave nature of matter.]
+
+Q: The Davisson-Germer experiment confirmed:
+A) The wave nature of electrons
+B) The particle nature of electrons
+C) The wave nature of light
+D) The particle nature of light
+Answer: A [Davisson-Germer experiment showed electron diffraction, confirming wave nature of electrons.]
+
+Q: The energy of an electron in the nth orbit of a hydrogen atom is:
+A) E_n = -13.6 / n^2 eV
+B) E_n = 13.6 / n^2 eV
+C) E_n = -13.6 n^2 eV
+D) E_n = 13.6 n^2 eV
+Answer: A [E_n = -13.6 / n^2 eV.]
+
+Q: The radius of the nth orbit of a hydrogen atom is:
+A) r_n = 0.529 n^2 A
+B) r_n = 0.529 n A
+C) r_n = 0.529 / n^2 A
+D) r_n = 0.529 / n A
+Answer: A [r_n = 0.529 n^2 A (Bohr radius).]
+
+Q: The velocity of an electron in the nth orbit of a hydrogen atom is:
+A) v_n = 2.18 × 10^6 / n m/s
+B) v_n = 2.18 × 10^6 n m/s
+C) v_n = 2.18 × 10^6 / n^2 m/s
+D) v_n = 2.18 × 10^6 n^2 m/s
+Answer: A [v_n = 2.18 × 10^6 / n m/s.]
+
+Q: The angular momentum of an electron in the nth orbit is:
+A) L = n h / 2pi
+B) L = h / 2pi n
+C) L = n h
+D) L = h / n
+Answer: A [L = n h / 2pi (Bohr's quantization condition).]
+
+Q: The energy of a photon of wavelength 500 nm is (h = 6.626e-34 J s, c = 3e8 m/s):
+A) 3.98 × 10^-19 J
+B) 3.98 × 10^-16 J
+C) 3.98 × 10^-22 J
+D) 3.98 × 10^-25 J
+Answer: A [E = h c / lambda = 6.626e-34 * 3e8 / 5e-7 = 3.98e-19 J.]
+
+Q: The momentum of a photon of wavelength 500 nm is:
+A) 1.325 × 10^-27 kg m/s
+B) 1.325 × 10^-24 kg m/s
+C) 1.325 × 10^-30 kg m/s
+D) 1.325 × 10^-21 kg m/s
+Answer: A [p = h / lambda = 6.626e-34 / 5e-7 = 1.325e-27 kg m/s.]
+
+Q: The number of photons per second emitted by a 100 W source of 500 nm light is:
+A) 2.51 × 10^20
+B) 2.51 × 10^18
+C) 2.51 × 10^22
+D) 2.51 × 10^24
+Answer: A [n = P / E = 100 / 3.98e-19 = 2.51e20.]
+
+Q: The work function of a metal is 2 eV. The threshold wavelength is (hc = 1240 eV nm):
+A) 620 nm
+B) 1240 nm
+C) 310 nm
+D) 2480 nm
+Answer: A [lambda0 = hc / phi = 1240 / 2 = 620 nm.]
+
+Q: A photon of energy 4 eV falls on a metal with work function 2.5 eV. The maximum kinetic energy of emitted electrons is:
+A) 1.5 eV
+B) 2.5 eV
+C) 4 eV
+D) 6.5 eV
+Answer: A [K_max = 4 - 2.5 = 1.5 eV.]
+
+Q: The stopping potential in the above case is:
+A) 1.5 V
+B) 2.5 V
+C) 4 V
+D) 6.5 V
+Answer: A [V0 = K_max / e = 1.5 V.]
+
+Q: The de Broglie wavelength of an electron moving with speed 10^6 m/s is (h = 6.626e-34, m = 9.1e-31 kg):
+A) 0.728 nm
+B) 7.28 nm
+C) 0.0728 nm
+D) 72.8 nm
+Answer: A [lambda = h / mv = 6.626e-34 / (9.1e-31 * 1e6) = 7.28e-10 m = 0.728 nm.]
+
+Q: The de Broglie wavelength of an electron accelerated through 100 V is:
+A) 0.123 nm
+B) 0.0123 nm
+C) 1.23 nm
+D) 12.3 nm
+Answer: A [lambda = h / sqrt(2meV) = 6.626e-34 / sqrt(2 * 9.1e-31 * 1.6e-19 * 100) = 6.626e-34 / sqrt(2.912e-47) = 6.626e-34 / 5.396e-24 = 1.228e-10 m = 0.1228 nm ≈ 0.123 nm.]
+
+Q: The wavelength of a photon and a particle are equal. Their momentum is:
+A) Equal
+B) Different
+C) Zero
+D) Infinite
+Answer: A [p = h / lambda. If lambda is same, momentum is same.]
+
+Q: The energy of a photon of frequency f is E. If the frequency is doubled, the energy becomes:
+A) 2E
+B) E/2
+C) 4E
+D) E/4
+Answer: A [E = h f. If f doubles, E doubles.]
+
+Q: The photoelectric current is proportional to:
+A) Intensity of incident light
+B) Frequency of incident light
+C) Wavelength of incident light
+D) Velocity of photoelectrons
+Answer: A [Current is proportional to intensity (number of photons).]
+
+Q: The kinetic energy of photoelectrons depends on:
+A) Frequency of incident light
+B) Intensity of incident light
+C) Wavelength of incident light
+D) Velocity of incident light
+Answer: A [K_max depends on frequency, not intensity.]
+
+Q: The photoelectric effect was explained by:
+A) Einstein
+B) Planck
+C) Bohr
+D) de Broglie
+Answer: A [Einstein explained photoelectric effect using photon concept.]
+
+Q: The energy of a photon is directly proportional to:
+A) Frequency
+B) Wavelength
+C) Speed
+D) Intensity
+Answer: A [E ∝ f.]
+
+Q: The photon has:
+A) Zero rest mass
+B) Zero velocity
+C) Zero momentum
+D) Zero energy
+Answer: A [Photons have zero rest mass.]
+
+Q: The de Broglie wavelength of a particle is 0.5 nm. Its momentum is:
+A) 1.325 × 10^-24 kg m/s
+B) 1.325 × 10^-27 kg m/s
+C) 1.325 × 10^-21 kg m/s
+D) 1.325 × 10^-30 kg m/s
+Answer: A [p = h / lambda = 6.626e-34 / 5e-10 = 1.325e-24 kg m/s.]
+
+Q: The radius of the first Bohr orbit of hydrogen is:
+A) 0.529 A
+B) 0.529 nm
+C) 0.529 m
+D) 0.529 pm
+Answer: A [r1 = 0.529 A = 0.0529 nm.]
+
+Q: The ionization energy of hydrogen is:
+A) 13.6 eV
+B) 1.36 eV
+C) 136 eV
+D) 13.6 MeV
+Answer: A [Ionization energy = 13.6 eV.]
+
+Q: The energy of the first excited state of hydrogen is:
+A) -3.4 eV
+B) -13.6 eV
+C) -1.51 eV
+D) -0.85 eV
+Answer: A [E2 = -13.6 / 4 = -3.4 eV.]
+
+Q: The number of photons emitted per second by a 1 mW laser of wavelength 632.8 nm is:
+A) 3.18 × 10^15
+B) 3.18 × 10^12
+C) 3.18 × 10^18
+D) 3.18 × 10^21
+Answer: A [n = P / E = 1e-3 / (hc/632.8e-9) = 1e-3 / 3.14e-19 = 3.18e15.]
+
+Q: The energy of a photon of frequency 5 × 10^14 Hz is (h = 6.626e-34 J s):
+A) 3.313 × 10^-19 J
+B) 3.313 × 10^-16 J
+C) 3.313 × 10^-22 J
+D) 3.313 × 10^-25 J
+Answer: A [E = h f = 6.626e-34 * 5e14 = 3.313e-19 J.]
+
+Q: The momentum of a photon of frequency 5 × 10^14 Hz is:
+A) 1.104 × 10^-27 kg m/s
+B) 1.104 × 10^-24 kg m/s
+C) 1.104 × 10^-30 kg m/s
+D) 1.104 × 10^-21 kg m/s
+Answer: A [p = h f / c = 3.313e-19 / 3e8 = 1.104e-27 kg m/s.]
+
+Q: The work function of a metal is 4.5 eV. The threshold frequency is:
+A) 1.09 × 10^15 Hz
+B) 1.09 × 10^14 Hz
+C) 1.09 × 10^16 Hz
+D) 1.09 × 10^13 Hz
+Answer: A [f0 = phi / h = 4.5 * 1.6e-19 / 6.626e-34 = 1.09e15 Hz.]
+
+Q: The stopping potential for a metal is 2 V. The maximum kinetic energy of photoelectrons is:
+A) 2 eV
+B) 1 eV
+C) 4 eV
+D) 0.5 eV
+Answer: A [K_max = e V0 = 2 eV.]
+
+Q: The de Broglie wavelength of a proton moving with velocity 10^5 m/s is (m_p = 1.67e-27 kg):
+A) 3.97 × 10^-12 m
+B) 3.97 × 10^-15 m
+C) 3.97 × 10^-9 m
+D) 3.97 × 10^-18 m
+Answer: A [lambda = h / mv = 6.626e-34 / (1.67e-27 * 1e5) = 6.626e-34 / 1.67e-22 = 3.97e-12 m.]
+
+Q: The energy of a photon is 1.98 × 10^-19 J. Its wavelength is:
+A) 1000 nm
+B) 500 nm
+C) 200 nm
+D) 100 nm
+Answer: A [lambda = h c / E = 6.626e-34 * 3e8 / 1.98e-19 = 1.004e-6 m = 1004 nm ≈ 1000 nm.]
+
+Q: The photoelectric emission is a:
+A) One-to-one process (one photon ejects one electron)
+B) Many-to-one process
+C) One-to-many process
+D) Random process
+Answer: A [One photon can eject at most one electron.]
+
+Q: The Compton effect demonstrates:
+A) Particle nature of light
+B) Wave nature of light
+C) Dual nature of light
+D) Quantum nature of light
+Answer: A [Compton effect shows photon scattering, confirming particle nature.]
+
+Q: The de Broglie wavelength of a particle depends on:
+A) Its momentum
+B) Its kinetic energy
+C) Both A and B
+D) Its potential energy
+Answer: C [lambda = h/p = h/sqrt(2mK).]
+
+Q: The Davisson-Germer experiment used:
+A) Electron diffraction by a nickel crystal
+B) X-ray diffraction by a crystal
+C) Light diffraction by a grating
+D) Neutron diffraction by a crystal
+Answer: A [Electron diffraction by nickel crystal confirmed wave nature of electrons.]
+Reply with `"26_Atoms"` and I will generate the next 45 hard MCQs for you! 🚀

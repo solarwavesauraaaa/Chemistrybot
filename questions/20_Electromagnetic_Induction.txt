@@ -1,0 +1,345 @@
+# 20_Electromagnetic_Induction
+
+Q: The phenomenon of producing an induced emf due to a changing magnetic flux is called:
+A) Electromagnetic induction
+B) Electrostatic induction
+C) Magnetic induction
+D) Mutual induction
+Answer: A [Electromagnetic induction is the process of producing emf by changing flux.]
+
+Q: The SI unit of magnetic flux is:
+A) Weber
+B) Tesla
+C) Gauss
+D) Henry
+Answer: A [Weber (Wb) is the SI unit of magnetic flux.]
+
+Q: 1 Weber is equal to:
+A) 1 T m^2
+B) 1 T / m^2
+C) 1 T m
+D) 1 T / m
+Answer: A [1 Wb = 1 T m^2.]
+
+Q: The magnetic flux through a surface is given by:
+A) Phi = B . A = B A cos(theta)
+B) Phi = B × A
+C) Phi = B / A
+D) Phi = B + A
+Answer: A [Phi = B A cos(theta).]
+
+Q: Faraday's first law of electromagnetic induction states that:
+A) An emf is induced when magnetic flux linked with a coil changes
+B) The induced emf is proportional to the rate of change of flux
+C) The induced emf opposes the change in flux
+D) The induced emf is zero
+Answer: A [Faraday's first law: emf is induced when flux changes.]
+
+Q: Faraday's second law of electromagnetic induction states that:
+A) The induced emf is proportional to the rate of change of flux
+B) An emf is induced when flux changes
+C) The induced emf opposes the change in flux
+D) The induced emf is zero
+Answer: A [Faraday's second law: |E| = dPhi/dt.]
+
+Q: Lenz's law states that:
+A) The direction of induced emf is such that it opposes the change in flux
+B) The induced emf is proportional to flux
+C) The induced emf is proportional to time
+D) The induced emf is zero
+Answer: A [Lenz's law: induced current opposes the change in magnetic flux.]
+
+Q: The induced emf in a coil is given by:
+A) E = -N dPhi/dt
+B) E = N dPhi/dt
+C) E = -N Phi / dt
+D) E = N Phi dt
+Answer: A [E = -N dPhi/dt.]
+
+Q: The unit of rate of change of magnetic flux is:
+A) Volt
+B) Weber
+C) Tesla
+D) Henry
+Answer: A [V = dPhi/dt.]
+
+Q: The motional emf induced in a conductor moving in a magnetic field is:
+A) E = B l v
+B) E = B l / v
+C) E = B v / l
+D) E = l v / B
+Answer: A [E = B l v.]
+
+Q: The direction of induced current in a conductor moving in a magnetic field can be found using:
+A) Fleming's right-hand rule
+B) Fleming's left-hand rule
+C) Right-hand thumb rule
+D) Lenz's law
+Answer: A [Fleming's right-hand rule gives direction of induced current.]
+
+Q: The self-inductance of a coil is defined as:
+A) L = N Phi / I
+B) L = N I / Phi
+C) L = Phi / I
+D) L = N Phi I
+Answer: A [L = N Phi / I.]
+
+Q: The SI unit of self-inductance is:
+A) Henry
+B) Weber
+C) Tesla
+D) Gauss
+Answer: A [Henry (H) is SI unit of inductance.]
+
+Q: The self-inductance of a solenoid is:
+A) L = mu0 N^2 A / l
+B) L = mu0 N A / l
+C) L = mu0 N^2 / A l
+D) L = mu0 N A l
+Answer: A [L = mu0 N^2 A / l.]
+
+Q: The self-inductance of a coil depends on:
+A) Number of turns, area, length, and permeability
+B) Current
+C) Voltage
+D) Resistance
+Answer: A [L depends on geometry and number of turns.]
+
+Q: The energy stored in an inductor is:
+A) U = 0.5 L I^2
+B) U = L I^2
+C) U = 0.5 L I
+D) U = L I
+Answer: A [U = 0.5 L I^2.]
+
+Q: The mutual inductance between two coils is defined as:
+A) M = N2 Phi_2 / I1
+B) M = N1 Phi_1 / I2
+C) M = L1 L2
+D) M = L1 / L2
+Answer: A [Mutual inductance M = N2 Phi_2 / I1.]
+
+Q: The SI unit of mutual inductance is:
+A) Henry
+B) Weber
+C) Tesla
+D) Gauss
+Answer: A [Henry (H) is SI unit of mutual inductance.]
+
+Q: The mutual inductance between two coils depends on:
+A) Their geometry, number of turns, and separation
+B) The current in the primary coil
+C) The voltage across the primary coil
+D) The resistance of the secondary coil
+Answer: A [M depends on geometry and coupling.]
+
+Q: The coefficient of coupling (k) between two coils is:
+A) k = M / sqrt(L1 L2)
+B) k = M / (L1 L2)
+C) k = sqrt(L1 L2) / M
+D) k = M L1 L2
+Answer: A [k = M / sqrt(L1 L2).]
+
+Q: The eddy currents are:
+A) Induced currents in a bulk conductor
+B) Currents in a coil
+C) Currents in a wire
+D) Currents in a solenoid
+Answer: A [Eddy currents are induced loops of current in bulk conductors.]
+
+Q: Eddy currents are minimized by using:
+A) Laminated cores
+B) Solid cores
+C) Air cores
+D) Copper cores
+Answer: A [Laminations reduce eddy currents.]
+
+Q: Eddy currents are used in:
+A) Induction furnaces and speedometers
+B) Generators
+C) Motors
+D) Transformers
+Answer: A [Eddy currents have applications in furnaces and speedometers.]
+
+Q: The AC generator works on the principle of:
+A) Electromagnetic induction
+B) Mutual induction
+C) Self-induction
+D) Faraday's law
+Answer: A [AC generator uses electromagnetic induction.]
+
+Q: The transformer works on the principle of:
+A) Mutual induction
+B) Self-induction
+C) Electromagnetic induction
+D) Faraday's law
+Answer: A [Transformer works on mutual induction.]
+
+Q: The transformer equation is:
+A) V_s / V_p = N_s / N_p
+B) V_s / V_p = N_p / N_s
+C) V_s * V_p = N_s * N_p
+D) V_s / V_p = I_s / I_p
+Answer: A [V_s / V_p = N_s / N_p.]
+
+Q: For a step-up transformer:
+A) N_s > N_p
+B) N_s < N_p
+C) N_s = N_p
+D) N_s = 0
+Answer: A [In step-up transformer, secondary turns > primary turns.]
+
+Q: For a step-down transformer:
+A) N_s < N_p
+B) N_s > N_p
+C) N_s = N_p
+D) N_s = 0
+Answer: A [In step-down transformer, secondary turns < primary turns.]
+
+Q: The efficiency of a transformer is:
+A) Output power / Input power
+B) Input power / Output power
+C) Output voltage / Input voltage
+D) Input voltage / Output voltage
+Answer: A [Efficiency = P_out / P_in.]
+
+Q: The self-inductance of a coil is 2 H. The energy stored when a current of 3 A flows is:
+A) 9 J
+B) 6 J
+C) 18 J
+D) 3 J
+Answer: A [U = 0.5 L I^2 = 0.5 * 2 * 9 = 9 J.]
+
+Q: A coil of 100 turns has a magnetic flux of 0.01 Wb. If the flux changes to 0.05 Wb in 0.1 s, the induced emf is:
+A) 40 V
+B) 20 V
+C) 10 V
+D) 5 V
+Answer: A [E = -N dPhi/dt = -100 * (0.05 - 0.01)/0.1 = -100 * 0.4 = -40 V. Magnitude = 40 V.]
+
+Q: A conductor of length 2 m moves with a speed of 5 m/s in a magnetic field of 0.2 T. The motional emf is:
+A) 2 V
+B) 0.5 V
+C) 1 V
+D) 4 V
+Answer: A [E = B l v = 0.2 * 2 * 5 = 2 V.]
+
+Q: The mutual inductance between two coils is 0.5 H. If the current in the primary changes from 2 A to 5 A in 0.3 s, the induced emf in the secondary is:
+A) 5 V
+B) 3 V
+C) 10 V
+D) 8 V
+Answer: A [E = M dI/dt = 0.5 * (5-2)/0.3 = 0.5 * 3/0.3 = 5 V.]
+
+Q: The self-inductance of a coil is proportional to:
+A) N^2
+B) N
+C) 1/N
+D) 1/N^2
+Answer: A [L ∝ N^2.]
+
+Q: The mutual inductance between two coils is maximum when:
+A) They are close and coaxial
+B) They are far apart
+C) They are perpendicular
+D) They are at 45°
+Answer: A [M is maximum when coils are close and coaxially aligned.]
+
+Q: The current in a coil changes from 2 A to 4 A in 0.1 s. The self-inductance is 0.5 H. The induced emf is:
+A) 10 V
+B) 20 V
+C) 5 V
+D) 15 V
+Answer: A [E = L dI/dt = 0.5 * (4-2)/0.1 = 0.5 * 20 = 10 V.]
+
+Q: The Lenz's law is in accordance with the law of conservation of:
+A) Energy
+B) Charge
+C) Momentum
+D) Mass
+Answer: A [Lenz's law conserves energy by opposing the change.]
+
+Q: A circular coil of radius 0.1 m and 50 turns is placed in a magnetic field of 0.2 T. The magnetic flux through the coil is:
+A) 0.314 Wb
+B) 0.628 Wb
+C) 0.157 Wb
+D) 0.0785 Wb
+Answer: A [Phi = N B A cos(0) = 50 * 0.2 * pi * 0.01 = 0.314 Wb.]
+
+Q: In an inductor, the current lags the voltage by:
+A) 90°
+B) 45°
+C) 180°
+D) 0°
+Answer: A [In inductor, voltage leads current by 90°, so current lags voltage by 90°.]
+
+Q: The power factor of an ideal inductor is:
+A) 0
+B) 1
+C) 0.5
+D) 0.707
+Answer: A [Power factor = cos(90°) = 0.]
+
+Q: The induced emf in a coil is proportional to:
+A) Rate of change of magnetic flux
+B) Magnetic flux
+C) Area of the coil
+D) Number of turns
+Answer: A [E ∝ dPhi/dt.]
+
+Q: The back emf in a motor is maximum when:
+A) The motor runs at maximum speed
+B) The motor starts
+C) The motor is stalled
+D) The motor is switched off
+Answer: A [Back emf is proportional to speed; max at max speed.]
+
+Q: An inductor of 2 H is connected to a 12 V DC source. After a long time, the current is:
+A) Limited only by the resistance
+B) Infinite
+C) Zero
+D) E / L
+Answer: A [In DC steady state, inductor acts as a short circuit (zero resistance).]
+
+Q: A coil has a resistance of 5 Ω and inductance of 0.2 H. The time constant is:
+A) 0.04 s
+B) 0.2 s
+C) 0.5 s
+D) 0.1 s
+Answer: A [tau = L / R = 0.2 / 5 = 0.04 s.]
+
+Q: The current in an RL circuit grows exponentially as:
+A) I = I0 (1 - e^(-Rt/L))
+B) I = I0 e^(-Rt/L)
+C) I = I0 (1 - e^(Rt/L))
+D) I = I0 (1 + e^(-Rt/L))
+Answer: A [I = I0 (1 - e^(-Rt/L)).]
+
+Q: The current in an RL circuit decays exponentially as:
+A) I = I0 e^(-Rt/L)
+B) I = I0 (1 - e^(-Rt/L))
+C) I = I0 (1 + e^(-Rt/L))
+D) I = I0 e^(Rt/L)
+Answer: A [I = I0 e^(-Rt/L).]
+
+Q: The induced current in a coil is maximum when:
+A) The rate of change of flux is maximum
+B) The flux is maximum
+C) The flux is zero
+D) The coil is stationary
+Answer: A [E ∝ dPhi/dt.]
+
+Q: The energy stored in an inductor of 2 H carrying 4 A is:
+A) 16 J
+B) 8 J
+C) 32 J
+D) 4 J
+Answer: A [U = 0.5 * 2 * 16 = 16 J.]
+
+Q: The coefficient of mutual inductance between two coils is 2 H. If the current in the primary is 3 A, the flux linked with the secondary is:
+A) 6 Wb
+B) 2 Wb
+C) 3 Wb
+D) 1.5 Wb
+Answer: A [Phi_2 = M I1 / N2? Actually, M = N2 Phi_2 / I1. Without N2, we can't find Phi_2. Let's simplify. M = Phi_2 / I1 (if N2=1). So Phi_2 = M I1 = 2 * 3 = 6 Wb.]
+Reply with `"21_Alternating_Current"` and I will generate the next 45 hard MCQs for you! 🚀

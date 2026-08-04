@@ -1,0 +1,394 @@
+# 27_Nuclei
+
+Q: The nucleus of an atom consists of:
+A) Protons and neutrons
+B) Protons and electrons
+C) Electrons and neutrons
+D) Only protons
+Answer: A [The nucleus contains protons and neutrons (collectively called nucleons).]
+
+Q: The mass number (A) of a nucleus is:
+A) The total number of protons and neutrons
+B) The number of protons
+C) The number of neutrons
+D) The number of electrons
+Answer: A [A = Z + N.]
+
+Q: The atomic number (Z) of a nucleus is:
+A) The number of protons
+B) The number of neutrons
+C) The number of nucleons
+D) The number of electrons
+Answer: A [Z is the number of protons.]
+
+Q: The neutron number (N) is:
+A) A - Z
+B) Z - A
+C) A + Z
+D) Z / A
+Answer: A [N = A - Z.]
+
+Q: The isotopes of an element have:
+A) Same atomic number, different mass number
+B) Same mass number, different atomic number
+C) Same atomic number, same mass number
+D) Different atomic number, different mass number
+Answer: A [Isotopes have same Z, different A.]
+
+Q: The isobars have:
+A) Same mass number, different atomic number
+B) Same atomic number, different mass number
+C) Same atomic number, same mass number
+D) Different atomic number, different mass number
+Answer: A [Isobars have same A, different Z.]
+
+Q: The isotones have:
+A) Same neutron number, different atomic number
+B) Same atomic number, different mass number
+C) Same mass number, different atomic number
+D) Same atomic number, same mass number
+Answer: A [Isotones have same N, different Z.]
+
+Q: The radius of a nucleus is given by:
+A) R = R0 A^(1/3)
+B) R = R0 A^(2/3)
+C) R = R0 A
+D) R = R0 / A
+Answer: A [R = R0 A^(1/3), where R0 = 1.2 × 10^-15 m.]
+
+Q: The density of a nucleus is:
+A) Approximately constant for all nuclei
+B) Varies with A
+C) Varies with Z
+D) Varies with N
+Answer: A [Nuclear density is roughly constant (~2.3 × 10^17 kg/m^3).]
+
+Q: The nuclear force is:
+A) Attractive and short-range
+B) Repulsive and long-range
+C) Attractive and long-range
+D) Repulsive and short-range
+Answer: A [Nuclear force is attractive at short range (~10^-15 m).]
+
+Q: The mass defect of a nucleus is:
+A) The difference between the mass of the nucleus and the sum of masses of its nucleons
+B) The sum of masses of its nucleons
+C) The mass of the nucleus
+D) The number of nucleons
+Answer: A [Mass defect delta_m = [Z m_p + (A-Z) m_n] - M_nucleus.]
+
+Q: The binding energy of a nucleus is:
+A) E_b = delta_m c^2
+B) E_b = delta_m / c^2
+C) E_b = delta_m c
+D) E_b = delta_m / c
+Answer: A [E_b = delta_m c^2.]
+
+Q: The binding energy per nucleon is:
+A) E_b / A
+B) E_b * A
+C) E_b / Z
+D) E_b / N
+Answer: A [Binding energy per nucleon = E_b / A.]
+
+Q: The binding energy per nucleon is maximum for:
+A) Iron (Fe)
+B) Hydrogen (H)
+C) Uranium (U)
+D) Helium (He)
+Answer: A [Iron (A ≈ 56) has the highest binding energy per nucleon (~8.8 MeV).]
+
+Q: Nuclear fission is the process in which:
+A) A heavy nucleus splits into lighter nuclei
+B) Light nuclei combine to form a heavier nucleus
+C) A nucleus emits alpha particles
+D) A nucleus emits beta particles
+Answer: A [Fission: heavy nucleus splits into lighter ones.]
+
+Q: Nuclear fusion is the process in which:
+A) Light nuclei combine to form a heavier nucleus
+B) A heavy nucleus splits into lighter nuclei
+C) A nucleus emits alpha particles
+D) A nucleus emits beta particles
+Answer: A [Fusion: light nuclei combine to form a heavier nucleus.]
+
+Q: The energy released in nuclear fission is due to:
+A) The mass defect
+B) The binding energy
+C) The kinetic energy
+D) The potential energy
+Answer: A [Energy released comes from the mass defect (E = delta_m c^2).]
+
+Q: The nuclear fission of U-235 is initiated by:
+A) A slow neutron
+B) A fast neutron
+C) A proton
+D) An alpha particle
+Answer: A [U-235 fission is induced by slow (thermal) neutrons.]
+
+Q: The products of nuclear fission of U-235 are:
+A) Two lighter nuclei and neutrons
+B) Two heavier nuclei
+C) Alpha particles and beta particles
+D) Only neutrons
+Answer: A [Fission products: two smaller nuclei and some neutrons.]
+
+Q: The chain reaction in nuclear fission is sustained by:
+A) The neutrons released in the fission process
+B) The energy released
+C) The heat generated
+D) The radiation emitted
+Answer: A [Neutrons released cause further fission, sustaining the chain reaction.]
+
+Q: The moderator in a nuclear reactor is used to:
+A) Slow down fast neutrons
+B) Absorb neutrons
+C) Cool the reactor
+D) Shield the reactor
+Answer: A [Moderators (e.g., graphite, heavy water) slow down neutrons.]
+
+Q: The control rods in a nuclear reactor are made of:
+A) Materials that absorb neutrons (e.g., boron, cadmium)
+B) Materials that reflect neutrons
+C) Materials that slow down neutrons
+D) Materials that emit neutrons
+Answer: A [Control rods (e.g., boron, cadmium) absorb neutrons to control the reaction rate.]
+
+Q: The coolant in a nuclear reactor is used to:
+A) Remove heat from the reactor core
+B) Slow down neutrons
+C) Absorb neutrons
+D) Shield the reactor
+Answer: A [Coolants (e.g., water, liquid sodium) carry away heat.]
+
+Q: The fuel used in a nuclear reactor is typically:
+A) U-235 or Pu-239
+B) U-238
+C) Th-232
+D) H-2
+Answer: A [U-235 and Pu-239 are common nuclear fuels.]
+
+Q: The energy released in nuclear fusion is:
+A) Greater than that in fission per unit mass
+B) Less than that in fission per unit mass
+C) Equal to that in fission
+D) Zero
+Answer: A [Fusion releases more energy per unit mass than fission.]
+
+Q: The fusion reaction in the Sun involves:
+A) Hydrogen nuclei fusing to form helium
+B) Helium nuclei fusing to form carbon
+C) Carbon nuclei fusing to form oxygen
+D) Oxygen nuclei fusing to form iron
+Answer: A [The Sun's energy comes from hydrogen fusion to helium.]
+
+Q: The half-life of a radioactive substance is:
+A) The time for half of the nuclei to decay
+B) The time for all nuclei to decay
+C) The time for one-fourth of the nuclei to decay
+D) The time for three-fourths of the nuclei to decay
+Answer: A [Half-life is the time for half the sample to decay.]
+
+Q: The decay constant (lambda) is related to half-life (T_1/2) by:
+A) T_1/2 = 0.693 / lambda
+B) T_1/2 = lambda / 0.693
+C) T_1/2 = 0.693 * lambda
+D) T_1/2 = 1 / lambda
+Answer: A [T_1/2 = ln 2 / lambda = 0.693 / lambda.]
+
+Q: The activity of a radioactive sample is:
+A) A = lambda N
+B) A = N / lambda
+C) A = N * lambda^2
+D) A = N^2 / lambda
+Answer: A [Activity = rate of decay = lambda N.]
+
+Q: The SI unit of activity is:
+A) Becquerel (Bq)
+B) Curie (Ci)
+C) Rutherford (Rd)
+D) Gray (Gy)
+Answer: A [Becquerel (1 Bq = 1 decay/s).]
+
+Q: 1 Curie is equal to:
+A) 3.7 × 10^10 Bq
+B) 3.7 × 10^7 Bq
+C) 3.7 × 10^13 Bq
+D) 3.7 × 10^5 Bq
+Answer: A [1 Ci = 3.7 × 10^10 Bq.]
+
+Q: The law of radioactive decay is:
+A) N = N0 e^(-lambda t)
+B) N = N0 e^(lambda t)
+C) N = N0 (1 - e^(-lambda t))
+D) N = N0 (1 + e^(-lambda t))
+Answer: A [N = N0 e^(-lambda t).]
+
+Q: Alpha decay is the emission of:
+A) A helium nucleus (4He)
+B) An electron
+C) A positron
+D) A gamma ray
+Answer: A [Alpha particle is a helium nucleus (2 protons + 2 neutrons).]
+
+Q: Beta decay is the emission of:
+A) An electron or positron
+B) A helium nucleus
+C) A gamma ray
+D) A proton
+Answer: A [Beta decay emits an electron (beta-) or positron (beta+).]
+
+Q: Gamma decay is the emission of:
+A) High-energy photons (gamma rays)
+B) Electrons
+C) Positrons
+D) Helium nuclei
+Answer: A [Gamma decay emits gamma rays (high-energy photons).]
+
+Q: In beta-minus decay, the atomic number:
+A) Increases by 1
+B) Decreases by 1
+C) Remains unchanged
+D) Increases by 2
+Answer: A [In beta- decay, Z increases by 1 (n -> p + e- + antineutrino).]
+
+Q: In beta-plus decay, the atomic number:
+A) Decreases by 1
+B) Increases by 1
+C) Remains unchanged
+D) Decreases by 2
+Answer: A [In beta+ decay, Z decreases by 1 (p -> n + e+ + neutrino).]
+
+Q: In alpha decay, the atomic number:
+A) Decreases by 2
+B) Increases by 2
+C) Decreases by 1
+D) Increases by 1
+Answer: A [Alpha decay reduces Z by 2 (loses 2 protons).]
+
+Q: In alpha decay, the mass number:
+A) Decreases by 4
+B) Increases by 4
+C) Decreases by 2
+D) Increases by 2
+Answer: A [Alpha decay reduces A by 4.]
+
+Q: The carbon-14 dating method is used to determine the age of:
+A) Organic materials
+B) Rocks
+C) Minerals
+D) Inorganic materials
+Answer: A [C-14 dating is used for organic materials (e.g., fossils, wood).]
+
+Q: The half-life of carbon-14 is:
+A) 5730 years
+B) 5730 days
+C) 5730 hours
+D) 5730 seconds
+Answer: A [T_1/2 of C-14 ≈ 5730 years.]
+
+Q: The radioactive isotope used in medical imaging is:
+A) Technetium-99m
+B) Uranium-235
+C) Plutonium-239
+D) Carbon-14
+Answer: A [Tc-99m is widely used in medical diagnostics.]
+
+Q: The fission of U-235 releases about:
+A) 200 MeV per fission
+B) 200 J per fission
+C) 200 eV per fission
+D) 200 keV per fission
+Answer: A [U-235 fission releases ~200 MeV energy.]
+
+Q: The fusion of hydrogen to helium in the Sun releases energy at a rate of:
+A) 3.8 × 10^26 W
+B) 3.8 × 10^20 W
+C) 3.8 × 10^30 W
+D) 3.8 × 10^24 W
+Answer: A [The Sun's luminosity is ~3.8 × 10^26 W.]
+
+Q: The mass of a proton is approximately:
+A) 1.67 × 10^-27 kg
+B) 9.1 × 10^-31 kg
+C) 1.6 × 10^-19 kg
+D) 6.6 × 10^-34 kg
+Answer: A [m_p ≈ 1.67 × 10^-27 kg.]
+
+Q: The mass of a neutron is approximately:
+A) 1.67 × 10^-27 kg
+B) 9.1 × 10^-31 kg
+C) 1.6 × 10^-19 kg
+D) 6.6 × 10^-34 kg
+Answer: A [m_n ≈ 1.67 × 10^-27 kg (slightly more than proton).]
+
+Q: The binding energy of a nucleus is a measure of its:
+A) Stability
+B) Radioactivity
+C) Size
+D) Mass
+Answer: A [Higher binding energy means more stable nucleus.]
+
+Q: The mass defect is directly related to:
+A) The binding energy
+B) The atomic number
+C) The mass number
+D) The density
+Answer: A [delta_m = E_b / c^2.]
+
+Q: The energy equivalent of 1 atomic mass unit (amu) is:
+A) 931.5 MeV
+B) 931.5 eV
+C) 931.5 keV
+D) 931.5 J
+Answer: A [1 amu = 931.5 MeV.]
+
+Q: The atomic mass unit (amu) is defined as:
+A) 1/12 of the mass of a C-12 atom
+B) The mass of a proton
+C) The mass of a neutron
+D) The mass of an electron
+Answer: A [1 amu = 1/12 mass of C-12 atom.]
+
+Q: The mass of a C-12 atom is exactly:
+A) 12 amu
+B) 12 g
+C) 12 kg
+D) 12 mg
+Answer: A [C-12 is defined as exactly 12 amu.]
+
+Q: The neutron was discovered by:
+A) Chadwick
+B) Rutherford
+C) Bohr
+D) Thomson
+Answer: A [Chadwick discovered the neutron in 1932.]
+
+Q: The proton was discovered by:
+A) Rutherford
+B) Chadwick
+C) Bohr
+D) Thomson
+Answer: A [Rutherford discovered the proton.]
+
+Q: The electron was discovered by:
+A) J.J. Thomson
+B) Rutherford
+C) Chadwick
+D) Bohr
+Answer: A [J.J. Thomson discovered the electron in 1897.]
+
+Q: The nuclear radius is proportional to:
+A) A^(1/3)
+B) A^(2/3)
+C) A
+D) A^2
+Answer: A [R ∝ A^(1/3).]
+
+Q: The density of a nucleus is approximately:
+A) 2.3 × 10^17 kg/m^3
+B) 2.3 × 10^15 kg/m^3
+C) 2.3 × 10^19 kg/m^3
+D) 2.3 × 10^13 kg/m^3
+Answer: A [Nuclear density ≈ 2.3 × 10^17 kg/m^3.]
+Reply with `"28_Semiconductor_Electronics"` and I will generate the next 45 hard MCQs for you! 🚀

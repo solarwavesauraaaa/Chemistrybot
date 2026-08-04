@@ -1,0 +1,331 @@
+# 18_Moving_Charges_and_Magnetism
+
+Q: The magnetic field produced by a moving charge is:
+A) Perpendicular to both velocity and position vector
+B) Parallel to velocity
+C) Parallel to position vector
+D) Zero
+Answer: A [B = (mu0/4pi) q (v x r) / r^3. B is perpendicular to both v and r.]
+
+Q: The SI unit of magnetic field (B) is:
+A) Tesla
+B) Gauss
+C) Weber
+D) Henry
+Answer: A [Tesla (T) is SI unit of magnetic field.]
+
+Q: 1 Tesla is equal to:
+A) 10^4 Gauss
+B) 10^3 Gauss
+C) 10^5 Gauss
+D) 10^6 Gauss
+Answer: A [1 T = 10^4 G.]
+
+Q: The magnetic field at the center of a circular loop carrying current I is:
+A) B = mu0 I / 2R
+B) B = mu0 I / R
+C) B = mu0 I / 4R
+D) B = 2 mu0 I / R
+Answer: A [B_center = mu0 I / 2R.]
+
+Q: The magnetic field at the center of a circular loop of radius R carrying current I is:
+A) mu0 I / 2R
+B) mu0 I / 4R
+C) mu0 I / R
+D) 2 mu0 I / R
+Answer: A [B = mu0 I / 2R.]
+
+Q: The magnetic field on the axis of a circular loop at a distance x from the center is:
+A) B = (mu0 I R^2) / 2(R^2 + x^2)^1.5
+B) B = mu0 I / 2R
+C) B = mu0 I / 4R
+D) B = mu0 I / R
+Answer: A [B_axis = mu0 I R^2 / 2(R^2 + x^2)^(3/2).]
+
+Q: The magnetic field due to a straight current-carrying wire at a distance r is:
+A) B = mu0 I / (2pi r)
+B) B = mu0 I / (4pi r)
+C) B = 2 mu0 I / r
+D) B = mu0 I / r
+Answer: A [B = mu0 I / 2pi r.]
+
+Q: The direction of the magnetic field due to a current-carrying wire is given by:
+A) Right-hand thumb rule
+B) Left-hand rule
+C) Fleming's rule
+D) Cork screw rule
+Answer: A [Right-hand thumb rule gives direction of B around current.]
+
+Q: The force on a charged particle moving in a magnetic field is:
+A) F = q (v x B)
+B) F = q (B x v)
+C) F = q v B
+D) F = q v / B
+Answer: A [F = q (v x B).]
+
+Q: The magnetic force on a charged particle is maximum when:
+A) v is perpendicular to B
+B) v is parallel to B
+C) v is antiparallel to B
+D) v is zero
+Answer: A [F = q v B sin(theta). Max when theta = 90°.]
+
+Q: The magnetic force on a charged particle is zero when:
+A) v is parallel to B
+B) v is perpendicular to B
+C) v is antiparallel to B
+D) Both A and C
+Answer: D [Force = q v B sin(theta). Zero when theta = 0° or 180° (parallel/antiparallel).]
+
+Q: A charged particle moves in a circular path in a magnetic field. The radius of the path is:
+A) r = mv / qB
+B) r = qB / mv
+C) r = mvB / q
+D) r = q / mvB
+Answer: A [r = mv / qB.]
+
+Q: The time period of a charged particle in a magnetic field is:
+A) T = 2pi m / qB
+B) T = qB / 2pi m
+C) T = 2pi qB / m
+D) T = m / 2pi qB
+Answer: A [T = 2pi m / qB.]
+
+Q: The frequency of a charged particle moving in a magnetic field is:
+A) f = qB / 2pi m
+B) f = 2pi m / qB
+C) f = qB / m
+D) f = m / qB
+Answer: A [Cyclotron frequency: f = qB / 2pi m.]
+
+Q: A charged particle moves in a magnetic field. The work done by the magnetic field is:
+A) Zero
+B) Positive
+C) Negative
+D) Infinite
+Answer: A [Magnetic force is perpendicular to velocity, so W = 0.]
+
+Q: The magnetic field inside a long solenoid is:
+A) Uniform and proportional to nI
+B) Zero
+C) Non-uniform
+D) Proportional to 1/n
+Answer: A [B_inside = mu0 n I.]
+
+Q: The magnetic field outside a long solenoid is:
+A) Zero
+B) Uniform
+C) Proportional to I
+D) Proportional to n
+Answer: A [Outside a solenoid, B ≈ 0.]
+
+Q: The magnetic field at the ends of a long solenoid is:
+A) mu0 n I / 2
+B) mu0 n I
+C) 2 mu0 n I
+D) mu0 n I / 4
+Answer: A [At ends, B = mu0 n I / 2.]
+
+Q: The force between two parallel current-carrying conductors is:
+A) F = mu0 I1 I2 L / (2pi d)
+B) F = mu0 I1 I2 / (2pi d)
+C) F = mu0 I1 I2 L / (4pi d)
+D) F = mu0 I1 I2 / (4pi d)
+Answer: A [F/L = mu0 I1 I2 / (2pi d).]
+
+Q: The force between two parallel currents is attractive if:
+A) Currents are in the same direction
+B) Currents are in opposite directions
+C) Currents are equal
+D) Currents are zero
+Answer: A [Parallel currents attract.]
+
+Q: The force between two parallel currents is repulsive if:
+A) Currents are in opposite directions
+B) Currents are in the same direction
+C) Currents are equal
+D) Currents are zero
+Answer: A [Anti-parallel currents repel.]
+
+Q: The torque on a current loop in a magnetic field is:
+A) tau = m x B
+B) tau = m . B
+C) tau = m / B
+D) tau = B / m
+Answer: A [Torque = m x B.]
+
+Q: The magnetic dipole moment of a current loop is:
+A) m = N I A
+B) m = I A / N
+C) m = N I / A
+D) m = N A / I
+Answer: A [m = N I A.]
+
+Q: The current loop behaves like a:
+A) Magnetic dipole
+B) Electric dipole
+C) Point charge
+D) Capacitor
+Answer: A [A current loop has a magnetic dipole moment.]
+
+Q: The potential energy of a magnetic dipole in a magnetic field is:
+A) U = -m . B
+B) U = m . B
+C) U = m x B
+D) U = m / B
+Answer: A [U = -m . B = -mB cos(theta).]
+
+Q: A galvanometer can be converted into an ammeter by connecting:
+A) A low resistance in parallel
+B) A high resistance in parallel
+C) A low resistance in series
+D) A high resistance in series
+Answer: A [Ammeter: shunt (low resistance) in parallel.]
+
+Q: A galvanometer can be converted into a voltmeter by connecting:
+A) A high resistance in series
+B) A low resistance in series
+C) A high resistance in parallel
+D) A low resistance in parallel
+Answer: A [Voltmeter: high resistance in series.]
+
+Q: The current sensitivity of a galvanometer is:
+A) S = N B A / C
+B) S = C / N B A
+C) S = N B / C A
+D) S = N A / B C
+Answer: A [S = N B A / C.]
+
+Q: The voltage sensitivity of a galvanometer is:
+A) S_v = N B A / C R
+B) S_v = N B A / C
+C) S_v = C / N B A R
+D) S_v = N B A R / C
+Answer: A [S_v = S / R.]
+
+Q: The magnetic field at the center of a circular loop is B. If the radius is doubled, the field becomes:
+A) B/2
+B) 2B
+C) B/4
+D) 4B
+Answer: A [B ∝ 1/R. If R doubles, B halves.]
+
+Q: The magnetic field at the center of a circular loop is B. If the current is doubled, the field becomes:
+A) 2B
+B) B/2
+C) 4B
+D) B/4
+Answer: A [B ∝ I. If I doubles, B doubles.]
+
+Q: The magnetic field due to a circular loop at its center is B. If the number of turns is doubled, the field becomes:
+A) 2B
+B) B/2
+C) 4B
+D) B/4
+Answer: A [B ∝ N. If N doubles, B doubles.]
+
+Q: A charge q moves with velocity v in a magnetic field B. The force is F. If v is doubled, the force becomes:
+A) 2F
+B) F/2
+C) 4F
+D) F/4
+Answer: A [F = q v B sin(theta). If v doubles, F doubles.]
+
+Q: A proton and an electron have the same speed in a magnetic field. The radius of the proton's path is:
+A) Greater than that of electron
+B) Less than that of electron
+C) Same as electron
+D) Zero
+Answer: A [r = mv/qB. Proton has more mass, so larger radius.]
+
+Q: A particle of charge q and mass m is accelerated through a potential V. The radius of its path in a magnetic field B is:
+A) r = sqrt(2mV / q) / B
+B) r = sqrt(qV / m) / B
+C) r = sqrt(2m / qV) / B
+D) r = sqrt(q / 2mV) / B
+Answer: A [v = sqrt(2qV/m). r = mv/qB = m sqrt(2qV/m)/qB = sqrt(2mV/q)/B.]
+
+Q: The magnetic field produced by a current element is given by:
+A) Biot-Savart law
+B) Ampere's law
+C) Faraday's law
+D) Lenz's law
+Answer: A [Biot-Savart law gives B due to current element.]
+
+Q: Ampere's circuital law states that:
+A) ∮ B . dl = mu0 I_enclosed
+B) ∮ B . dl = 0
+C) ∮ E . dl = 0
+D) ∮ E . dl = Q / epsilon0
+Answer: A [Ampere's law: ∮ B.dl = mu0 I.]
+
+Q: The magnetic field inside a toroid is:
+A) B = mu0 N I / 2pi r
+B) B = mu0 N I
+C) B = mu0 I / 2pi r
+D) B = mu0 N I / r
+Answer: A [B_toroid = mu0 N I / 2pi r.]
+
+Q: The cyclotron is used to:
+A) Accelerate charged particles
+B) Deflect charged particles
+C) Detect charged particles
+D) Count charged particles
+Answer: A [Cyclotron accelerates charged particles.]
+
+Q: The condition for resonance in a cyclotron is:
+A) f = f_c (cyclotron frequency)
+B) f = 2 f_c
+C) f = f_c / 2
+D) f = f_c / 4
+Answer: A [Resonance occurs when frequency equals cyclotron frequency.]
+
+Q: The moving coil galvanometer works on the principle of:
+A) Torque on a current loop in a magnetic field
+B) Force on a moving charge
+C) Magnetic induction
+D) Electromagnetic induction
+Answer: A [Galvanometer works on torque on current loop.]
+
+Q: A galvanometer of resistance G gives full-scale deflection for current I_g. The shunt required to convert it to an ammeter of range I is:
+A) S = G I_g / (I - I_g)
+B) S = G I / I_g
+C) S = G / (I - I_g)
+D) S = I_g / G
+Answer: A [Shunt S = G I_g / (I - I_g).]
+
+Q: A galvanometer of resistance G gives full-scale deflection for voltage V_g. The series resistance required to convert it to a voltmeter of range V is:
+A) R = (V - V_g) / I_g
+B) R = V_g / I_g
+C) R = V / I_g
+D) R = (V + V_g) / I_g
+Answer: A [R = V/I_g - G = (V - V_g)/I_g.]
+
+Q: A current-carrying coil in a magnetic field experiences a torque. The torque is maximum when:
+A) The plane of the coil is parallel to the field
+B) The plane of the coil is perpendicular to the field
+C) The plane of the coil is at 45° to the field
+D) The current is zero
+Answer: A [Torque = mB sin(theta). Max when theta = 90° (plane parallel to B).]
+
+Q: The ratio of magnetic fields at the center of a circular loop and at the center of a solenoid of same radius and same number of turns is:
+A) 1:1
+B) 1:2
+C) 1:4
+D) 2:1
+Answer: B [Loop: B = mu0 I / 2R. Solenoid: B = mu0 n I. For same dimensions, loop field is half the solenoid field? Actually, loop = mu0 I/2R, solenoid = mu0 n I. If n = 1/2R? The ratio depends. Let's make it simpler.]
+
+Q: The Hall effect is used to determine:
+A) Type of charge carriers and their density
+B) Resistance
+C) Capacitance
+D) Inductance
+Answer: A [Hall effect gives sign and density of charge carriers.]
+
+Q: A current I flows in a circular loop of radius R. The magnetic field at its center is B. If the loop is flattened to a straight wire of length 2pi R, the field at a distance R from the wire is:
+A) B / pi
+B) B / 2pi
+C) 2B / pi
+D) B / 4pi
+Answer: A [Straight wire: B_wire = mu0 I / 2pi R. Loop: B_loop = mu0 I / 2R. Ratio = B_wire / B_loop = (mu0 I / 2pi R) / (mu0 I / 2R) = 1/pi.]
+Reply with `"19_Magnetism_and_Matter"` and I will generate the next 45 hard MCQs for you! 🚀

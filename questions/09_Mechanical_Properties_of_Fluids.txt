@@ -1,0 +1,331 @@
+# 09_Mechanical_Properties_of_Fluids
+
+Q: The SI unit of pressure is:
+A) Pascal
+B) Newton
+C) Joule
+D) Watt
+Answer: A [Pascal (Pa) is the SI unit of pressure, equal to 1 N/m^2.]
+
+Q: The pressure at a depth h in a liquid of density rho is:
+A) rho g h
+B) rho / g h
+C) g h / rho
+D) rho g / h
+Answer: A [Hydrostatic pressure: P = rho g h.]
+
+Q: Pascal's law states that pressure applied to an enclosed fluid is transmitted:
+A) Undiminished in all directions
+B) Only in the direction of force
+C) Only to the walls
+D) In proportion to the area
+Answer: A [Pascal's law: Pressure is transmitted undiminished throughout the fluid.]
+
+Q: The buoyant force on a body immersed in a fluid is equal to:
+A) Weight of the displaced fluid
+B) Weight of the body
+C) Volume of the body
+D) Density of the body
+Answer: A [Archimedes' principle: Buoyant force = weight of displaced fluid.]
+
+Q: A body floats in a liquid if:
+A) Its density is less than that of the liquid
+B) Its density is greater than that of the liquid
+C) Its density is equal to that of the liquid
+D) Its volume is large
+Answer: A [For floating, density of body < density of liquid.]
+
+Q: The Bernoulli's principle is a consequence of:
+A) Conservation of energy
+B) Conservation of momentum
+C) Conservation of mass
+D) Newton's laws
+Answer: A [Bernoulli's principle is derived from the conservation of energy.]
+
+Q: The velocity of efflux of a liquid from a hole in a tank is given by:
+A) sqrt(2gh)
+B) sqrt(gh)
+C) 2gh
+D) gh
+Answer: A [Torricelli's theorem: v = sqrt(2gh).]
+
+Q: The rise of liquid in a capillary tube is due to:
+A) Surface tension
+B) Viscosity
+C) Pressure
+D) Gravity
+Answer: A [Capillary action is due to surface tension.]
+
+Q: The surface tension of a liquid is the force per unit:
+A) Length
+B) Area
+C) Volume
+D) Mass
+Answer: A [Surface tension = Force / Length (N/m).]
+
+Q: The excess pressure inside a soap bubble of radius R is:
+A) 4T / R
+B) 2T / R
+C) T / R
+D) T / 2R
+Answer: A [Excess pressure in soap bubble = 4T/R (two surfaces).]
+
+Q: The excess pressure inside a liquid drop of radius R is:
+A) 2T / R
+B) 4T / R
+C) T / R
+D) T / 2R
+Answer: A [Excess pressure in liquid drop = 2T/R (one surface).]
+
+Q: The rise of liquid in a capillary tube of radius r is given by:
+A) h = 2T cos(theta) / (rho g r)
+B) h = T cos(theta) / (rho g r)
+C) h = 2T / (rho g r)
+D) h = T / (rho g r)
+Answer: A [Capillary rise: h = 2T cos(theta) / (rho g r).]
+
+Q: The coefficient of viscosity has SI unit:
+A) Pa s
+B) N/m^2
+C) N s / m^2
+D) Both A and C
+Answer: D [Viscosity unit: Pa s = N s / m^2.]
+
+Q: The viscous force between two layers of a fluid is proportional to:
+A) Velocity gradient
+B) Area
+C) Both A and B
+D) Temperature
+Answer: C [Viscous force F = eta A (dv/dx).]
+
+Q: The terminal velocity of a small sphere falling in a viscous liquid is:
+A) Proportional to r^2
+B) Proportional to r
+C) Proportional to 1/r
+D) Proportional to 1/r^2
+Answer: A [v_t = (2/9) (r^2 g (rho - sigma) / eta).]
+
+Q: The Reynolds number is a dimensionless quantity used to determine:
+A) Nature of flow (laminar/turbulent)
+B) Viscosity
+C) Surface tension
+D) Density
+Answer: A [Reynolds number determines whether flow is laminar or turbulent.]
+
+Q: The critical velocity for a fluid flow is given by:
+A) v_c = Re * eta / (rho D)
+B) v_c = Re * rho / (eta D)
+C) v_c = Re * D / (rho eta)
+D) v_c = Re * eta * D / rho
+Answer: A [v_c = Re * eta / (rho D).]
+
+Q: The normal force exerted by a fluid on a surface per unit area is called:
+A) Pressure
+B) Stress
+C) Strain
+D) Buoyancy
+Answer: A [Pressure is normal force per unit area.]
+
+Q: The law of floatation states that a body floats when:
+A) Weight of body equals weight of displaced fluid
+B) Weight of body is less than buoyant force
+C) Weight of body is greater than buoyant force
+D) Density of body equals density of fluid
+Answer: A [For floating, weight = buoyant force = weight of displaced fluid.]
+
+Q: The height of a liquid column in a barometer depends on:
+A) Atmospheric pressure
+B) Density of liquid
+C) Both A and B
+D) Diameter of tube
+Answer: C [h = P_atm / (rho g), so it depends on both atmospheric pressure and density.]
+
+Q: The gauge pressure at a depth h in a liquid is:
+A) rho g h
+B) P_atm + rho g h
+C) P_atm - rho g h
+D) P_atm
+Answer: A [Gauge pressure = absolute pressure - atmospheric pressure = rho g h.]
+
+Q: A hydraulic lift works on the principle of:
+A) Pascal's law
+B) Archimedes' principle
+C) Bernoulli's principle
+D) Torricelli's theorem
+Answer: A [Hydraulic lift is based on Pascal's law.]
+
+Q: The Venturi meter works on the principle of:
+A) Bernoulli's principle
+B) Pascal's law
+C) Archimedes' principle
+D) Torricelli's theorem
+Answer: A [Venturi meter measures flow rate using Bernoulli's principle.]
+
+Q: The speed of liquid flowing out of a hole at depth h is:
+A) sqrt(2gh)
+B) 2gh
+C) sqrt(gh)
+D) gh
+Answer: A [Torricelli's theorem: v = sqrt(2gh).]
+
+Q: A liquid flows through a pipe of varying cross-section. At a constriction, the pressure:
+A) Decreases
+B) Increases
+C) Remains constant
+D) Becomes zero
+Answer: A [From Bernoulli's principle, at constriction, velocity increases, pressure decreases.]
+
+Q: The capillary rise in a tube is h. If the tube radius is doubled, the rise is:
+A) h/2
+B) 2h
+C) h
+D) h/4
+Answer: A [h = 2T cos(theta) / (rho g r). If r is doubled, h becomes half.]
+
+Q: The surface tension of a liquid decreases with:
+A) Increase in temperature
+B) Decrease in temperature
+C) Increase in pressure
+D) Decrease in pressure
+Answer: A [Surface tension decreases as temperature increases.]
+
+Q: A drop of liquid is spherical because:
+A) Surface tension tries to minimize surface area
+B) Gravity is negligible
+C) Viscosity is zero
+D) Density is uniform
+Answer: A [Surface tension makes drops spherical to minimize surface area.]
+
+Q: The angle of contact for pure water and glass is:
+A) 0 degrees
+B) 90 degrees
+C) 180 degrees
+D) 45 degrees
+Answer: A [Water wets glass, so contact angle is 0 degrees.]
+
+Q: The angle of contact for mercury and glass is:
+A) 135 degrees
+B) 0 degrees
+C) 90 degrees
+D) 45 degrees
+Answer: A [Mercury does not wet glass. Contact angle is about 135 degrees.]
+
+Q: A sphere of radius r falls through a viscous liquid. The viscous force is proportional to:
+A) r
+B) r^2
+C) r^3
+D) 1/r
+Answer: A [Stokes' law: F = 6 pi eta r v.]
+
+Q: The terminal velocity of a falling sphere depends on:
+A) Radius of sphere
+B) Density difference
+C) Viscosity of liquid
+D) All of these
+Answer: D [v_t = (2/9) r^2 g (rho - sigma) / eta.]
+
+Q: A fluid is said to be ideal if:
+A) It is incompressible and non-viscous
+B) It is compressible and viscous
+C) It has high density
+D) It has low density
+Answer: A [Ideal fluid: incompressible and non-viscous.]
+
+Q: The equation of continuity is based on:
+A) Conservation of mass
+B) Conservation of energy
+C) Conservation of momentum
+D) Bernoulli's principle
+Answer: A [Equation of continuity: A1 v1 = A2 v2, from mass conservation.]
+
+Q: In a streamline flow, the velocity of a fluid particle:
+A) Is constant at a given point
+B) Changes randomly
+C) Is zero
+D) Depends on time
+Answer: A [In steady streamline flow, velocity at a point is constant with time.]
+
+Q: The pressure in a fluid at rest is:
+A) Same in all directions
+B) Different in different directions
+C) Maximum horizontally
+D) Minimum vertically
+Answer: A [In a fluid at rest, pressure is isotropic (same in all directions).]
+
+Q: The buoyant force on a body in a fluid depends on:
+A) Volume of the body
+B) Density of the fluid
+C) Both A and B
+D) Mass of the body
+Answer: C [Buoyant force = rho_fluid * V * g.]
+
+Q: A ship floats because:
+A) Its average density is less than water
+B) Its mass is less than water
+C) Its volume is large
+D) Its shape is streamlined
+Answer: A [A ship floats because its average density (including air) is less than water.]
+
+Q: The rise of water in a capillary tube is h. If the tube is tilted, the rise:
+A) Remains same
+B) Increases
+C) Decreases
+D) Becomes zero
+Answer: A [The vertical rise remains the same; the length of liquid column increases.]
+
+Q: A drop of water is placed on a waxed surface. The angle of contact is:
+A) Obtuse
+B) Acute
+C) Zero
+D) 90 degrees
+Answer: A [Water does not wet wax, so contact angle is obtuse (> 90).]
+
+Q: The work done in blowing a soap bubble of radius R is:
+A) 8 pi R^2 T
+B) 4 pi R^2 T
+C) 2 pi R^2 T
+D) 6 pi R^2 T
+Answer: A [Work done = surface energy = 2 * 4 pi R^2 * T = 8 pi R^2 T.]
+
+Q: The excess pressure in a bubble of radius R in air is:
+A) 4T / R
+B) 2T / R
+C) T / R
+D) 8T / R
+Answer: A [Excess pressure in air bubble = 4T/R (two surfaces).]
+
+Q: The excess pressure in a liquid drop of radius R in air is:
+A) 2T / R
+B) 4T / R
+C) T / R
+D) 8T / R
+Answer: A [Excess pressure in liquid drop = 2T/R (one surface).]
+
+Q: The velocity of water in a river is greater at:
+A) The center
+B) The banks
+C) The bottom
+D) The surface
+Answer: A [Velocity is maximum at the center due to minimum friction.]
+
+Q: A fluid flows in a pipe of varying cross-section. At a wider section, the velocity is:
+A) Less
+B) Greater
+C) Same
+D) Zero
+Answer: A [From continuity equation, velocity is less at wider section.]
+
+Q: The energy per unit volume of a fluid in streamline flow is:
+A) P + 0.5 rho v^2 + rho g h
+B) P + rho v^2 + rho g h
+C) P + 0.5 rho v^2
+D) rho g h
+Answer: A [Bernoulli's equation: P + 0.5 rho v^2 + rho g h = constant.]
+
+Q: A liquid is flowing through a horizontal pipe. At a point where pressure is less, the velocity is:
+A) Greater
+B) Less
+C) Same
+D) Zero
+Answer: A [From Bernoulli's principle, lower pressure means higher velocity.]
+Reply with `"10_Thermal_Properties_of_Matter"` and I will generate the next 45 hard MCQs for you! 🚀

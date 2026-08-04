@@ -1,0 +1,372 @@
+# 17_Current_Electricity
+
+Q: Electric current is defined as the rate of flow of:
+A) Charge
+B) Electrons
+C) Protons
+D) Neutrons
+Answer: A [I = dQ/dt. Charge flowing per unit time.]
+
+Q: The SI unit of electric current is:
+A) Ampere
+B) Coulomb
+C) Volt
+D) Ohm
+Answer: A [Ampere (A) is the SI unit of current.]
+
+Q: The direction of conventional current is:
+A) Opposite to electron flow
+B) Same as electron flow
+C) Same as proton flow
+D) Random
+Answer: A [Conventional current flows from + to -, opposite to electron flow.]
+
+Q: The resistance of a conductor depends on:
+A) Length, area, and material
+B) Only length
+C) Only area
+D) Only material
+Answer: A [R = rho L / A.]
+
+Q: The resistivity of a material depends on:
+A) Temperature and material
+B) Length
+C) Area
+D) Current
+Answer: A [Resistivity is a material property, depends on temperature.]
+
+Q: The SI unit of resistivity is:
+A) Ohm meter
+B) Ohm / meter
+C) Ohm m^2
+D) Ohm / m^2
+Answer: A [rho = R A / L. Unit = Ohm m.]
+
+Q: The conductivity of a material is:
+A) sigma = 1 / rho
+B) sigma = rho
+C) sigma = R / L
+D) sigma = L / R
+Answer: A [Conductivity is reciprocal of resistivity.]
+
+Q: Ohm's law states that:
+A) V = I R
+B) V = I / R
+C) V = R / I
+D) V = I + R
+Answer: A [V = I R.]
+
+Q: The resistance of a wire of length L and area A is R. If the length is doubled, the resistance becomes:
+A) 2R
+B) R/2
+C) 4R
+D) R/4
+Answer: A [R ∝ L. So new resistance = 2R.]
+
+Q: The resistance of a wire of length L and area A is R. If the area is doubled, the resistance becomes:
+A) R/2
+B) 2R
+C) 4R
+D) R/4
+Answer: A [R ∝ 1/A. So new resistance = R/2.]
+
+Q: The equivalent resistance of resistors in series is:
+A) R_eq = R1 + R2 + ...
+B) 1/R_eq = 1/R1 + 1/R2 + ...
+C) R_eq = R1 * R2 / (R1 + R2)
+D) R_eq = R1 / R2
+Answer: A [Series: R_eq = sum of resistances.]
+
+Q: The equivalent resistance of resistors in parallel is:
+A) 1/R_eq = 1/R1 + 1/R2 + ...
+B) R_eq = R1 + R2 + ...
+C) R_eq = R1 * R2 / (R1 + R2)
+D) R_eq = R1 / R2
+Answer: A [Parallel: reciprocal of sum of reciprocals.]
+
+Q: The internal resistance of a cell affects:
+A) The terminal voltage
+B) The emf
+C) The current
+D) All of these
+Answer: A [Terminal voltage V = E - I r.]
+
+Q: The emf of a cell is the potential difference when:
+A) No current flows
+B) Current is maximum
+C) Current is zero
+D) Current is infinite
+Answer: A [EMF is P.D. when no current flows (open circuit).]
+
+Q: The terminal voltage of a cell is:
+A) V = E - I r
+B) V = E + I r
+C) V = E / I r
+D) V = I r - E
+Answer: A [V = E - I r.]
+
+Q: The power dissipated in a resistor is:
+A) P = I^2 R
+B) P = V / R
+C) P = I / R
+D) P = V^2 * R
+Answer: A [P = I^2 R = V^2 / R.]
+
+Q: The SI unit of power is:
+A) Watt
+B) Joule
+C) Volt
+D) Ampere
+Answer: A [Watt (W) is SI unit of electric power.]
+
+Q: The heating effect of current is used in:
+A) Electric heater
+B) Electric fan
+C) Electric motor
+D) Electric generator
+Answer: A [Heating effect is used in heaters, toasters, etc.]
+
+Q: Joule's law of heating states that heat produced is proportional to:
+A) I^2 R t
+B) I R t
+C) I^2 t / R
+D) I / R t
+Answer: A [H = I^2 R t.]
+
+Q: The amount of heat produced in a resistor of 10 Ω carrying 2 A for 5 seconds is:
+A) 200 J
+B) 100 J
+C) 50 J
+D) 400 J
+Answer: A [H = I^2 R t = 4 * 10 * 5 = 200 J.]
+
+Q: The current in a circuit is 2 A when connected to a 10 V source. The resistance is:
+A) 5 Ω
+B) 10 Ω
+C) 20 Ω
+D) 2 Ω
+Answer: A [R = V / I = 10 / 2 = 5 Ω.]
+
+Q: The number of electrons flowing per second through a conductor carrying 1 A is:
+A) 6.25 x 10^18
+B) 1.6 x 10^19
+C) 6.25 x 10^16
+D) 1.6 x 10^18
+Answer: A [1 A = 1 C/s. 1 C = 6.25 x 10^18 electrons.]
+
+Q: The variation of resistance with temperature for a conductor is:
+A) R = R0 (1 + alpha delta_T)
+B) R = R0 (1 - alpha delta_T)
+C) R = R0 / (1 + alpha delta_T)
+D) R = R0 * alpha * delta_T
+Answer: A [R = R0 (1 + alpha delta_T).]
+
+Q: A material with negative temperature coefficient of resistance is:
+A) Semiconductor
+B) Metal
+C) Superconductor
+D) Insulator
+Answer: A [Semiconductors have negative temp coefficient.]
+
+Q: The resistivity of a conductor increases with:
+A) Increase in temperature
+B) Decrease in temperature
+C) Increase in length
+D) Decrease in area
+Answer: A [For conductors, resistivity increases with temperature.]
+
+Q: The resistivity of a semiconductor decreases with:
+A) Increase in temperature
+B) Decrease in temperature
+C) Increase in length
+D) Decrease in area
+Answer: A [For semiconductors, resistivity decreases with temperature.]
+
+Q: A cell of emf 12 V and internal resistance 2 Ω is connected to a 4 Ω resistor. The current in the circuit is:
+A) 2 A
+B) 3 A
+C) 4 A
+D) 1 A
+Answer: A [I = E / (R + r) = 12 / (4 + 2) = 2 A.]
+
+Q: Two resistors of 6 Ω and 3 Ω are connected in series. The equivalent resistance is:
+A) 9 Ω
+B) 2 Ω
+C) 18 Ω
+D) 4 Ω
+Answer: A [R_eq = 6 + 3 = 9 Ω.]
+
+Q: Two resistors of 6 Ω and 3 Ω are connected in parallel. The equivalent resistance is:
+A) 2 Ω
+B) 9 Ω
+C) 18 Ω
+D) 4 Ω
+Answer: A [1/R = 1/6 + 1/3 = 1/2 -> R = 2 Ω.]
+
+Q: A potentiometer is used to measure:
+A) Potential difference accurately
+B) Current accurately
+C) Resistance accurately
+D) Power accurately
+Answer: A [Potentiometer measures potential difference without drawing current.]
+
+Q: The principle of a potentiometer is:
+A) V = I R
+B) V = constant
+C) Potential gradient is constant
+D) Current is constant
+Answer: C [Potential gradient = V/L is constant for a potentiometer wire.]
+
+Q: A Wheatstone bridge is balanced when:
+A) P / Q = R / S
+B) P * Q = R * S
+C) P + Q = R + S
+D) P - Q = R - S
+Answer: A [Balanced condition: P/Q = R/S.]
+
+Q: The meter bridge works on the principle of:
+A) Wheatstone bridge
+B) Potentiometer
+C) Ohm's law
+D) Joule's law
+Answer: A [Meter bridge is a practical form of Wheatstone bridge.]
+
+Q: In a meter bridge, the null point is obtained at 40 cm from one end. The ratio of resistances is:
+A) 2:3
+B) 3:2
+C) 4:6
+D) 6:4
+Answer: A [P/Q = 40/60 = 2/3.]
+
+Q: The color code of a resistor is used to find:
+A) Its resistance and tolerance
+B) Its power rating
+C) Its voltage rating
+D) Its current rating
+Answer: A [Color codes give resistance and tolerance.]
+
+Q: The Kirchhoff's junction rule is based on:
+A) Conservation of charge
+B) Conservation of energy
+C) Conservation of momentum
+D) Conservation of mass
+Answer: A [Junction rule (KCL): sum of currents entering = sum leaving.]
+
+Q: The Kirchhoff's loop rule is based on:
+A) Conservation of energy
+B) Conservation of charge
+C) Conservation of momentum
+D) Conservation of mass
+Answer: A [Loop rule (KVL): sum of potential changes = 0.]
+
+Q: The power consumed by a 100 W bulb operated at 200 V is:
+A) 100 W
+B) 50 W
+C) 200 W
+D) 25 W
+Answer: A [Power rating is for its rated voltage. At 200 V, it consumes 100 W.]
+
+Q: The resistance of a 100 W bulb rated for 220 V is:
+A) 484 Ω
+B) 242 Ω
+C) 121 Ω
+D) 100 Ω
+Answer: A [R = V^2 / P = 220^2 / 100 = 484 Ω.]
+
+Q: If a 100 W bulb is operated at 110 V, the power consumed is:
+A) 25 W
+B) 50 W
+C) 100 W
+D) 200 W
+Answer: A [P = V^2 / R = 110^2 / 484 = 25 W.]
+
+Q: Two bulbs of 60 W and 100 W are connected in series. Which will glow brighter?
+A) 60 W bulb
+B) 100 W bulb
+C) Both equally
+D) Neither
+Answer: A [In series, current is same. P = I^2 R. Higher R (lower wattage) dissipates more power.]
+
+Q: Two bulbs of 60 W and 100 W are connected in parallel. Which will glow brighter?
+A) 100 W bulb
+B) 60 W bulb
+C) Both equally
+D) Neither
+Answer: A [In parallel, voltage is same. P = V^2 / R. Lower R (higher wattage) dissipates more power.]
+
+Q: The resistance of an ideal voltmeter is:
+A) Infinity
+B) Zero
+C) 1 Ω
+D) 100 Ω
+Answer: A [Voltmeter has very high resistance (ideal = infinity).]
+
+Q: The resistance of an ideal ammeter is:
+A) Zero
+B) Infinity
+C) 1 Ω
+D) 100 Ω
+Answer: A [Ammeter has very low resistance (ideal = zero).]
+
+Q: The current through a conductor is 5 A for 2 minutes. The charge flowing is:
+A) 600 C
+B) 1200 C
+C) 300 C
+D) 150 C
+Answer: A [Q = I * t = 5 * 120 = 600 C.]
+
+Q: A 4 Ω resistor is connected to a 12 V battery. The current is:
+A) 3 A
+B) 2 A
+C) 4 A
+D) 1 A
+Answer: A [I = V / R = 12 / 4 = 3 A.]
+
+Q: Three resistors of 2 Ω, 3 Ω, and 6 Ω are connected in parallel. The equivalent resistance is:
+A) 1 Ω
+B) 2 Ω
+C) 3 Ω
+D) 6 Ω
+Answer: A [1/R = 1/2 + 1/3 + 1/6 = 1 -> R = 1 Ω.]
+
+Q: The conductivity of a material is measured in:
+A) S/m
+B) Ohm m
+C) S m
+D) Ohm / m
+Answer: A [Conductivity unit: Siemens per meter (S/m).]
+
+Q: A wire of resistance 4 Ω is stretched to twice its length. The new resistance is:
+A) 16 Ω
+B) 8 Ω
+C) 4 Ω
+D) 2 Ω
+Answer: A [Volume constant: L doubles, A halves. R = 4 times = 16 Ω.]
+
+Q: The current through a 10 Ω resistor is 0.5 A. The voltage across it is:
+A) 5 V
+B) 10 V
+C) 20 V
+D) 2 V
+Answer: A [V = I R = 0.5 * 10 = 5 V.]
+
+Q: The power dissipated in a 10 Ω resistor carrying 2 A is:
+A) 40 W
+B) 20 W
+C) 10 W
+D) 80 W
+Answer: A [P = I^2 R = 4 * 10 = 40 W.]
+
+Q: A 12 V battery is connected to a 6 Ω resistor. The power consumed is:
+A) 24 W
+B) 12 W
+C) 36 W
+D) 48 W
+Answer: A [P = V^2 / R = 144 / 6 = 24 W.]
+
+Q: The number of joules in 1 kWh is:
+A) 3.6 x 10^6 J
+B) 3.6 x 10^3 J
+C) 3.6 x 10^5 J
+D) 3.6 x 10^7 J
+Answer: A [1 kWh = 1000 W * 3600 s = 3.6 x 10^6 J.]

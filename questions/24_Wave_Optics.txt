@@ -1,0 +1,352 @@
+# 24_Wave_Optics
+
+Q: The wave nature of light was first proposed by:
+A) Huygens
+B) Newton
+C) Einstein
+D) Planck
+Answer: A [Huygens proposed the wave theory of light.]
+
+Q: The phenomenon of interference of light is due to:
+A) Wave nature of light
+B) Particle nature of light
+C) Dual nature of light
+D) Quantum nature of light
+Answer: A [Interference is a wave phenomenon.]
+
+Q: The principle of superposition of waves states that:
+A) The resultant displacement is the sum of individual displacements
+B) Waves cancel each other
+C) Waves add arithmetically
+D) Waves do not interact
+Answer: A [Superposition: resultant = sum of individual displacements.]
+
+Q: In constructive interference, the path difference is:
+A) n lambda
+B) (2n+1) lambda / 2
+C) n lambda / 2
+D) (2n+1) lambda
+Answer: A [Constructive: path difference = n lambda.]
+
+Q: In destructive interference, the path difference is:
+A) (2n+1) lambda / 2
+B) n lambda
+C) n lambda / 2
+D) (2n+1) lambda
+Answer: A [Destructive: path difference = (2n+1) lambda/2.]
+
+Q: The condition for constructive interference in terms of phase difference is:
+A) Delta_phi = 2n pi
+B) Delta_phi = (2n+1) pi
+C) Delta_phi = n pi
+D) Delta_phi = (2n+1) pi/2
+Answer: A [Constructive: phase diff = 2n pi.]
+
+Q: The condition for destructive interference in terms of phase difference is:
+A) Delta_phi = (2n+1) pi
+B) Delta_phi = 2n pi
+C) Delta_phi = n pi
+D) Delta_phi = (2n+1) pi/2
+Answer: A [Destructive: phase diff = (2n+1) pi.]
+
+Q: In Young's double slit experiment, the fringe width is:
+A) beta = lambda D / d
+B) beta = lambda d / D
+C) beta = d D / lambda
+D) beta = D / (lambda d)
+Answer: A [Fringe width beta = lambda D / d.]
+
+Q: In Young's double slit experiment, if the slit separation is doubled, the fringe width becomes:
+A) Half
+B) Double
+C) Four times
+D) One-fourth
+Answer: A [beta ∝ 1/d. If d doubles, beta halves.]
+
+Q: In Young's double slit experiment, if the distance between slits and screen is halved, the fringe width becomes:
+A) Half
+B) Double
+C) Four times
+D) One-fourth
+Answer: A [beta ∝ D. If D halves, beta halves.]
+
+Q: In Young's double slit experiment, if the wavelength of light is doubled, the fringe width becomes:
+A) Double
+B) Half
+C) Four times
+D) One-fourth
+Answer: A [beta ∝ lambda. If lambda doubles, beta doubles.]
+
+Q: In Young's double slit experiment, the central fringe is:
+A) Bright
+B) Dark
+C) Zero intensity
+D) Half intensity
+Answer: A [Central fringe is bright (constructive interference).]
+
+Q: In Young's double slit experiment, the intensity of the central maximum is I0. If one slit is closed, the intensity becomes:
+A) I0 / 4
+B) I0 / 2
+C) I0
+D) 2 I0
+Answer: A [With two slits, I = 4I_single. So single slit intensity = I0/4.]
+
+Q: The condition for maxima in single slit diffraction is:
+A) a sin(theta) = n lambda
+B) a sin(theta) = (2n+1) lambda / 2
+C) a sin(theta) = n lambda / 2
+D) a sin(theta) = (2n+1) lambda
+Answer: A [Diffraction maxima: a sin(theta) = n lambda.]
+
+Q: The condition for minima in single slit diffraction is:
+A) a sin(theta) = n lambda
+B) a sin(theta) = (2n+1) lambda / 2
+C) a sin(theta) = n lambda / 2
+D) a sin(theta) = (2n+1) lambda
+Answer: A [Diffraction minima: a sin(theta) = n lambda.]
+
+Q: The width of the central maximum in single slit diffraction is:
+A) 2 lambda D / a
+B) lambda D / a
+C) D / a
+D) a / D
+Answer: A [Width of central maximum = 2 lambda D / a.]
+
+Q: The phenomenon of diffraction is observed when:
+A) The slit width is comparable to the wavelength
+B) The slit width is much larger than the wavelength
+C) The slit width is much smaller than the wavelength
+D) The slit width is zero
+Answer: A [Diffraction is prominent when slit size ~ wavelength.]
+
+Q: The resolving power of a microscope is given by:
+A) RP = 2 n sin(theta) / lambda
+B) RP = n sin(theta) / lambda
+C) RP = lambda / (2 n sin(theta))
+D) RP = 2 lambda / (n sin(theta))
+Answer: A [RP ∝ 1/lambda and ∝ NA.]
+
+Q: The resolving power of a telescope is:
+A) RP = D / 1.22 lambda
+B) RP = 1.22 lambda / D
+C) RP = D / lambda
+D) RP = lambda / D
+Answer: A [RP = D / 1.22 lambda.]
+
+Q: The polarization of light is a property of:
+A) Transverse waves
+B) Longitudinal waves
+C) Both transverse and longitudinal
+D) Neither
+Answer: A [Polarization occurs only for transverse waves.]
+
+Q: Unpolarized light can be polarized by:
+A) A polaroid
+B) A prism
+C) A lens
+D) A mirror
+Answer: A [Polaroid selectively transmits light with a specific polarization.]
+
+Q: When unpolarized light passes through a polaroid, the transmitted light is:
+A) Polarized
+B) Unpolarized
+C) Partially polarized
+D) Completely unpolarized
+Answer: A [Transmitted light from a polaroid is plane polarized.]
+
+Q: According to Malus's law, the intensity of polarized light transmitted through an analyzer is:
+A) I = I0 cos^2(theta)
+B) I = I0 sin^2(theta)
+C) I = I0 cos(theta)
+D) I = I0 sin(theta)
+Answer: A [Malus's law: I = I0 cos^2(theta).]
+
+Q: When the angle between the polarizer and analyzer is 90°, the transmitted intensity is:
+A) Zero
+B) Maximum
+C) Half
+D) One-fourth
+Answer: A [cos(90°) = 0, so I = 0 (crossed polarizers).]
+
+Q: When the angle between the polarizer and analyzer is 0°, the transmitted intensity is:
+A) Maximum
+B) Zero
+C) Half
+D) One-fourth
+Answer: A [cos(0°) = 1, so I = I0 (parallel polarizers).]
+
+Q: Brewster's law relates:
+A) The polarizing angle to the refractive index
+B) The critical angle to the refractive index
+C) The angle of deviation to the prism angle
+D) The angle of diffraction to the wavelength
+Answer: A [tan(theta_p) = n.]
+
+Q: At the polarizing angle, the reflected and refracted rays are:
+A) Perpendicular to each other
+B) Parallel to each other
+C) Anti-parallel
+D) At 45° to each other
+Answer: A [At Brewster's angle, reflected and refracted rays are 90° apart.]
+
+Q: The wavefront is a surface of:
+A) Constant phase
+B) Constant amplitude
+C) Constant frequency
+D) Constant wavelength
+Answer: A [Wavefront is a surface of constant phase.]
+
+Q: The shape of a wavefront from a point source is:
+A) Spherical
+B) Plane
+C) Cylindrical
+D) Elliptical
+Answer: A [Point source produces spherical wavefronts.]
+
+Q: The shape of a wavefront from a distant source is:
+A) Plane
+B) Spherical
+C) Cylindrical
+D) Elliptical
+Answer: A [Distant source gives plane wavefronts.]
+
+Q: Huygens' principle states that:
+A) Each point on a wavefront acts as a source of secondary wavelets
+B) Light travels in straight lines
+C) Light is a particle
+D) Light is a wave
+Answer: A [Huygens' principle: each point on wavefront is a source of secondary wavelets.]
+
+Q: Coherent sources have:
+A) A constant phase difference
+B) Random phase difference
+C) Zero phase difference
+D) 180° phase difference
+Answer: A [Coherent sources have a constant phase difference.]
+
+Q: In Young's double slit experiment, the path difference for the nth bright fringe is:
+A) n lambda
+B) (2n-1) lambda / 2
+C) n lambda / 2
+D) (2n+1) lambda / 2
+Answer: A [Path diff for nth bright fringe = n lambda.]
+
+Q: In Young's double slit experiment, the path difference for the nth dark fringe is:
+A) (2n-1) lambda / 2
+B) n lambda
+C) n lambda / 2
+D) (2n+1) lambda / 2
+Answer: A [Path diff for nth dark fringe = (2n-1) lambda/2.]
+
+Q: The intensity of light in an interference pattern is proportional to:
+A) The square of the amplitude
+B) The amplitude
+C) The frequency
+D) The wavelength
+Answer: A [Intensity ∝ amplitude^2.]
+
+Q: The visibility of fringes in an interference pattern depends on:
+A) The ratio of intensities of the two interfering waves
+B) The wavelength of light
+C) The slit separation
+D) The screen distance
+Answer: A [Visibility depends on intensity ratio.]
+
+Q: In Young's double slit experiment, if white light is used, the central fringe is:
+A) White
+B) Colored
+C) Dark
+D) Red
+Answer: A [Central fringe is white (all colors interfere constructively).]
+
+Q: The diffraction of light was first observed by:
+A) Grimaldi
+B) Young
+C) Fresnel
+D) Huygens
+Answer: A [Diffraction was first observed by Grimaldi.]
+
+Q: The phenomenon of color in thin films is due to:
+A) Interference
+B) Diffraction
+C) Polarization
+D) Refraction
+Answer: A [Thin film colors are due to interference.]
+
+Q: The condition for constructive interference in reflected light from a thin film is:
+A) 2 mu t cos(r) = n lambda
+B) 2 mu t cos(r) = (2n+1) lambda/2
+C) mu t cos(r) = n lambda
+D) mu t cos(r) = (2n+1) lambda/2
+Answer: A [For reflected light: 2 mu t cos(r) = n lambda.]
+
+Q: The condition for destructive interference in reflected light from a thin film is:
+A) 2 mu t cos(r) = (2n+1) lambda/2
+B) 2 mu t cos(r) = n lambda
+C) mu t cos(r) = n lambda
+D) mu t cos(r) = (2n+1) lambda/2
+Answer: A [For reflected light: 2 mu t cos(r) = (2n+1) lambda/2.]
+
+Q: The phenomenon of polarization of light demonstrates that light is:
+A) A transverse wave
+B) A longitudinal wave
+C) A mechanical wave
+D) A matter wave
+Answer: A [Polarization proves light is transverse.]
+
+Q: The angle between the plane of incidence and the plane of vibration of polarized light is:
+A) Polarizing angle
+B) Critical angle
+C) Angle of refraction
+D) Angle of deviation
+Answer: A [Polarizing angle is the Brewster angle.]
+
+Q: The unit of intensity of light is:
+A) W/m^2
+B) J/m^2
+C) N/m^2
+D) Pa
+Answer: A [Intensity = Power/Area, unit W/m^2.]
+
+Q: A diffraction grating has N lines per unit length. The grating element is:
+A) d = 1 / N
+B) d = N
+C) d = N / 2
+D) d = 2 / N
+Answer: A [Grating element d = 1/N.]
+
+Q: The condition for principal maxima in a diffraction grating is:
+A) d sin(theta) = n lambda
+B) d cos(theta) = n lambda
+C) d sin(theta) = (2n+1) lambda/2
+D) d cos(theta) = (2n+1) lambda/2
+Answer: A [d sin(theta) = n lambda.]
+
+Q: The resolving power of a diffraction grating is:
+A) RP = N n
+B) RP = N / n
+C) RP = n / N
+D) RP = N n^2
+Answer: A [RP = N n, where N is total lines and n is order.]
+
+Q: When a polarized light passes through an optically active substance, the plane of polarization:
+A) Rotates
+B) Remains unchanged
+C) Is destroyed
+D) Is converted to unpolarized
+Answer: A [Optically active substances rotate the plane of polarization.]
+
+Q: The specific rotation of an optically active substance depends on:
+A) Wavelength and temperature
+B) Concentration only
+C) Path length only
+D) Wavelength only
+Answer: A [Specific rotation depends on wavelength and temperature.]
+
+Q: Fresnel's distance is the distance at which:
+A) The diffraction effect becomes significant
+B) The interference effect becomes significant
+C) The polarization effect becomes significant
+D) The refraction effect becomes significant
+Answer: A [Fresnel's distance: a^2 / lambda, where diffraction becomes prominent.]
+f_Radiation_and_Matter"` and I will generate the next 45 hard MCQs for you! 🚀
