@@ -1,0 +1,314 @@
+Q: Which of the following is a correct characteristic of a system at dynamic equilibrium for a physical process?
+A) The opposing processes stop completely
+B) Measurable properties remain constant while both forward and reverse processes continue at equal rates
+C) Equilibrium can be attained in an open system
+D) The equilibrium vapour pressure depends on the amount of liquid present
+Answer: B [Explanation: At equilibrium both opposing processes occur simultaneously at equal rates so that macroscopic properties remain constant; the equilibrium is dynamic and possible only in a closed system.]
+
+Q: For the equilibrium H₂O(l) ⇌ H₂O(g) in a closed vessel at a fixed temperature, the equilibrium vapour pressure
+A) increases with increase in the volume of the vessel
+B) decreases if some more liquid water is added
+C) remains constant irrespective of the amount of liquid or vapour present (provided both phases coexist)
+D) becomes zero when the liquid completely evaporates
+Answer: C [Explanation: Equilibrium vapour pressure is constant at a given temperature as long as liquid and vapour coexist; it is independent of the absolute amounts of the two phases.]
+
+Q: When solid iodine is placed in a closed vessel, the intensity of violet vapour becomes constant after some time. This indicates
+A) all solid iodine has sublimed
+B) the rate of sublimation has become zero
+C) a dynamic equilibrium I₂(s) ⇌ I₂(g) has been established
+D) the system has become open
+Answer: C [Explanation: Constancy of colour intensity shows that the rate of sublimation equals the rate of condensation, establishing dynamic equilibrium.]
+
+Q: Henry's law governs the equilibrium
+A) Sugar(s) ⇌ Sugar(aq)
+B) CO₂(g) ⇌ CO₂(aq)
+C) H₂O(s) ⇌ H₂O(l)
+D) I₂(s) ⇌ I₂(g)
+Answer: B [Explanation: Henry's law states that the mass of a gas dissolved in a given mass of solvent is proportional to the pressure of the gas above the solvent at constant temperature.]
+
+Q: In the radioactive-tracer experiment with sugar, radioactivity appears in both the solid and the solution phases of a saturated solution. This proves
+A) the equilibrium is static
+B) the rate of dissolution equals the rate of crystallisation (dynamic equilibrium)
+C) sugar does not dissolve in water
+D) the solubility of sugar is infinite
+Answer: B [Explanation: Exchange of radioactive and non-radioactive molecules between solid and solution demonstrates continuous dissolution and crystallisation at equal rates.]
+
+Q: For the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the use of deuterium (D₂) in place of H₂ and subsequent mixing of the two equilibrium mixtures leads to formation of mixed isotopologues (NH₂D, NHD₂, etc.). This observation confirms
+A) the reaction stops completely at equilibrium
+B) the equilibrium is dynamic (forward and reverse reactions continue)
+C) ammonia cannot be formed from nitrogen and hydrogen
+D) the equilibrium constant changes with isotopes
+Answer: B [Explanation: Scrambling of H and D atoms can occur only if both forward and reverse reactions continue after the macroscopic concentrations have become constant.]
+
+Q: The equilibrium constant expression for H₂(g) + I₂(g) ⇌ 2HI(g) is
+A) Kc = [H₂][I₂]/[HI]²
+B) Kc = [HI]²/[H₂][I₂]
+C) Kc = [HI]/[H₂][I₂]
+D) Kc = [HI]² - [H₂] - [I₂]
+Answer: B [Explanation: By the law of mass action, Kc is the product of the concentrations of products raised to their stoichiometric coefficients divided by the corresponding product for reactants.]
+
+Q: From the experimental data for the H₂ + I₂ ⇌ 2HI equilibrium at 731 K, the value of Kc is found to be the same whether one starts with pure reactants or pure product. This shows that
+A) equilibrium can be approached from either direction
+B) Kc depends on the starting materials
+C) the reaction is irreversible
+D) the equilibrium constant is zero
+Answer: A [Explanation: The same numerical value of Kc is obtained from both directions, proving that equilibrium is independent of the direction of approach.]
+
+Q: For a general reaction aA + bB ⇌ cC + dD, the correct relationship between Kp and Kc is
+A) Kp = Kc(RT)^Δn where Δn = (c+d) - (a+b)
+B) Kp = Kc(RT)^(-Δn)
+C) Kp = Kc always
+D) Kp = KcRT
+Answer: A [Explanation: From the ideal-gas law, partial pressures pi = ciRT; substitution into the Kp expression yields Kp = Kc(RT)^Δng.]
+
+Q: For the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), Δng =
+A) +2
+B) -2
+C) 0
+D) +1
+Answer: B [Explanation: Δng = 2 - (1+3) = -2.]
+
+Q: Which of the following statements about the equilibrium constant is false?
+A) Kc is independent of the initial concentrations of reactants and products
+B) Kc changes with temperature
+C) A large value of Kc means the equilibrium lies far toward products
+D) Kc depends on the presence of a catalyst
+Answer: D [Explanation: A catalyst accelerates both forward and reverse rates equally and does not alter the position of equilibrium or the value of Kc.]
+
+Q: At equilibrium for a reversible reaction, the free-energy change ΔG is
+A) positive
+B) negative
+C) zero
+D) equal to ΔG°
+Answer: C [Explanation: At equilibrium ΔG = 0 (the system is at minimum Gibbs energy).]
+
+Q: According to Le Chatelier's principle, addition of an inert gas at constant volume to the equilibrium N₂ + 3H₂ ⇌ 2NH₃
+A) shifts the equilibrium to the right
+B) shifts the equilibrium to the left
+C) has no effect on the equilibrium position
+D) increases Kc
+Answer: C [Explanation: At constant volume the partial pressures (and therefore concentrations) of the reacting species remain unchanged; an inert gas does not affect the equilibrium position.]
+
+Q: For the endothermic reaction PCl₅(g) ⇌ PCl₃(g) + Cl₂(g), an increase in temperature
+A) decreases Kc
+B) increases Kc
+C) leaves Kc unchanged
+D) shifts the equilibrium to the left
+Answer: B [Explanation: For an endothermic reaction heat may be regarded as a reactant; raising temperature favours the forward reaction and therefore increases Kc.]
+
+Q: The degree of dissociation of PCl₅ increases with
+A) increase in pressure
+B) decrease in volume at constant temperature
+C) addition of Cl₂ at constant volume
+D) decrease in pressure (or increase in volume)
+Answer: D [Explanation: The reaction proceeds with an increase in the number of moles; lowering pressure favours the side with more moles, increasing the degree of dissociation.]
+
+Q: Which of the following is a Brønsted–Lowry acid but not an Arrhenius acid?
+A) HCl in water
+B) NH₄⁺
+C) NaOH
+D) Ca(OH)₂
+Answer: B [Explanation: NH₄⁺ can donate a proton (NH₄⁺ ⇌ NH₃ + H⁺) and is therefore a Brønsted acid, but it does not produce H⁺ by dissociation in the Arrhenius sense.]
+
+Q: According to the Lewis concept, BF₃ is an acid because it
+A) donates a proton
+B) accepts a proton
+C) accepts an electron pair
+D) donates an electron pair
+Answer: C [Explanation: Lewis acids are electron-pair acceptors; the vacant orbital on boron allows BF₃ to accept a lone pair.]
+
+Q: The conjugate base of H₂PO₄⁻ is
+A) H₃PO₄
+B) HPO₄²⁻
+C) PO₄³⁻
+D) H₂PO₄⁻ itself
+Answer: B [Explanation: Removal of one proton from H₂PO₄⁻ yields HPO₄²⁻.]
+
+Q: For a weak acid HA with dissociation constant Ka, the degree of dissociation α at concentration C (assuming α << 1) is approximately
+A) √(Ka/C)
+B) Ka/C
+C) √(KaC)
+D) KaC
+Answer: A [Explanation: Ka = Cα²/(1-α) ≈ Cα² ⇒ α ≈ √(Ka/C).]
+
+Q: The pH of a 10⁻⁸ M HCl solution is approximately
+A) 8
+B) 6.98
+C) 7
+D) 1
+Answer: B [Explanation: Contribution of H⁺ from water must be taken into account; solving the quadratic gives [H⁺] ≈ 1.05 × 10⁻⁷ M, so pH ≈ 6.98.]
+
+Q: The ionic product of water Kw at 25 °C is 10⁻¹⁴. At this temperature the pH of pure water is
+A) 0
+B) 7
+C) 14
+D) undefined
+Answer: B [Explanation: [H⁺] = [OH⁻] = 10⁻⁷ M ⇒ pH = 7.]
+
+Q: A buffer solution is prepared by mixing equal volumes of 0.1 M CH₃COOH (Ka = 1.8 × 10⁻⁵) and 0.1 M CH₃COONa. The pH of the buffer is approximately
+A) 4.74
+B) 7
+C) 9.26
+D) 2.87
+Answer: A [Explanation: Henderson–Hasselbalch: pH = pKa + log([salt]/[acid]) = 4.74 + log1 = 4.74.]
+
+Q: Addition of a common ion to a weak electrolyte
+A) increases its degree of dissociation
+B) decreases its degree of dissociation
+C) has no effect on dissociation
+D) increases Ka
+Answer: B [Explanation: Common-ion effect suppresses the dissociation of the weak electrolyte (Le Chatelier's principle).]
+
+Q: The solubility product of AgCl is 1.8 × 10⁻¹⁰. The solubility of AgCl in pure water is
+A) 1.8 × 10⁻¹⁰ mol L⁻¹
+B) 1.34 × 10⁻⁵ mol L⁻¹
+C) 3.6 × 10⁻¹⁰ mol L⁻¹
+D) 1.8 × 10⁻⁵ mol L⁻¹
+Answer: B [Explanation: Ksp = s² ⇒ s = √(1.8 × 10⁻¹⁰) = 1.34 × 10⁻⁵ mol L⁻¹.]
+
+Q: The solubility of AgCl is least in
+A) pure water
+B) 0.1 M HBr
+C) 0.1 M AgNO₃
+D) 0.1 M NaNO₃
+Answer: C [Explanation: Presence of a common ion (Cl⁻ or Ag⁺) suppresses solubility by the common-ion effect; NaNO₃ has no common ion.]
+
+Q: For the equilibrium CaCO₃(s) ⇌ CaO(s) + CO₂(g), Kp is equal to
+A) pCO₂
+B) pCaO
+C) pCaCO₃
+D) 1/pCO₂
+Answer: A [Explanation: Pure solids do not appear in the equilibrium-constant expression; Kp = pCO₂.]
+
+Q: Which of the following does not affect the value of the equilibrium constant Kc?
+A) Temperature
+B) Catalyst
+C) Nature of reactants
+D) Stoichiometry of the reaction
+Answer: B [Explanation: A catalyst changes the rate but not the position of equilibrium or the value of Kc.]
+
+Q: In the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), an increase in pressure at constant temperature
+A) decreases the yield of SO₃
+B) increases the yield of SO₃
+C) has no effect on the yield
+D) decreases Kc
+Answer: B [Explanation: The forward reaction proceeds with a decrease in the number of moles; higher pressure favours the side with fewer moles.]
+
+Q: The pH of a solution obtained by mixing 50 mL of 0.2 M HCl with 50 mL of 0.2 M NaOH is
+A) 0
+B) 7
+C) 1
+D) 13
+Answer: B [Explanation: Exact neutralisation of a strong acid by a strong base yields a neutral solution of NaCl; pH = 7 (at 25 °C).]
+
+Q: Which of the following is a Lewis base?
+A) BF₃
+B) AlCl₃
+C) NH₃
+D) H⁺
+Answer: C [Explanation: NH₃ possesses a lone pair and can donate it; it is a Lewis base.]
+
+Q: The relationship between Kp and Kc for the reaction PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) is
+A) Kp = Kc
+B) Kp = KcRT
+C) Kp = Kc/RT
+D) Kp = Kc(RT)²
+Answer: B [Explanation: Δng = +1; therefore Kp = Kc(RT)¹.]
+
+Q: At 25 °C the pH of a 10⁻³ M solution of a weak acid HA (Ka = 10⁻⁵) is approximately
+A) 3
+B) 4
+C) 5
+D) 2
+Answer: B [Explanation: α = √(Ka/C) = √(10⁻²) = 0.1; [H⁺] = Cα = 10⁻⁴ M ⇒ pH = 4.]
+
+Q: A solution of sodium acetate in water is
+A) acidic because of hydrolysis of acetate ion
+B) basic because of hydrolysis of acetate ion
+C) neutral
+D) acidic because of hydrolysis of sodium ion
+Answer: B [Explanation: CH₃COO⁻ hydrolyses: CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻, producing a basic solution.]
+
+Q: The unit of Kc for the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g) is
+A) mol² L⁻²
+B) dimensionless
+C) mol L⁻¹
+D) L² mol⁻²
+Answer: D [Explanation: Kc = [NH₃]²/[N₂][H₂]³ has units of (concentration)⁻² = L² mol⁻².]
+
+Q: Which of the following equilibria is not affected by a change in pressure?
+A) H₂(g) + I₂(g) ⇌ 2HI(g)
+B) N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+C) PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
+D) 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+Answer: A [Explanation: Δng = 0; change in pressure does not shift the equilibrium position.]
+
+Q: The conjugate acid of HPO₄²⁻ is
+A) H₂PO₄⁻
+B) PO₄³⁻
+C) H₃PO₄
+D) HPO₄²⁻ itself
+Answer: A [Explanation: Addition of a proton to HPO₄²⁻ gives H₂PO₄⁻.]
+
+Q: For a sparingly soluble salt A₂B, Ksp = 4s³ where s is the molar solubility. This salt is of the type
+A) AB
+B) AB₂
+C) A₂B
+D) A₃B
+Answer: C [Explanation: A₂B(s) ⇌ 2A⁺ + B²⁻; Ksp = (2s)² × s = 4s³.]
+
+Q: The pH of a buffer solution containing 0.1 M NH₄OH (Kb = 1.8 × 10⁻⁵) and 0.1 M NH₄Cl is approximately
+A) 4.74
+B) 9.26
+C) 7
+D) 10.26
+Answer: B [Explanation: For a basic buffer pOH = pKb + log([salt]/[base]) = 4.74; pH = 14 - 4.74 = 9.26.]
+
+Q: When a catalyst is added to a reversible reaction at equilibrium
+A) the value of Kc increases
+B) the equilibrium shifts to the right
+C) the rates of both forward and reverse reactions increase equally
+D) the equilibrium is disturbed
+Answer: C [Explanation: A catalyst lowers the activation energy for both directions equally; equilibrium composition remains unchanged.]
+
+Q: The equilibrium constant for the reaction 2A ⇌ B + C is 2 × 10⁻³. At a given temperature, if the concentration of A at equilibrium is 0.1 M, the concentration of B is
+A) 2 × 10⁻⁴ M
+B) 2 × 10⁻³ M
+C) 4.47 × 10⁻³ M
+D) 1 × 10⁻³ M
+Answer: C [Explanation: Kc = [B][C]/[A]² = 2 × 10⁻³. Assuming [B] = [C] = x, x²/(0.1)² = 2 × 10⁻³ ⇒ x = √(2 × 10⁻⁵) = 4.47 × 10⁻³ M.]
+
+Q: Which of the following is true for a saturated solution of a sparingly soluble salt?
+A) Ksp > ionic product
+B) Ksp = ionic product
+C) Ksp < ionic product
+D) Ksp is zero
+Answer: B [Explanation: At saturation the solution is in equilibrium with the solid; ionic product equals Ksp.]
+
+Q: The degree of ionisation of a weak electrolyte is inversely proportional to the square root of
+A) dilution
+B) concentration
+C) temperature
+D) pressure
+Answer: B [Explanation: α = √(K/C); hence α ∝ 1/√C.]
+
+Q: For the reaction H₂(g) + CO₂(g) ⇌ H₂O(g) + CO(g), Kc = 0.64 at 900 K. Starting with 1 mol each of H₂ and CO₂ in a 1 L vessel, the number of moles of CO at equilibrium is
+A) 0.4
+B) 0.8
+C) 0.2
+D) 0.6
+Answer: A [Explanation: Let x be the extent of reaction. Kc = x²/(1-x)² = 0.64 ⇒ x/(1-x) = 0.8 ⇒ x = 0.44 ≈ 0.4 (nearest option).]
+
+Q: An aqueous solution of FeCl₃ is acidic because of
+A) hydrolysis of Fe³⁺
+B) hydrolysis of Cl⁻
+C) oxidation of Fe³⁺
+D) reduction of Cl⁻
+Answer: A [Explanation: Fe³⁺ hydrolyses: Fe³⁺ + H₂O ⇌ Fe(OH)²⁺ + H⁺, producing H⁺.]
+
+Q: The correct order of acidic strength is   
+A) HClO₄ > HClO₂ > HClO₃ > HClO
+B) HClO > HClO₂ > HClO₃ > HClO₄
+C) HClO₂ > HClO > HClO₃ > HClO₄
+D) HClO₄ > HClO₃ > HClO₂ > HClO
+Answer: D [Explanation: Acidic strength of oxoacids of chlorine increases with the number of oxygen atoms attached to the central atom (increasing oxidation state stabilises the conjugate base).]
