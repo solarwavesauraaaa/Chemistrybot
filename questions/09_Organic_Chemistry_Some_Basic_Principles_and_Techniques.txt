@@ -1,0 +1,319 @@
+Q: The correct order of bond length of the C–C bonds in the following compounds is
+A) CH₃–CH₃ > CH₂=CH₂ > HC≡CH
+B) HC≡CH > CH₂=CH₂ > CH₃–CH₃
+C) CH₂=CH₂ > CH₃–CH₃ > HC≡CH
+D) CH₃–CH₃ > HC≡CH > CH₂=CH₂
+Answer: A [Explanation: Higher s-character shortens the bond. sp³ (25% s) > sp² (33% s) > sp (50% s).]
+
+Q: In which of the following molecules is the carbon atom most electronegative?
+A) CH₃–CH₃
+B) CH₂=CH₂
+C) HC≡CH
+D) CH₃Cl
+Answer: C [Explanation: sp hybridised carbon has maximum s-character (50%) and is most electronegative.]
+
+Q: How many σ and π bonds are present in the molecule HC≡C–CH=CH–CH₃?
+A) 10σ, 3π
+B) 9σ, 3π
+C) 11σ, 2π
+D) 10σ, 2π
+Answer: A [Explanation: 4 C–C σ + 6 C–H σ = 10σ; one C≡C (2π) + one C=C (1π) = 3π.]
+
+Q: The hybridisation of the starred carbon in CH₃–C*≡N is
+A) sp³
+B) sp²
+C) sp
+D) sp³d
+Answer: C [Explanation: Triple bond requires sp hybridisation.]
+
+Q: Which of the following is the correct bond-line formula of 3-methyloctane?
+A) Structure A
+B) Structure B
+C) Structure C
+D) All are correct
+Answer: D [Explanation: All representations correctly show the same carbon skeleton.]
+
+Q: The three-dimensional structure of methane using wedge-dash notation has
+A) two solid wedges and two dashed wedges
+B) one solid wedge, one dashed wedge and two in-plane bonds
+C) four solid wedges
+D) four dashed wedges
+Answer: B [Explanation: Standard tetrahedral representation uses one solid, one dashed and two normal lines.]
+
+Q: Assertion (A): Rotation about a C=C bond is restricted.
+Reason (R): The π-bond requires parallel orientation of p-orbitals.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Parallel p-orbital overlap is destroyed on rotation, hence restricted rotation.]
+
+Q: In the molecule CH₂=C=CH₂, the hybridisation of the central carbon is
+A) sp³
+B) sp²
+C) sp
+D) sp³d
+Answer: C [Explanation: Central carbon forms two double bonds → sp hybridised.]
+
+Q: Which of the following compounds has the maximum number of sp² hybridised carbon atoms?
+A) CH₃–CH=CH–CH₃
+B) CH₂=CH–CH=CH₂
+C) CH₃–C≡C–CH₃
+D) CH₂=C=CH₂
+Answer: B [Explanation: Buta-1,3-diene has four sp² carbons.]
+
+Q: The correct condensed formula for HOCH₂CH₂CH₂CH(CH₃)CH(CH₃)₂ is
+A) HO(CH₂)₃CH(CH₃)CH(CH₃)₂
+B) HO(CH₂)₃CH(CH₃)₂CH(CH₃)
+C) HO(CH₂)₄CH(CH₃)₂
+D) HOCH₂(CH₂)₂CH(CH₃)CH(CH₃)₂
+Answer: A [Explanation: Standard condensed form groups identical methylene units.]
+
+Q: Which of the following is an example of a functional group isomer of C₃H₆O?
+A) CH₃CH₂CHO and CH₃COCH₃
+B) CH₃CH₂OH and CH₃OCH₃
+C) CH₃COOH and HCOOCH₃
+D) Both (a) and (c)
+Answer: D [Explanation: Both pairs are functional group isomers.]
+
+Q: The IUPAC name of the compound CH₃–CH(CH₃)–CH₂–C≡C–CH₃ is
+A) 4-methylhex-2-yne
+B) 5-methylhex-2-yne
+C) 2-methylhex-4-yne
+D) 4-methylhex-3-yne
+Answer: A [Explanation: Longest chain of 6 carbons with triple bond gets lowest number.]
+
+Q: Which electronic displacement is responsible for the higher acidity of phenol compared to ethanol?
+A) Inductive effect only
+B) Resonance effect only
+C) Both inductive and resonance
+D) Hyperconjugation
+Answer: C [Explanation: –I effect of oxygen + resonance stabilisation of phenoxide ion.]
+
+Q: The correct order of –I effect is
+A) –NO₂ > –CN > –F > –Cl
+B) –F > –Cl > –Br > –I
+C) –NO₂ > –F > –Cl > –Br
+D) Both (a) and (b)
+Answer: D [Explanation: Both sequences are correct according to electronegativity and electron-withdrawing power.]
+
+Q: Hyperconjugation is also known as
+A) no-bond resonance
+B) Baker-Nathan effect
+C) Both (a) and (b)
+D) Electromeric effect
+Answer: C [Explanation: Hyperconjugation involves delocalisation of σ-electrons and is called no-bond resonance or Baker-Nathan effect.]
+
+Q: Which of the following carbocations is the most stable?
+A) (CH₃)₃C⁺
+B) (CH₃)₂CH⁺
+C) CH₃CH₂⁺
+D) CH₃⁺
+Answer: A [Explanation: Tertiary carbocation is stabilised by maximum hyperconjugation and inductive effect.]
+
+Q: The reaction intermediate formed in the addition of HBr to propene in presence of peroxide is
+A) carbocation
+B) free radical
+C) carbanion
+D) carbene
+Answer: B [Explanation: Peroxide effect follows free-radical mechanism.]
+
+Q: Which of the following is an example of an electrophilic substitution reaction?
+A) CH₄ + Cl₂ → CH₃Cl + HCl
+B) C₆H₆ + Cl₂ → C₆H₅Cl + HCl (FeCl₃)
+C) CH₂=CH₂ + HBr → CH₃CH₂Br
+D) CH₃CH₂Br + KOH → CH₂=CH₂
+Answer: B [Explanation: Aromatic electrophilic substitution.]
+
+Q: Assertion (A): Inductive effect is a permanent effect.
+Reason (R): It involves complete transfer of π-electrons.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: C [Explanation: Inductive effect is permanent but involves partial shift of σ-electrons, not complete transfer.]
+
+Q: The technique used to separate a mixture of two organic solids having different solubilities in the same solvent is
+A) distillation
+B) fractional crystallisation
+C) sublimation
+D) chromatography
+Answer: B [Explanation: Fractional crystallisation utilises difference in solubility.]
+
+Q: In Lassaigne's test for nitrogen, the blue colour is due to the formation of
+A) Fe₄[Fe(CN)₆]₃
+B) Na₄[Fe(CN)₆]
+C) Fe(CNS)₃
+D) NaCNS
+Answer: A [Explanation: Prussian blue Fe₄[Fe(CN)₆]₃ is formed.]
+
+Q: The quantitative estimation of carbon and hydrogen in an organic compound is done by
+A) Liebig's method
+B) Dumas method
+C) Kjeldahl's method
+D) Carius method
+Answer: A [Explanation: Liebig's method is used for C and H estimation.]
+
+Q: In Carius method, the percentage of halogen is calculated by the formula
+A) (Atomic mass of X × mass of AgX × 100) / (Molecular mass of AgX × mass of compound)
+B) (Molecular mass of AgX × mass of AgX × 100) / (Atomic mass of X × mass of compound)
+C) (Atomic mass of X × mass of compound × 100) / (Molecular mass of AgX × mass of AgX)
+D) None
+Answer: A [Explanation: Standard formula for halogen estimation.]
+
+Q: Which of the following compounds will give a positive Lassaigne's test for nitrogen?
+A) NH₂NH₂
+B) NH₂OH
+C) N₂H₄
+D) C₆H₅NH₂
+Answer: D [Explanation: Only compounds containing C–N bond give positive Lassaigne's test for nitrogen.]
+
+Q: The hybridisation of carbon atoms in the molecule CH₃–CH=C=CH₂ from left to right is
+A) sp³, sp², sp, sp²
+B) sp³, sp², sp², sp
+C) sp³, sp, sp², sp²
+D) sp², sp², sp, sp³
+Answer: A [Explanation: Terminal CH₃ is sp³, next is sp², central is sp, last is sp².]
+
+Q: Which of the following is the correct order of stability of free radicals?
+A) 3° > 2° > 1° > CH₃
+B) CH₃ > 1° > 2° > 3°
+C) 1° > 2° > 3° > CH₃
+D) 2° > 3° > 1° > CH₃
+Answer: A [Explanation: Stability increases with increase in hyperconjugation.]
+
+Q: Electromeric effect is
+A) permanent effect
+B) temporary effect
+C) both permanent and temporary
+D) none
+Answer: B [Explanation: Electromeric effect is temporary and operates only in the presence of attacking reagent.]
+
+Q: The number of primary, secondary and tertiary carbon atoms in 3-ethyl-2,2,4-trimethylpentane are respectively
+A) 5, 2, 2
+B) 6, 1, 2
+C) 5, 1, 3
+D) 4, 3, 2
+Answer: B [Explanation: Six CH₃ (1°), one CH₂ (2°), two quaternary/tertiary carbons.]
+
+Q: Which of the following is not a method of purification of organic compounds?
+A) Sublimation
+B) Crystallisation
+C) Distillation
+D) Electrolysis
+Answer: D [Explanation: Electrolysis is not used for purification of organic compounds.]
+
+Q: In the estimation of nitrogen by Dumas method, the nitrogen is collected as
+A) N₂ gas
+B) NH₃
+C) NO₂
+D) (NH₄)₂SO₄
+Answer: A [Explanation: Nitrogen is liberated as N₂ gas and measured volumetrically.]
+
+Q: Assertion (A): All the carbon atoms in H₂C=C=CH₂ are sp² hybridised.
+Reason (R): In allene, the central carbon is sp hybridised.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: D [Explanation: A is false; central carbon is sp, terminal carbons are sp².]
+
+Q: The correct IUPAC name of CH₃–CH₂–CH(CH₃)–CH₂–CH₂–CH₃ is
+A) 3-methylhexane
+B) 2-ethylpentane
+C) 3-methylpentane
+D) 2-methylhexane
+Answer: A [Explanation: Longest chain has 6 carbons; methyl at position 3.]
+
+Q: Which of the following shows geometrical isomerism?
+A) CH₃–CH=CH₂
+B) CH₃–CH=CH–CH₃
+C) CH₂=CH–CH=CH₂
+D) CH₃–C≡C–CH₃
+Answer: B [Explanation: Restricted rotation about C=C and different groups on each carbon.]
+
+Q: The most stable carbocation among the following is
+A) Ph₃C⁺
+B) (CH₃)₃C⁺
+C) CH₃–CH₂⁺
+D) CH₂=CH–CH₂⁺
+Answer: A [Explanation: Triphenylmethyl cation is highly stabilised by resonance.]
+
+Q: In paper chromatography, the mobile phase is
+A) solid
+B) liquid
+C) gas
+D) supercritical fluid
+Answer: B [Explanation: Mobile phase is a liquid solvent.]
+
+Q: Which of the following is used as an adsorbent in column chromatography?
+A) Alumina
+B) Silica gel
+C) Both (a) and (b)
+D) None
+Answer: C [Explanation: Both alumina and silica gel are common adsorbents.]
+
+Q: The percentage of carbon in an organic compound is determined by
+A) Dumas method
+B) Liebig's method
+C) Kjeldahl's method
+D) Carius method
+Answer: B [Explanation: Liebig's method estimates carbon and hydrogen.]
+
+Q: Which of the following compounds will not give Lassaigne's test for halogen?
+A) C₆H₅Cl
+B) C₆H₅NH₃⁺Cl⁻
+C) CHCl₃
+D) C₆H₅Br
+Answer: B [Explanation: Ionic halogen does not form covalent NaX in Lassaigne's extract.]
+
+Q: The correct order of stability of the following carbocations is
+A) CH₃⁺ < CH₃CH₂⁺ < (CH₃)₂CH⁺ < (CH₃)₃C⁺
+B) (CH₃)₃C⁺ < (CH₃)₂CH⁺ < CH₃CH₂⁺ < CH₃⁺
+C) CH₃CH₂⁺ < CH₃⁺ < (CH₃)₂CH⁺ < (CH₃)₃C⁺
+D) (CH₃)₂CH⁺ < CH₃CH₂⁺ < CH₃⁺ < (CH₃)₃C⁺
+Answer: A [Explanation: Stability order is 3° > 2° > 1° > methyl.]
+
+Q: In the molecule CH₃–CH=CH–C≡CH, the number of sp hybridised carbon atoms is
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B [Explanation: The two carbons of the triple bond are sp hybridised.]
+
+Q: Assertion (A): Resonance effect is a permanent effect.
+Reason (R): It involves delocalisation of π or lone pair electrons.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Resonance is a permanent effect arising from delocalisation.]
+
+Q: Which of the following is the correct method for the purification of aniline contaminated with nitrobenzene?
+A) Steam distillation
+B) Fractional distillation
+C) Distillation under reduced pressure
+D) Simple distillation
+Answer: A [Explanation: Aniline is steam volatile while nitrobenzene is not under the conditions used.]
+
+Q: The number of secondary carbon atoms in 2,2,4-trimethylpentane is
+A) 1
+B) 2
+C) 3
+D) 0
+Answer: A [Explanation: Only one CH₂ group is present.]
+
+Q: In Kjeldahl's method, the nitrogen present in an organic compound is converted into
+A) N₂
+B) NH₃
+C) NO₂
+D) NaCN
+Answer: B [Explanation: Nitrogen is converted to ammonium sulphate and then liberated as NH₃.]
+
+Q: Which of the following statements is correct about the hybridisation of carbon?
+A) Greater the s-character, longer the bond length
+B) Greater the s-character, stronger the bond
+C) Greater the s-character, less the electronegativity
+D) sp³ hybridised carbon is more electronegative than sp hybridised carbon
+Answer: B [Explanation: Higher s-character leads to shorter and stronger bonds and higher electronegativity.]
+
