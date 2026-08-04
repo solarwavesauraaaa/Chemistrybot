@@ -1,0 +1,317 @@
+Q: Which of the following is not a carbohydrate according to the chemical definition?
+A) Glucose
+B) Fructose
+C) Acetic acid
+D) Sucrose
+Answer: C [Explanation: Although it fits Cx(H₂O)y, acetic acid is not a polyhydroxy aldehyde/ketone.]
+
+Q: The number of asymmetric carbon atoms in glucose is
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B [Explanation: C2, C3, C4, C5 are chiral in open-chain form.]
+
+Q: Which of the following is a non-reducing sugar?
+A) Maltose
+B) Lactose
+C) Sucrose
+D) Glucose
+Answer: C [Explanation: Both anomeric carbons are involved in glycosidic linkage.]
+
+Q: The product formed when glucose is treated with bromine water is
+A) gluconic acid
+B) saccharic acid
+C) glucaric acid
+D) fructose
+Answer: A [Explanation: Mild oxidation of aldehyde group gives gluconic acid.]
+
+Q: Mutarotation is shown by
+A) glucose
+B) sucrose
+C) both A and B
+D) starch
+Answer: A [Explanation: Only reducing sugars with free anomeric carbon show mutarotation.]
+
+Q: The number of amino acids obtained on complete hydrolysis of a protein is
+A) always 20
+B) always less than 20
+C) may be more or less than 20
+D) always more than 20
+Answer: C [Explanation: Proteins may contain fewer or (rarely) modified amino acids beyond the standard 20.]
+
+Q: Which of the following amino acids is optically inactive?
+A) Alanine
+B) Glycine
+C) Serine
+D) Phenylalanine
+Answer: B [Explanation: Glycine has no chiral carbon (two hydrogens on α-carbon).]
+
+Q: The secondary structure of proteins is stabilised by
+A) peptide bonds
+B) hydrogen bonds
+C) ionic bonds
+D) van der Waals forces
+Answer: B [Explanation: α-helix and β-sheet are stabilised by intramolecular H-bonding.]
+
+Q: Which of the following is a fibrous protein?
+A) Albumin
+B) Insulin
+C) Keratin
+D) Haemoglobin
+Answer: C [Explanation: Keratin is a structural fibrous protein.]
+
+Q: Denaturation of proteins involves the destruction of
+A) primary structure
+B) secondary and tertiary structure
+C) only tertiary structure
+D) all structures
+Answer: B [Explanation: Peptide bonds (primary structure) remain intact; higher structures are disrupted.]
+
+Q: The enzyme that catalyses the hydrolysis of peptide bonds is
+A) amylase
+B) lipase
+C) pepsin
+D) maltase
+Answer: C [Explanation: Pepsin is a protease.]
+
+Q: Which of the following bases is not present in DNA?
+A) Adenine
+B) Guanine
+C) Uracil
+D) Thymine
+Answer: C [Explanation: DNA contains thymine; RNA contains uracil.]
+
+Q: The number of hydrogen bonds between adenine and thymine is
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B [Explanation: A–T pair has two H-bonds; G–C has three.]
+
+Q: Which of the following is a fat-soluble vitamin?
+A) Vitamin B₁
+B) Vitamin C
+C) Vitamin D
+D) Vitamin B₁₂
+Answer: C [Explanation: A, D, E, K are fat-soluble.]
+
+Q: The deficiency of vitamin C causes
+A) night blindness
+B) scurvy
+C) beriberi
+D) rickets
+Answer: B [Explanation: Classic deficiency disease of ascorbic acid.]
+
+Q: Assertion (A): Sucrose is a non-reducing sugar.
+Reason (R): The glycosidic linkage in sucrose is between C1 of glucose and C2 of fructose.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Both anomeric carbons are locked in the glycosidic bond.]
+
+Q: The anomer of α-D-glucose is
+A) β-D-glucose
+B) α-L-glucose
+C) β-L-glucose
+D) α-D-fructose
+Answer: A [Explanation: Anomers differ only at the anomeric carbon (C1).]
+
+Q: Which of the following reagents is used for the oxidation of glucose to saccharic acid?
+A) Br₂ water
+B) HNO₃
+C) Tollens' reagent
+D) Fehling's solution
+Answer: B [Explanation: Strong oxidation with nitric acid oxidises both aldehyde and primary alcohol groups.]
+
+Q: The number of peptide bonds in a tetrapeptide is
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B [Explanation: n amino acids form (n-1) peptide bonds.]
+
+Q: Which of the following is an example of a conjugated protein?
+A) Albumin
+B) Globulin
+C) Haemoglobin
+D) Keratin
+Answer: C [Explanation: Haemoglobin has a prosthetic group (haem).]
+
+Q: The secondary structure of DNA is stabilised by
+A) peptide bonds
+B) hydrogen bonds and hydrophobic interactions
+C) only ionic bonds
+D) disulphide linkages
+Answer: B [Explanation: Base pairing (H-bonds) and base stacking stabilise the double helix.]
+
+Q: Which of the following is a pyrimidine base?
+A) Adenine
+B) Guanine
+C) Cytosine
+D) both B and C
+Answer: C [Explanation: Cytosine, thymine and uracil are pyrimidines.]
+
+Q: The enzyme invertase hydrolyses
+A) maltose
+B) sucrose
+C) lactose
+D) starch
+Answer: B [Explanation: Invertase (sucrase) converts sucrose into glucose + fructose.]
+
+Q: Which of the following vitamins is synthesised in the human body by bacteria?
+A) Vitamin A
+B) Vitamin C
+C) Vitamin K
+D) Vitamin D
+Answer: C [Explanation: Vitamin K is produced by intestinal bacteria.]
+
+Q: The isoelectric point of an amino acid is the pH at which
+A) it has maximum solubility
+B) it has zero net charge
+C) it migrates towards anode
+D) it migrates towards cathode
+Answer: B [Explanation: Zwitterion has equal positive and negative charges.]
+
+Q: Which of the following is a reducing disaccharide?
+A) Sucrose
+B) Maltose
+C) both A and B
+D) none
+Answer: B [Explanation: Maltose has a free anomeric carbon.]
+
+Q: The number of chiral carbons in open-chain fructose is
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B [Explanation: C3, C4, C5 are chiral.]
+
+Q: Which of the following statements is correct about enzymes?
+A) They are highly specific
+B) They are proteins
+C) They lower activation energy
+D) All of these
+Answer: D [Explanation: All are characteristic properties of enzymes.]
+
+Q: The base pairing in DNA is
+A) A with G and T with C
+B) A with T and G with C
+C) A with C and G with T
+D) A with U and G with C
+Answer: B [Explanation: Complementary base pairing (Chargaff's rule).]
+
+Q: Which of the following is a water-soluble vitamin?
+A) Vitamin A
+B) Vitamin D
+C) Vitamin E
+D) Vitamin B₂
+Answer: D [Explanation: B-complex and C are water-soluble.]
+
+Q: The product formed when glucose is treated with phenylhydrazine (excess) is
+A) osazone
+B) hydrazone
+C) both A and B
+D) oxime
+Answer: A [Explanation: Excess phenylhydrazine gives glucosazone (same as fructosazone).]
+
+Q: Which of the following proteins has a quaternary structure?
+A) Myoglobin
+B) Haemoglobin
+C) Keratin
+D) Insulin (monomer)
+Answer: B [Explanation: Haemoglobin has four subunits.]
+
+Q: The deficiency of vitamin D causes
+A) scurvy
+B) rickets
+C) beriberi
+D) night blindness
+Answer: B [Explanation: Rickets in children, osteomalacia in adults.]
+
+Q: Assertion (A): DNA is more stable than RNA.
+Reason (R): DNA has deoxyribose and thymine instead of ribose and uracil.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Absence of 2'-OH and presence of thymine make DNA chemically more stable.]
+
+Q: The linkage between two monosaccharide units in a disaccharide is
+A) peptide bond
+B) glycosidic linkage
+C) phosphodiester bond
+D) ester linkage
+Answer: B [Explanation: Acetal-type bond between anomeric carbon and hydroxyl of another sugar.]
+
+Q: Which of the following amino acids has a basic side chain?
+A) Glycine
+B) Alanine
+C) Lysine
+D) Aspartic acid
+Answer: C [Explanation: Lysine has –(CH₂)₄NH₂ side chain.]
+
+Q: The number of hydrogen bonds between guanine and cytosine is
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C [Explanation: G–C pair has three H-bonds.]
+
+Q: Which of the following is an example of a derived protein?
+A) Albumin
+B) Globulin
+C) Peptone
+D) Casein
+Answer: C [Explanation: Peptones are partial hydrolysis products of proteins.]
+
+Q: The sugar present in RNA is
+A) ribose
+B) deoxyribose
+C) glucose
+D) fructose
+Answer: A [Explanation: RNA contains β-D-ribose.]
+
+Q: Which of the following vitamins is also known as ascorbic acid?
+A) Vitamin A
+B) Vitamin B₁
+C) Vitamin C
+D) Vitamin D
+Answer: C [Explanation: Chemical name of vitamin C is ascorbic acid.]
+
+Q: The primary structure of a protein is determined by
+A) hydrogen bonding
+B) sequence of amino acids
+C) disulphide bonds
+D) hydrophobic interactions
+Answer: B [Explanation: Covalent sequence of amino acids linked by peptide bonds.]
+
+Q: Which of the following is a non-essential amino acid?
+A) Valine
+B) Leucine
+C) Alanine
+D) Lysine
+Answer: C [Explanation: Alanine can be synthesised in the body.]
+
+Q: The enzyme that converts starch into maltose is
+A) maltase
+B) amylase
+C) invertase
+D) lactase
+Answer: B [Explanation: Salivary and pancreatic amylase hydrolyse starch.]
+
+Q: Which of the following statements is correct about nucleic acids?
+A) DNA is double-stranded, RNA is usually single-stranded
+B) DNA contains thymine, RNA contains uracil
+C) both A and B
+D) none
+Answer: C [Explanation: Fundamental differences between DNA and RNA.]
+
+Q: The deficiency of vitamin B₁ (thiamine) causes
+A) scurvy
+B) beriberi
+C) rickets
+D) night blindness
+Answer: B [Explanation: Classic deficiency disease of thiamine.]
+
