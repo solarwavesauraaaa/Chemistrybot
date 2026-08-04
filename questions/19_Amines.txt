@@ -1,0 +1,317 @@
+Q: The C–N–C bond angle in trimethylamine is
+A) 109.5°
+B) 108°
+C) 120°
+D) 180°
+Answer: B [Explanation: Due to lone pair-bond pair repulsion, the angle is slightly less than tetrahedral.]
+
+Q: Which of the following is a tertiary amine?
+A) CH₃NH₂
+B) (CH₃)₂NH
+C) (CH₃)₃N
+D) C₆H₅NH₂
+Answer: C [Explanation: Nitrogen attached to three alkyl groups.]
+
+Q: The correct IUPAC name of CH₃NHCH₂CH₃ is
+A) N-methylethanamine
+B) N-ethylmethanamine
+C) ethylmethylamine
+D) both A and B
+Answer: A [Explanation: Preferred IUPAC name is N-methylethanamine.]
+
+Q: Which of the following amines has the highest boiling point?
+A) CH₃NH₂
+B) (CH₃)₂NH
+C) (CH₃)₃N
+D) CH₃CH₂NH₂
+Answer: D [Explanation: Primary amines have strongest intermolecular H-bonding; higher molecular mass further increases b.p.]
+
+Q: The correct order of basic strength in aqueous solution is
+A) (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃
+B) (CH₃)₃N > (CH₃)₂NH > CH₃NH₂ > NH₃
+C) CH₃NH₂ > (CH₃)₂NH > (CH₃)₃N > NH₃
+D) (CH₃)₂NH > (CH₃)₃N > CH₃NH₂ > NH₃
+Answer: A [Explanation: Combined effect of inductive effect and solvation.]
+
+Q: Which of the following is the strongest base in aqueous medium?
+A) C₆H₅NH₂
+B) C₆H₅NHCH₃
+C) C₆H₅N(CH₃)₂
+D) CH₃NH₂
+Answer: D [Explanation: Aliphatic amines are stronger bases than aromatic amines due to resonance in aniline derivatives.]
+
+Q: Aniline is less basic than ethylamine because
+A) of +R effect of phenyl group
+B) of –R effect of phenyl group
+C) of +I effect of phenyl group
+D) of –I effect of phenyl group
+Answer: B [Explanation: Lone pair of nitrogen is delocalised into the benzene ring, decreasing availability for protonation.]
+
+Q: Which of the following reagents is used for the carbylamine test?
+A) CHCl₃ + KOH
+B) CHCl₃ + NaOH
+C) both A and B
+D) CCl₄ + KOH
+Answer: C [Explanation: Primary amines give foul-smelling isocyanides with CHCl₃/KOH or NaOH.]
+
+Q: The product formed when aniline is treated with bromine water is
+A) o-bromoaniline
+B) p-bromoaniline
+C) 2,4,6-tribromoaniline
+D) m-bromoaniline
+Answer: C [Explanation: –NH₂ is strongly activating; polysubstitution occurs.]
+
+Q: Which of the following amines will not give Hinsberg test?
+A) CH₃NH₂
+B) (CH₃)₂NH
+C) (CH₃)₃N
+D) C₆H₅NH₂
+Answer: C [Explanation: Tertiary amines do not react with Hinsberg reagent (benzenesulphonyl chloride).]
+
+Q: Assertion (A): Aniline does not undergo Friedel-Crafts reaction.
+Reason (R): The amino group forms a complex with AlCl₃ and gets deactivated.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Lewis acid catalyst coordinates with nitrogen, reducing activating power.]
+
+Q: The diazonium salt of aniline on coupling with phenol in alkaline medium gives
+A) p-hydroxyazobenzene
+B) o-hydroxyazobenzene
+C) both A and B
+D) aniline
+Answer: A [Explanation: Preferential para coupling under alkaline conditions.]
+
+Q: Which of the following is the most basic in gas phase?
+A) NH₃
+B) CH₃NH₂
+C) (CH₃)₂NH
+D) (CH₃)₃N
+Answer: D [Explanation: In gas phase, only inductive effect operates; tertiary amine is strongest.]
+
+Q: The product obtained when acetamide is reduced with LiAlH₄ is
+A) CH₃NH₂
+B) CH₃CH₂NH₂
+C) (CH₃)₂NH
+D) CH₃CN
+Answer: B [Explanation: Amides are reduced to primary amines with same number of carbons.]
+
+Q: Which of the following methods is used for the preparation of pure primary amines?
+A) Hofmann bromamide reaction
+B) Gabriel phthalimide synthesis
+C) both A and B
+D) reduction of nitro compounds
+Answer: C [Explanation: Both methods give pure primary amines without secondary/tertiary contamination.]
+
+Q: The intermediate in the Hoffmann bromamide reaction is
+A) isocyanate
+B) nitrene
+C) both A and B
+D) carbocation
+Answer: C [Explanation: N-bromoamide → isocyanate via nitrene intermediate.]
+
+Q: Which of the following compounds will give a positive carbylamine test?
+A) (CH₃)₃N
+B) (CH₃)₂NH
+C) CH₃NH₂
+D) C₆H₅N(CH₃)₂
+Answer: C [Explanation: Only primary amines give carbylamine test.]
+
+Q: The correct order of basic strength of aniline derivatives in aqueous solution is
+A) p-toluidine > aniline > p-nitroaniline
+B) p-nitroaniline > aniline > p-toluidine
+C) aniline > p-toluidine > p-nitroaniline
+D) p-toluidine > p-nitroaniline > aniline
+Answer: A [Explanation: –CH₃ is electron-releasing; –NO₂ is electron-withdrawing.]
+
+Q: Diazonium salts are stable in
+A) acidic medium at low temperature
+B) alkaline medium
+C) neutral medium
+D) high temperature
+Answer: A [Explanation: They decompose above 5°C or in alkaline medium.]
+
+Q: The product formed when benzene diazonium chloride is treated with CuCN/KCN is
+A) benzonitrile
+B) benzene
+C) phenol
+D) chlorobenzene
+Answer: A [Explanation: Sandmeyer reaction with cyanide.]
+
+Q: Which of the following is used in the preparation of azo dyes?
+A) Diazonium salts
+B) Aniline
+C) both A and B
+D) Nitrobenzene
+Answer: C [Explanation: Diazonium salt couples with activated aromatic compounds (phenols/anilines).]
+
+Q: The hybridisation of nitrogen in trimethylamine is
+A) sp
+B) sp²
+C) sp³
+D) sp³d
+Answer: C [Explanation: Pyramidal geometry with lone pair → sp³.]
+
+Q: Which of the following amines can be resolved into optical isomers?
+A) CH₃NH₂
+B) (CH₃)₂NH
+C) CH₃NHCH₂CH₃
+D) (CH₃)₃N
+Answer: C [Explanation: Secondary amine with different alkyl groups is chiral if nitrogen inversion is slow, but in practice quaternary ammonium salts are resolved.]
+
+Q: The reagent used for the distinction of primary, secondary and tertiary amines is
+A) Hinsberg reagent
+B) carbylamine reagent
+C) both A and B
+D) Lucas reagent
+Answer: A [Explanation: Hinsberg test distinguishes all three classes.]
+
+Q: The product of the reaction of aniline with acetic anhydride is
+A) acetanilide
+B) N-methylaniline
+C) N,N-dimethylaniline
+D) phenol
+Answer: A [Explanation: Acetylation of –NH₂ group.]
+
+Q: Which of the following is the correct order of increasing basic strength in aqueous solution?
+A) C₆H₅NH₂ < NH₃ < CH₃NH₂ < (CH₃)₂NH
+B) NH₃ < C₆H₅NH₂ < CH₃NH₂ < (CH₃)₂NH
+C) C₆H₅NH₂ < CH₃NH₂ < NH₃ < (CH₃)₂NH
+D) CH₃NH₂ < (CH₃)₂NH < C₆H₅NH₂ < NH₃
+Answer: A [Explanation: Standard order based on inductive + solvation effects.]
+
+Q: Assertion (A): Tertiary amines do not give Hinsberg test.
+Reason (R): Tertiary amines do not have replaceable hydrogen on nitrogen.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: No N–H bond, so no reaction with benzenesulphonyl chloride.]
+
+Q: The product formed when methylamine is treated with nitrous acid is
+A) methanol
+B) methyl nitrite
+C) both A and B
+D) methane
+Answer: A [Explanation: Aliphatic primary amines give alcohols with HNO₂.]
+
+Q: Which of the following compounds will not undergo diazotisation?
+A) Aniline
+B) p-Toluidine
+C) Benzylamine
+D) m-Nitroaniline
+Answer: C [Explanation: Only aromatic primary amines form stable diazonium salts.]
+
+Q: The coupling reaction of diazonium salt is an example of
+A) electrophilic aromatic substitution
+B) nucleophilic aromatic substitution
+C) free radical substitution
+D) addition reaction
+Answer: A [Explanation: Diazonium ion acts as electrophile.]
+
+Q: The major product obtained when aniline is treated with excess methyl iodide followed by AgOH and heating is
+A) N,N-dimethylaniline
+B) N-methylaniline
+C) trimethylamine
+D) methanol
+Answer: C [Explanation: Exhaustive methylation followed by Hofmann elimination.]
+
+Q: Which of the following is the weakest base?
+A) Aniline
+B) p-Nitroaniline
+C) p-Toluidine
+D) Benzylamine
+Answer: B [Explanation: Strong –R and –I effect of nitro group.]
+
+Q: The intermediate in the formation of diazonium salt from aniline is
+A) N-nitrosoamine
+B) diazohydroxide
+C) both A and B
+D) phenyl cation
+Answer: C [Explanation: N-nitrosoamine → diazohydroxide → diazonium ion.]
+
+Q: Which of the following reagents is used to convert a primary amine into an isocyanide?
+A) CHCl₃/KOH
+B) CCl₄/KOH
+C) CH₂Cl₂/KOH
+D) CH₃Cl/KOH
+Answer: A [Explanation: Carbylamine reaction.]
+
+Q: The correct statement about the basic strength of amines is
+A) aliphatic amines are stronger bases than ammonia
+B) aromatic amines are weaker bases than ammonia
+C) both A and B
+D) none
+Answer: C [Explanation: Standard comparison.]
+
+Q: The product formed when benzene diazonium chloride is warmed with water is
+A) phenol
+B) benzene
+C) chlorobenzene
+D) aniline
+Answer: A [Explanation: Hydrolysis of diazonium salt.]
+
+Q: Which of the following is used as a catalyst in the preparation of aniline from nitrobenzene?
+A) Sn/HCl
+B) Fe/HCl
+C) both A and B
+D) LiAlH₄
+Answer: C [Explanation: Both are classical reducing agents for nitro group.]
+
+Q: The number of possible isomers of C₃H₉N is
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C [Explanation: n-propylamine, isopropylamine, ethylmethylamine, trimethylamine.]
+
+Q: Which of the following amines will give a foul-smelling product with CHCl₃/KOH?
+A) (CH₃)₃N
+B) (CH₃)₂NH
+C) CH₃NH₂
+D) C₆H₅N(CH₃)₂
+Answer: C [Explanation: Only primary amines give isocyanides.]
+
+Q: The product of the reaction of aniline with NaNO₂/HCl at 0–5°C is
+A) phenol
+B) benzene diazonium chloride
+C) nitrobenzene
+D) chlorobenzene
+Answer: B [Explanation: Diazotisation reaction.]
+
+Q: Assertion (A): p-Nitroaniline is less basic than aniline.
+Reason (R): The nitro group is electron-withdrawing and decreases the electron density on nitrogen.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: –R and –I effects of –NO₂ reduce basicity.]
+
+Q: The reagent used for the conversion of primary amine to alcohol is
+A) NaNO₂/HCl
+B) HNO₂
+C) both A and B
+D) LiAlH₄
+Answer: C [Explanation: Aliphatic primary amines with nitrous acid give alcohols.]
+
+Q: Which of the following is the correct order of basic strength in gas phase?
+A) NH₃ < CH₃NH₂ < (CH₃)₂NH < (CH₃)₃N
+B) (CH₃)₃N < (CH₃)₂NH < CH₃NH₂ < NH₃
+C) CH₃NH₂ < NH₃ < (CH₃)₂NH < (CH₃)₃N
+D) (CH₃)₂NH < (CH₃)₃N < CH₃NH₂ < NH₃
+Answer: A [Explanation: Only +I effect operates in gas phase.]
+
+Q: The product formed when benzene diazonium chloride is treated with H₃PO₂ is
+A) benzene
+B) phenol
+C) chlorobenzene
+D) aniline
+Answer: A [Explanation: Hypophosphorous acid reduces diazonium salt to arene.]
+
+Q: Which of the following compounds will not form a diazonium salt?
+A) Aniline
+B) p-Toluidine
+C) N-Methylaniline
+D) m-Chloroaniline
+Answer: C [Explanation: Secondary aromatic amines do not form stable diazonium salts.]
