@@ -1,0 +1,317 @@
+Q: Which of the following is a tertiary alkyl halide?
+A) CH₃CH₂CH₂Cl
+B) (CH₃)₂CHCl
+C) (CH₃)₃CCl
+D) CH₃CHClCH₂CH₃
+Answer: C [Explanation: Halogen attached to a tertiary carbon.]
+
+Q: The correct IUPAC name of CH₂=CH–CH₂Cl is
+A) 1-chloropropene
+B) 3-chloropropene
+C) 3-chloroprop-1-ene
+D) allyl chloride
+Answer: C [Explanation: Preferred IUPAC name is 3-chloroprop-1-ene.]
+
+Q: Which of the following compounds will undergo SN1 reaction most readily?
+A) CH₃CH₂CH₂Cl
+B) (CH₃)₂CHCl
+C) (CH₃)₃CCl
+D) CH₃Cl
+Answer: C [Explanation: Tertiary alkyl halide forms most stable carbocation.]
+
+Q: The order of reactivity of alkyl halides towards SN2 reaction is
+A) 3° > 2° > 1°
+B) 1° > 2° > 3°
+C) 2° > 1° > 3°
+D) 3° > 1° > 2°
+Answer: B [Explanation: Steric hindrance increases from 1° to 3°, decreasing SN2 rate.]
+
+Q: Which of the following is least reactive towards nucleophilic substitution?
+A) CH₃Cl
+B) CH₂=CH–Cl
+C) CH₃CH₂Cl
+D) (CH₃)₃CCl
+Answer: B [Explanation: Vinyl halide has C–Cl bond with partial double bond character due to resonance.]
+
+Q: The major product obtained when 2-bromobutane is treated with alcoholic KOH is
+A) but-1-ene
+B) but-2-ene
+C) butane
+D) 2-butanol
+Answer: B [Explanation: Saytzeff's rule – more substituted alkene is major product.]
+
+Q: Which of the following reagents is used for the preparation of alkyl halide from alcohol by SN2 mechanism?
+A) HCl + ZnCl₂
+B) PCl₅
+C) SOCl₂ in presence of pyridine
+D) HBr
+Answer: C [Explanation: SOCl₂/pyridine follows SN2 pathway with inversion.]
+
+Q: The compound which will not give iodoform test is
+A) CH₃CH₂Cl
+B) CH₃CHClCH₃
+C) CH₃CH₂CH₂Cl
+D) (CH₃)₂CHCl
+Answer: C [Explanation: Only compounds with CH₃CH(X)– or CH₃CO– group give iodoform test.]
+
+Q: In the reaction of (CH₃)₃CBr with aqueous NaOH, the mechanism is
+A) SN1
+B) SN2
+C) E1
+D) E2
+Answer: A [Explanation: Tertiary halide prefers SN1 in aqueous medium.]
+
+Q: Which of the following is most reactive towards electrophilic aromatic substitution?
+A) Chlorobenzene
+B) Nitrobenzene
+C) Benzene
+D) Toluene
+Answer: D [Explanation: –CH₃ is activating and ortho-para directing; –Cl is deactivating.]
+
+Q: The correct order of boiling points of the following is
+A) CH₃F < CH₃Cl < CH₃Br < CH₃I
+B) CH₃I < CH₃Br < CH₃Cl < CH₃F
+C) CH₃Cl < CH₃F < CH₃Br < CH₃I
+D) CH₃Br < CH₃Cl < CH₃F < CH₃I
+Answer: A [Explanation: Boiling point increases with increase in molecular mass and van der Waals forces.]
+
+Q: Which of the following compounds undergoes nucleophilic aromatic substitution most readily?
+A) Chlorobenzene
+B) p-Nitrochlorobenzene
+C) 2,4-Dinitrochlorobenzene
+D) 2,4,6-Trinitrochlorobenzene
+Answer: D [Explanation: More nitro groups at ortho/para positions increase reactivity towards addition-elimination.]
+
+Q: The product formed when chlorobenzene is treated with sodium in dry ether is
+A) biphenyl
+B) toluene
+C) benzene
+D) phenol
+Answer: A [Explanation: Fittig reaction gives biphenyl.]
+
+Q: Which of the following is used as a refrigerant?
+A) CCl₄
+B) CHCl₃
+C) Freon-12
+D) CHI₃
+Answer: C [Explanation: Dichlorodifluoromethane (Freon-12) is used as refrigerant.]
+
+Q: Assertion (A): Allyl chloride is more reactive than n-propyl chloride towards nucleophilic substitution.
+Reason (R): Allyl carbocation is stabilised by resonance.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Resonance stabilisation of allyl carbocation makes SN1 faster.]
+
+Q: The major product of the reaction of 1-bromopropane with silver nitrite is
+A) CH₃CH₂CH₂NO₂
+B) CH₃CH₂CH₂ONO
+C) both A and B
+D) CH₃CH₂CH₂OH
+Answer: C [Explanation: Ambident nitrite ion gives both nitro and nitrite products.]
+
+Q: Which of the following alkyl halides will give the same product with aqueous KOH and alcoholic KOH?
+A) CH₃Cl
+B) CH₃CH₂Cl
+C) (CH₃)₃CCl
+D) CH₃CHClCH₃
+Answer: A [Explanation: Methyl halide cannot undergo elimination; only substitution occurs.]
+
+Q: The compound used in the detection of unsaturation is
+A) Br₂ in CCl₄
+B) Bayer's reagent
+C) both A and B
+D) Tollens' reagent
+Answer: C [Explanation: Both decolourise on reaction with alkenes/alkynes.]
+
+Q: In the preparation of chlorobenzene from aniline, the intermediate formed is
+A) diazonium salt
+B) phenol
+C) nitrobenzene
+D) benzene
+Answer: A [Explanation: Sandmeyer reaction proceeds via diazonium salt.]
+
+Q: Which of the following has the highest dipole moment?
+A) CH₃F
+B) CH₃Cl
+C) CH₃Br
+D) CH₃I
+Answer: B [Explanation: Although F is most electronegative, C–Cl bond length and polarity combination gives highest dipole moment for CH₃Cl.]
+
+Q: The reaction of tertiary butyl chloride with sodium ethoxide mainly gives
+A) (CH₃)₃COC₂H₅
+B) (CH₃)₂C=CH₂
+C) (CH₃)₃COH
+D) CH₃CH₂OCH₂CH₃
+Answer: B [Explanation: Strong base + tertiary halide → elimination (E2) is preferred.]
+
+Q: Which of the following is not a polyhalogen compound?
+A) Chloroform
+B) Carbon tetrachloride
+C) Freon
+D) Chlorobenzene
+Answer: D [Explanation: Chlorobenzene has only one halogen.]
+
+Q: The correct order of bond dissociation enthalpy of C–X bond is
+A) C–F > C–Cl > C–Br > C–I
+B) C–I > C–Br > C–Cl > C–F
+C) C–Cl > C–F > C–Br > C–I
+D) C–Br > C–Cl > C–F > C–I
+Answer: A [Explanation: Bond strength decreases down the group.]
+
+Q: Which of the following compounds will give a racemic mixture on reaction with aqueous KOH?
+A) CH₃CH₂CH₂Cl
+B) CH₃CHClCH₃
+C) (CH₃)₃CCl
+D) CH₃Cl
+Answer: B [Explanation: Secondary alkyl halide can follow both SN1 and SN2; SN1 leads to racemisation.]
+
+Q: The reagent used for the conversion of alcohol to alkyl chloride with inversion of configuration is
+A) HCl
+B) PCl₅
+C) SOCl₂/pyridine
+D) HCl + ZnCl₂
+Answer: C [Explanation: SOCl₂ in presence of pyridine proceeds via SN2 with inversion.]
+
+Q: Which of the following is most reactive towards SN1 reaction?
+A) C₆H₅CH₂Cl
+B) C₆H₅CH₂CH₂Cl
+C) C₆H₅Cl
+D) CH₂=CHCl
+Answer: A [Explanation: Benzyl carbocation is highly stabilised by resonance.]
+
+Q: The product of the reaction of CH₃CH₂Br with sodium acetylide is
+A) CH₃CH₂C≡CH
+B) CH₃C≡CCH₃
+C) CH₃CH₂CH₂C≡CH
+D) CH₂=CH₂
+Answer: A [Explanation: Nucleophilic substitution by acetylide ion.]
+
+Q: Which of the following is used as an anaesthetic?
+A) CHCl₃
+B) CCl₄
+C) CH₂Cl₂
+D) CHI₃
+Answer: A [Explanation: Chloroform was earlier used as anaesthetic.]
+
+Q: Assertion (A): Chlorobenzene is less reactive than benzyl chloride towards nucleophilic substitution.
+Reason (R): In chlorobenzene, C–Cl bond has partial double bond character.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Resonance in chlorobenzene makes C–Cl stronger and less reactive.]
+
+Q: The major product formed when 2-methyl-1-bromopropane is treated with alcoholic KOH is
+A) 2-methylpropene
+B) 1-butene
+C) 2-butene
+D) 2-methylpropan-1-ol
+Answer: A [Explanation: Elimination gives more substituted alkene (Saytzeff product).]
+
+Q: Which of the following compounds does not undergo Friedel-Crafts reaction?
+A) Chlorobenzene
+B) Nitrobenzene
+C) Toluene
+D) Anisole
+Answer: B [Explanation: Strongly deactivating nitro group prevents Friedel-Crafts reaction.]
+
+Q: The correct order of reactivity of the following towards SN2 is
+A) CH₃Br > CH₃CH₂Br > (CH₃)₂CHBr > (CH₃)₃CBr
+B) (CH₃)₃CBr > (CH₃)₂CHBr > CH₃CH₂Br > CH₃Br
+C) CH₃CH₂Br > CH₃Br > (CH₃)₂CHBr > (CH₃)₃CBr
+D) (CH₃)₂CHBr > CH₃Br > CH₃CH₂Br > (CH₃)₃CBr
+Answer: A [Explanation: Steric hindrance order.]
+
+Q: Which of the following is an example of gem-dihalide?
+A) CH₂Cl–CH₂Cl
+B) CH₃CHCl₂
+C) CH₂Cl–CHCl₂
+D) C₆H₅CHCl₂
+Answer: B [Explanation: Both halogens on the same carbon.]
+
+Q: The reaction of benzyl chloride with aqueous KOH mainly gives
+A) benzyl alcohol
+B) benzaldehyde
+C) toluene
+D) phenol
+Answer: A [Explanation: Nucleophilic substitution (SN1) gives benzyl alcohol.]
+
+Q: Which of the following is used in fire extinguishers?
+A) CHCl₃
+B) CCl₄
+C) CH₂Cl₂
+D) CHI₃
+Answer: B [Explanation: Carbon tetrachloride was used in fire extinguishers (now banned).]
+
+Q: The product obtained when chlorobenzene is heated with aqueous NaOH at 623 K under pressure is
+A) phenol
+B) benzene
+C) toluene
+D) biphenyl
+Answer: A [Explanation: Dow's process for preparation of phenol.]
+
+Q: Which of the following alkyl halides will give the fastest SN2 reaction with OH⁻?
+A) CH₃I
+B) CH₃Br
+C) CH₃Cl
+D) CH₃F
+Answer: A [Explanation: Iodide is the best leaving group among halides.]
+
+Q: The stereochemistry of the product formed in SN2 reaction of optically active alkyl halide is
+A) retention
+B) inversion
+C) racemisation
+D) no change
+Answer: B [Explanation: SN2 proceeds with inversion of configuration (Walden inversion).]
+
+Q: Which of the following is most reactive towards dehydrohalogenation?
+A) CH₃CH₂Cl
+B) CH₃CHClCH₃
+C) (CH₃)₃CCl
+D) CH₃Cl
+Answer: C [Explanation: Tertiary alkyl halide undergoes elimination most readily.]
+
+Q: The reagent used for the conversion of alkyl halide to alkane is
+A) Zn/HCl
+B) Na/dry ether
+C) both A and B
+D) KOH
+Answer: C [Explanation: Both can reduce alkyl halide to alkane under suitable conditions.]
+
+Q: Which of the following compounds will give a white precipitate with AgNO₃ solution?
+A) C₆H₅Cl
+B) C₆H₅CH₂Cl
+C) CH₂=CHCl
+D) C₆H₅CH=CHCl
+Answer: B [Explanation: Benzyl chloride ionises easily and gives AgCl precipitate.]
+
+Q: The major product of the reaction of 3-bromopentane with alcoholic KOH is
+A) pent-1-ene
+B) pent-2-ene
+C) both equally
+D) 2-methylbut-1-ene
+Answer: B [Explanation: More substituted alkene (Saytzeff product) is preferred.]
+
+Q: Which of the following is used as a solvent for fats and oils?
+A) CHCl₃
+B) CCl₄
+C) both A and B
+D) CH₃Cl
+Answer: C [Explanation: Both chloroform and carbon tetrachloride are good solvents for non-polar compounds.]
+
+Q: Assertion (A): Vinyl chloride does not undergo SN1 or SN2 reactions.
+Reason (R): C–Cl bond in vinyl chloride has partial double bond character.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Resonance makes C–Cl bond stronger and carbon less electrophilic.]
+
+Q: The number of possible isomers of C₄H₉Cl is
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B [Explanation: 1-chlorobutane, 2-chlorobutane, 1-chloro-2-methylpropane, 2-chloro-2-methylpropane.]
