@@ -43,7 +43,7 @@ async def handle_document(update: Update, context: ContextTypes.DEFAULT_TYPE):
             conn.commit()
             conn.close()
 
-            await update.message.reply_text(f"✅ Success! `{len(questions)}` new Physics MCQs loaded. Purana database clear kar diya gaya hai.", parse_mode="Markdown")
+            await update.message.reply_text(f"✅ Success! `{len(questions)}` new Chemsitry MCQs loaded. Purana database clear kar diya gaya hai.", parse_mode="Markdown")
         else:
             await update.message.reply_text("❌ File format sahi nahi tha ya parser error. Questions parse nahi ho paaye.")
 
