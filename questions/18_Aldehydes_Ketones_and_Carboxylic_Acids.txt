@@ -1,0 +1,317 @@
+Q: The correct IUPAC name of CH₃CH₂CH(CH₃)CHO is
+A) 2-methylbutanal
+B) 3-methylbutanal
+C) 2-methylpropanal
+D) pentanal
+Answer: A [Explanation: Longest chain of 4 carbons with aldehyde carbon as C-1.]
+
+Q: Which of the following compounds will not give a silver mirror with Tollens' reagent?
+A) HCHO
+B) CH₃CHO
+C) CH₃COCH₃
+D) C₆H₅CHO
+Answer: C [Explanation: Ketones do not reduce Tollens' reagent under normal conditions.]
+
+Q: The compound which gives a positive iodoform test and also reduces Tollens' reagent is
+A) CH₃COCH₃
+B) CH₃CH₂CHO
+C) CH₃CHO
+D) C₆H₅COCH₃
+Answer: C [Explanation: Acetaldehyde has both CH₃CO– group and aldehydic hydrogen.]
+
+Q: Which of the following is most reactive towards nucleophilic addition?
+A) HCHO
+B) CH₃CHO
+C) CH₃COCH₃
+D) C₆H₅COC₆H₅
+Answer: A [Explanation: Least steric hindrance and highest electrophilicity of carbonyl carbon in formaldehyde.]
+
+Q: The product obtained when acetaldehyde is treated with dilute NaOH is
+A) aldol
+B) aldoxane
+C) both A and B depending on conditions
+D) crotonaldehyde only
+Answer: A [Explanation: Aldol addition product is 3-hydroxybutanal.]
+
+Q: Which of the following carboxylic acids is strongest?
+A) CH₃COOH
+B) ClCH₂COOH
+C) Cl₂CHCOOH
+D) Cl₃CCOOH
+Answer: D [Explanation: Maximum –I effect of three chlorine atoms stabilises the carboxylate ion.]
+
+Q: The Hell-Volhard-Zelinsky reaction is used for
+A) α-halogenation of carboxylic acids
+B) preparation of acid chlorides
+C) decarboxylation
+D) esterification
+Answer: A [Explanation: Carboxylic acids with α-hydrogen react with Cl₂/Br₂ in presence of red P to give α-halo acids.]
+
+Q: Which of the following reagents is used for the conversion of carboxylic acid to primary alcohol?
+A) LiAlH₄
+B) NaBH₄
+C) H₂/Pd
+D) Zn-Hg/HCl
+Answer: A [Explanation: LiAlH₄ reduces –COOH to –CH₂OH; NaBH₄ does not.]
+
+Q: The correct order of reactivity of the following towards nucleophilic addition is
+A) HCHO > CH₃CHO > CH₃COCH₃
+B) CH₃COCH₃ > CH₃CHO > HCHO
+C) CH₃CHO > HCHO > CH₃COCH₃
+D) CH₃COCH₃ > HCHO > CH₃CHO
+Answer: A [Explanation: Steric and electronic factors make formaldehyde most reactive.]
+
+Q: Which of the following compounds will give a positive Fehling's test?
+A) C₆H₅CHO
+B) CH₃COCH₃
+C) CH₃CHO
+D) C₆H₅COCH₃
+Answer: C [Explanation: Aliphatic aldehydes reduce Fehling's solution; benzaldehyde does not.]
+
+Q: Assertion (A): Formic acid reduces Tollens' reagent while acetic acid does not.
+Reason (R): Formic acid contains both aldehydic and carboxylic groups.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: HCOOH has H–C=O structure and behaves as a reducing agent.]
+
+Q: The major product formed when acetone is treated with excess methanol in presence of dry HCl is
+A) hemiacetal
+B) acetal
+C) aldol
+D) ketal
+Answer: B [Explanation: Ketones form ketals (acetals of ketones) under these conditions.]
+
+Q: Which of the following is the correct order of acidic strength?
+A) FCH₂COOH > ClCH₂COOH > BrCH₂COOH > ICH₂COOH
+B) ICH₂COOH > BrCH₂COOH > ClCH₂COOH > FCH₂COOH
+C) ClCH₂COOH > FCH₂COOH > BrCH₂COOH > ICH₂COOH
+D) FCH₂COOH > BrCH₂COOH > ClCH₂COOH > ICH₂COOH
+Answer: A [Explanation: –I effect decreases from F to I.]
+
+Q: The reagent used for the selective reduction of aldehyde in presence of ketone is
+A) NaBH₄
+B) LiAlH₄
+C) H₂/Pd
+D) Zn-Hg/HCl
+Answer: A [Explanation: NaBH₄ preferentially reduces aldehydes over ketones under controlled conditions.]
+
+Q: Which of the following compounds will not undergo aldol condensation?
+A) CH₃CHO
+B) CH₃COCH₃
+C) HCHO
+D) CH₃CH₂CHO
+Answer: C [Explanation: Formaldehyde has no α-hydrogen.]
+
+Q: The product of the reaction of benzaldehyde with acetophenone in presence of dilute alkali is
+A) cinnamaldehyde
+B) benzylideneacetophenone
+C) benzophenone
+D) benzoin
+Answer: B [Explanation: Crossed aldol condensation followed by dehydration.]
+
+Q: Which of the following is used in the preparation of acetic acid industrially?
+A) Methanol + CO
+B) Ethanol oxidation
+C) both A and B
+D) Acetylene hydration
+Answer: C [Explanation: Both Monsanto process and oxidation of ethanol are used.]
+
+Q: The correct order of boiling points is
+A) CH₃COOH > CH₃CH₂OH > CH₃CHO > CH₃OCH₃
+B) CH₃CH₂OH > CH₃COOH > CH₃CHO > CH₃OCH₃
+C) CH₃COOH > CH₃CHO > CH₃CH₂OH > CH₃OCH₃
+D) CH₃OCH₃ > CH₃CHO > CH₃CH₂OH > CH₃COOH
+Answer: A [Explanation: Carboxylic acids have strongest H-bonding (dimerisation).]
+
+Q: Which of the following reagents converts a ketone into a hydrocarbon?
+A) LiAlH₄
+B) NaBH₄
+C) Zn-Hg/HCl
+D) PCC
+Answer: C [Explanation: Clemmensen reduction.]
+
+Q: The intermediate in the nucleophilic addition to carbonyl compounds is
+A) carbocation
+B) tetrahedral alkoxide ion
+C) free radical
+D) carbene
+Answer: B [Explanation: Nucleophile attacks carbonyl carbon forming tetrahedral intermediate.]
+
+Q: Which of the following acids has the highest pKa value?
+A) HCOOH
+B) CH₃COOH
+C) ClCH₂COOH
+D) C₆H₅COOH
+Answer: B [Explanation: Least acidic among the given (no –I or resonance stabilisation beyond acetate).]
+
+Q: The reaction of carboxylic acid with ammonia followed by heating gives
+A) amide
+B) amine
+C) ester
+D) anhydride
+Answer: A [Explanation: Ammonium carboxylate on heating gives primary amide.]
+
+Q: Which of the following compounds will give a positive test with 2,4-DNP but negative test with Tollens' reagent?
+A) HCHO
+B) CH₃CHO
+C) CH₃COCH₃
+D) C₆H₅CHO
+Answer: C [Explanation: Ketones give 2,4-DNP test but do not reduce Tollens' reagent.]
+
+Q: The product formed when acetaldehyde is treated with HCN followed by hydrolysis is
+A) lactic acid
+B) acetic acid
+C) propanoic acid
+D) glycollic acid
+Answer: A [Explanation: Cyanohydrin on hydrolysis gives 2-hydroxypropanoic acid.]
+
+Q: Assertion (A): Benzaldehyde does not reduce Fehling's solution.
+Reason (R): Benzaldehyde has no α-hydrogen.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: B [Explanation: Both true, but the reason for non-reactivity with Fehling's is the absence of enolisable hydrogen and lower electrophilicity, not simply α-H.]
+
+Q: The major product of the reaction of propanal with dilute NaOH is
+A) 3-hydroxy-2-methylpentanal
+B) 3-hydroxyhexanal
+C) 2-methylpent-2-enal
+D) both A and C depending on conditions
+Answer: D [Explanation: Aldol product or dehydrated product.]
+
+Q: Which of the following is the strongest acid?
+A) CH₃COOH
+B) C₆H₅COOH
+C) HCOOH
+D) CH₃CH₂COOH
+Answer: C [Explanation: Formic acid is stronger than acetic and benzoic acids.]
+
+Q: The reagent used for the conversion of RCOOH to RCH₂OH is
+A) NaBH₄
+B) LiAlH₄
+C) H₂/Ni
+D) Sn/HCl
+Answer: B [Explanation: Only LiAlH₄ reduces carboxylic acids to primary alcohols.]
+
+Q: Which of the following compounds will undergo Cannizzaro reaction?
+A) CH₃CHO
+B) (CH₃)₃CCHO
+C) CH₃COCH₃
+D) CH₃CH₂CHO
+Answer: B [Explanation: Aldehydes without α-hydrogen undergo Cannizzaro reaction.]
+
+Q: The correct order of reactivity of acid derivatives towards nucleophilic acyl substitution is
+A) acid chloride > anhydride > ester > amide
+B) amide > ester > anhydride > acid chloride
+C) anhydride > acid chloride > ester > amide
+D) ester > amide > anhydride > acid chloride
+Answer: A [Explanation: Better leaving group increases reactivity.]
+
+Q: The product obtained when acetic acid is treated with diazomethane is
+A) methyl acetate
+B) acetamide
+C) acetyl chloride
+D) acetic anhydride
+Answer: A [Explanation: CH₂N₂ converts –COOH to –COOCH₃.]
+
+Q: Which of the following is used as a preservative in food?
+A) HCOOH
+B) CH₃COOH
+C) C₆H₅COOH
+D) both B and C
+Answer: D [Explanation: Vinegar and sodium benzoate are used as preservatives.]
+
+Q: The intermediate in the mechanism of alkaline hydrolysis of esters is
+A) carbocation
+B) tetrahedral intermediate
+C) free radical
+D) ketene
+Answer: B [Explanation: Addition-elimination mechanism via tetrahedral intermediate.]
+
+Q: Which of the following reagents is used for the Rosenmund reduction?
+A) Pd/BaSO₄
+B) LiAlH₄
+C) NaBH₄
+D) Zn-Hg/HCl
+Answer: A [Explanation: Acid chloride to aldehyde using Pd/BaSO₄ poisoned catalyst.]
+
+Q: The correct statement about the acidity of α-hydrogen of carbonyl compounds is
+A) they are acidic due to –I effect of carbonyl
+B) the conjugate base is stabilised by resonance
+C) both A and B
+D) they are not acidic
+Answer: C [Explanation: Both factors contribute to the acidity of α-hydrogens.]
+
+Q: Which of the following compounds will give a positive Schiff's test?
+A) CH₃COCH₃
+B) CH₃CHO
+C) C₆H₅COCH₃
+D) CH₃COOH
+Answer: B [Explanation: Aldehydes restore the pink colour of Schiff's reagent.]
+
+Q: The product of the reaction of acetone with hydroxylamine is
+A) oxime
+B) hydrazone
+C) semicarbazone
+D) phenylhydrazone
+Answer: A [Explanation: Carbonyl + NH₂OH → oxime.]
+
+Q: Which of the following is the correct order of decreasing acidic strength?
+A) Cl₃CCOOH > Cl₂CHCOOH > ClCH₂COOH > CH₃COOH
+B) CH₃COOH > ClCH₂COOH > Cl₂CHCOOH > Cl₃CCOOH
+C) ClCH₂COOH > Cl₂CHCOOH > Cl₃CCOOH > CH₃COOH
+D) Cl₂CHCOOH > Cl₃CCOOH > ClCH₂COOH > CH₃COOH
+Answer: A [Explanation: Greater the number of chlorine atoms, stronger the acid.]
+
+Q: The reagent used for the decarboxylation of carboxylic acids is
+A) soda lime
+B) NaOH
+C) both A and B
+D) H₂SO₄
+Answer: A [Explanation: RCOONa + NaOH (CaO) → RH + Na₂CO₃]
+
+Q: Which of the following compounds will not form a bisulphite addition product?
+A) HCHO
+B) CH₃CHO
+C) CH₃COCH₃
+D) C₆H₅COC₆H₅
+Answer: D [Explanation: Sterically hindered ketones do not form bisulphite adducts.]
+
+Q: Assertion (A): Acetic acid is weaker than formic acid.
+Reason (R): The methyl group in acetic acid is electron-releasing and destabilises the carboxylate ion.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: +I effect of –CH₃ decreases acidity.]
+
+Q: The major product formed when benzaldehyde is treated with concentrated NaOH is
+A) benzyl alcohol + sodium benzoate
+B) cinnamic acid
+C) benzoin
+D) benzylideneacetone
+Answer: A [Explanation: Cannizzaro reaction.]
+
+Q: Which of the following is used in the manufacture of plastics?
+A) HCHO
+B) CH₃CHO
+C) CH₃COCH₃
+D) all of these
+Answer: D [Explanation: All are used in polymer and resin industry.]
+
+Q: The correct order of increasing boiling points is
+A) CH₃CHO < CH₃CH₂OH < CH₃COOH
+B) CH₃COOH < CH₃CH₂OH < CH₃CHO
+C) CH₃CH₂OH < CH₃CHO < CH₃COOH
+D) CH₃CHO < CH₃COOH < CH₃CH₂OH
+Answer: A [Explanation: Strength of intermolecular forces: H-bonding in acids > alcohols > dipole-dipole in aldehydes.]
+
+Q: The product obtained when propanone is treated with methylmagnesium bromide followed by hydrolysis is
+A) propan-2-ol
+B) 2-methylpropan-2-ol
+C) butan-2-ol
+D) propan-1-ol
+Answer: B [Explanation: Nucleophilic addition of Grignard reagent to ketone gives tertiary alcohol.]
