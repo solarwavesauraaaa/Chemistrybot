@@ -1,0 +1,318 @@
+Q: For the reaction 2A + B → C, the rate of disappearance of A is 2.0 × 10⁻³ mol L⁻¹ s⁻¹. The rate of appearance of C is
+A) 1.0 × 10⁻³ mol L⁻¹ s⁻¹
+B) 2.0 × 10⁻³ mol L⁻¹ s⁻¹
+C) 4.0 × 10⁻³ mol L⁻¹ s⁻¹
+D) 0.5 × 10⁻³ mol L⁻¹ s⁻¹
+Answer: A [Explanation: Rate = -½ d[A]/dt = d[C]/dt; hence rate of appearance of C is half the rate of disappearance of A.]
+
+Q: The unit of rate constant for a second-order reaction is
+A) mol L⁻¹ s⁻¹
+B) s⁻¹
+C) L mol⁻¹ s⁻¹
+D) L² mol⁻² s⁻¹
+Answer: C [Explanation: For order n, unit of k is (concentration)^(1-n) time⁻¹.]
+
+Q: For a first-order reaction, the time required for 99% completion is how many times the time required for 90% completion?
+A) 2
+B) 3
+C) 1.5
+D) 4
+Answer: A [Explanation: t₉₉% = (2.303/k) log100; t₉₀% = (2.303/k) log10; ratio = 2.]
+
+Q: The half-life of a first-order reaction is 10 min. The time required for 87.5% completion is
+A) 20 min
+B) 30 min
+C) 40 min
+D) 50 min
+Answer: B [Explanation: 87.5% completion requires 3 half-lives (50% → 75% → 87.5%).]
+
+Q: For the reaction A → products, the concentration of A falls from 0.8 M to 0.4 M in 20 min and from 0.4 M to 0.2 M in another 20 min. The order of the reaction is
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B [Explanation: Equal time for concentration to become half → first order.]
+
+Q: The rate constant of a reaction is 2.0 × 10⁻³ s⁻¹ at 300 K and 8.0 × 10⁻³ s⁻¹ at 320 K. The activation energy is approximately
+A) 55 kJ mol⁻¹
+B) 27.5 kJ mol⁻¹
+C) 110 kJ mol⁻¹
+D) 13.8 kJ mol⁻¹
+Answer: A [Explanation: Use Arrhenius equation: log(k₂/k₁) = Eₐ/(2.303R) × (T₂-T₁)/(T₁T₂).]
+
+Q: Assertion (A): Order of a reaction can be zero or fractional.
+Reason (R): Molecularity of a reaction cannot be zero or fractional.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: B [Explanation: Both statements are independently correct; R does not explain A.]
+
+Q: For a zero-order reaction, the plot of concentration vs time is
+A) linear with positive slope
+B) linear with negative slope
+C) exponential curve
+D) parabolic
+Answer: B [Explanation: [A] = [A]₀ - kt; straight line with slope = -k.]
+
+Q: The half-life of a zero-order reaction is directly proportional to
+A) initial concentration
+B) rate constant
+C) inverse of initial concentration
+D) square of initial concentration
+Answer: A [Explanation: t₁/₂ = [A]₀/2k.]
+
+Q: In a first-order reaction, if the concentration of reactant is increased 4 times, the rate becomes
+A) 4 times
+B) 2 times
+C) 16 times
+D) remains same
+Answer: A [Explanation: Rate ∝ [A]; first-order dependence.]
+
+Q: The integrated rate equation for a first-order reaction is
+A) k = (2.303/t) log([A]₀/[A])
+B) k = ([A]₀ - [A])/t
+C) k = (1/t)(1/[A] - 1/[A]₀)
+D) k = (2.303/t) log([A]/[A]₀)
+Answer: A [Explanation: Standard integrated form for first order.]
+
+Q: A reaction is 50% complete in 20 min and 75% complete in 40 min. The order of the reaction is
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B [Explanation: Constant half-life indicates first order.]
+
+Q: The activation energy of a reaction is zero. The rate constant of the reaction
+A) increases with increase in temperature
+B) decreases with increase in temperature
+C) is independent of temperature
+D) first increases then decreases
+Answer: C [Explanation: From Arrhenius equation, if Eₐ = 0, k is independent of T.]
+
+Q: For the reaction 2N₂O₅ → 4NO₂ + O₂, the rate of formation of NO₂ is 1.6 × 10⁻³ mol L⁻¹ s⁻¹. The rate of disappearance of N₂O₅ is
+A) 0.4 × 10⁻³
+B) 0.8 × 10⁻³
+C) 1.6 × 10⁻³
+D) 3.2 × 10⁻³
+Answer: B [Explanation: Rate = -½ d[N₂O₅]/dt = ¼ d[NO₂]/dt.]
+
+Q: The slope of the plot of log k vs 1/T for a reaction is -5000. The activation energy is
+A) 95.7 kJ mol⁻¹
+B) 47.8 kJ mol⁻¹
+C) 23.9 kJ mol⁻¹
+D) 191.4 kJ mol⁻¹
+Answer: A [Explanation: Slope = -Eₐ/2.303R; Eₐ = 5000 × 2.303 × 8.314 J ≈ 95.7 kJ.]
+
+Q: Molecularity of a reaction
+A) can be zero
+B) can be fractional
+C) is always a whole number
+D) can be negative
+Answer: C [Explanation: Molecularity is the number of molecules colliding and is always an integer.]
+
+Q: For a second-order reaction, the half-life is
+A) independent of initial concentration
+B) directly proportional to initial concentration
+C) inversely proportional to initial concentration
+D) proportional to square of initial concentration
+Answer: C [Explanation: t₁/₂ = 1/(k[A]₀).]
+
+Q: The rate of a reaction becomes 4 times when temperature is raised from 300 K to 320 K. The energy of activation is
+A) 50.1 kJ mol⁻¹
+B) 25.05 kJ mol⁻¹
+C) 100.2 kJ mol⁻¹
+D) 12.5 kJ mol⁻¹
+Answer: A [Explanation: Calculate using Arrhenius equation with k₂/k₁ = 4.]
+
+Q: Assertion (A): The rate of a reaction increases with increase in temperature.
+Reason (R): The number of effective collisions increases with increase in temperature.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Higher temperature increases both collision frequency and fraction of effective collisions.]
+
+Q: In the reaction A + 2B → products, the rate law is rate = k[A][B]². The order of the reaction with respect to B is
+A) 1
+B) 2
+C) 3
+D) 0
+Answer: B [Explanation: From the rate law, order w.r.t. B is 2.]
+
+Q: The time for 90% completion of a first-order reaction is
+A) t₁/₂
+B) 2t₁/₂
+C) 3.32t₁/₂
+D) 10t₁/₂
+Answer: C [Explanation: t₉₀% = (2.303/k)log10 = 2.303 × t₁/₂/0.693 ≈ 3.32t₁/₂.]
+
+Q: A catalyst increases the rate of a reaction by
+A) increasing activation energy
+B) decreasing activation energy
+C) increasing the number of collisions
+D) changing the equilibrium constant
+Answer: B [Explanation: Catalyst provides an alternative path of lower activation energy.]
+
+Q: For a reaction, the plot of ln[A] vs time is a straight line with slope = -0.05 min⁻¹. The rate constant is
+A) 0.05 min⁻¹
+B) 0.115 min⁻¹
+C) 0.023 min⁻¹
+D) 0.002 min⁻¹
+Answer: A [Explanation: For first order, slope of ln[A] vs t is -k.]
+
+Q: The unit of rate of reaction is the same as that of rate constant for
+A) zero-order reaction
+B) first-order reaction
+C) second-order reaction
+D) third-order reaction
+Answer: A [Explanation: For zero order, both have units of concentration time⁻¹.]
+
+Q: In a first-order reaction, the concentration of reactant decreases from 0.8 M to 0.4 M in 15 min. The concentration after 45 min will be
+A) 0.1 M
+B) 0.2 M
+C) 0.05 M
+D) 0.025 M
+Answer: A [Explanation: Three half-lives → concentration becomes 1/8th = 0.1 M.]
+
+Q: The threshold energy of a reaction is 50 kJ mol⁻¹ and average energy of reactant molecules is 20 kJ mol⁻¹. The activation energy is
+A) 70 kJ mol⁻¹
+B) 30 kJ mol⁻¹
+C) 50 kJ mol⁻¹
+D) 20 kJ mol⁻¹
+Answer: B [Explanation: Eₐ = Threshold energy - Average energy of reactants.]
+
+Q: Which of the following is correct for a zero-order reaction?
+A) t₁/₂ ∝ [A]₀
+B) t₁/₂ ∝ 1/[A]₀
+C) t₁/₂ independent of [A]₀
+D) t₁/₂ ∝ [A]₀²
+Answer: A [Explanation: t₁/₂ = [A]₀/2k.]
+
+Q: The rate constant of a reaction is 1.5 × 10⁻³ L mol⁻¹ s⁻¹. The order of the reaction is
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: C [Explanation: Unit L mol⁻¹ s⁻¹ corresponds to second order.]
+
+Q: For the reaction 2A + B → products, the rate law is rate = k[A]²[B]. If concentration of both A and B is doubled, the rate becomes
+A) 2 times
+B) 4 times
+C) 8 times
+D) 16 times
+Answer: C [Explanation: Rate becomes 2² × 2 = 8 times.]
+
+Q: The half-life of a radioactive isotope is 4 days. The fraction remaining after 16 days is
+A) 1/2
+B) 1/4
+C) 1/8
+D) 1/16
+Answer: D [Explanation: 4 half-lives → (1/2)⁴ = 1/16.]
+
+Q: Assertion (A): In a multi-step reaction, the overall rate is determined by the slowest step.
+Reason (R): The slowest step has the highest activation energy.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Rate-determining step is the slowest step with highest Eₐ.]
+
+Q: The Arrhenius equation is
+A) k = Ae^(-Eₐ/RT)
+B) k = Ae^(Eₐ/RT)
+C) k = Ae^(-Eₐ/T)
+D) k = (A/T)e^(-Eₐ/R)
+Answer: A [Explanation: Standard Arrhenius equation.]
+
+Q: A first-order reaction is 20% complete in 10 min. The time required for 75% completion is approximately
+A) 50 min
+B) 70 min
+C) 100 min
+D) 30 min
+Answer: B [Explanation: Calculate k from 20% data, then find t for 75%.]
+
+Q: The collision frequency of molecules increases with
+A) increase in temperature
+B) decrease in temperature
+C) increase in activation energy
+D) decrease in concentration
+Answer: A [Explanation: Higher temperature increases average speed and collision frequency.]
+
+Q: For a reaction A → B, the rate constant is 0.1 s⁻¹. The time in which concentration of A becomes 1/e of its initial value is
+A) 10 s
+B) 2.303 s
+C) 0.1 s
+D) 1 s
+Answer: A [Explanation: For first order, t = 1/k when [A] = [A]₀/e.]
+
+Q: The order of the reaction 2N₂O₅ → 4NO₂ + O₂ is
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B [Explanation: Experimentally it is first order.]
+
+Q: If the rate of a reaction is independent of the concentration of the reactant, the order is
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: A [Explanation: Definition of zero-order reaction.]
+
+Q: The ratio of t₁/₂ to t₃/₄ for a first-order reaction is
+A) 1 : 2
+B) 2 : 1
+C) 1 : 3
+D) 3 : 1
+Answer: A [Explanation: t₃/₄ = 2t₁/₂.]
+
+Q: A reaction has rate constant k = 2 × 10⁻³ mol L⁻¹ s⁻¹. The order of the reaction is
+A) 0
+B) 1
+C) 2
+D) cannot be determined
+Answer: A [Explanation: Unit matches zero order.]
+
+Q: The temperature coefficient of a reaction is 2. The rate of reaction at 40°C is how many times the rate at 20°C?
+A) 2
+B) 4
+C) 8
+D) 16
+Answer: B [Explanation: Temperature coefficient 2 means rate doubles for every 10°C rise; for 20°C rise, rate becomes 4 times.]
+
+Q: In collision theory, the rate of reaction is proportional to
+A) total number of collisions
+B) number of effective collisions
+C) number of molecules
+D) concentration of products
+Answer: B [Explanation: Only effective collisions lead to products.]
+
+Q: For a first-order reaction, log[A] vs time graph has
+A) positive slope
+B) negative slope
+C) zero slope
+D) infinite slope
+Answer: B [Explanation: Slope = -k/2.303.]
+
+Q: The half-life of a reaction becomes half when initial concentration is doubled. The order of the reaction is
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: C [Explanation: For second order, t₁/₂ ∝ 1/[A]₀.]
+
+Q: Assertion (A): Catalyst does not alter the equilibrium constant of a reaction.
+Reason (R): Catalyst speeds up both forward and reverse reactions to the same extent.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Equilibrium constant remains unchanged because both rates are equally affected.]
+
+Q: The rate of a chemical reaction doubles for every 10°C rise in temperature. If the temperature is raised by 50°C, the rate of reaction increases by
+A) 10 times
+B) 16 times
+C) 32 times
+D) 64 times
+Answer: C [Explanation: 5 intervals of 10°C → 2⁵ = 32 times.]
