@@ -1,0 +1,317 @@
+Q: According to Werner's theory, the primary valence of cobalt in [Co(NH₃)₆]Cl₃ is
+A) 3
+B) 6
+C) 9
+D) 0
+Answer: A [Explanation: Primary valence is ionisable and equal to the oxidation number of the metal.]
+
+Q: The secondary valence of Co in [CoCl₂(NH₃)₄]Cl is
+A) 4
+B) 6
+C) 3
+D) 2
+Answer: B [Explanation: Secondary valence = coordination number = 6.]
+
+Q: Which of the following is a homoleptic complex?
+A) [Co(NH₃)₄Cl₂]⁺
+B) [Ni(CO)₄]
+C) [Co(NH₃)₅Cl]²⁺
+D) [Fe(CN)₅(NO)]²⁻
+Answer: B [Explanation: Homoleptic complexes contain only one type of ligand.]
+
+Q: The IUPAC name of [Co(NH₃)₅Cl]Cl₂ is
+A) pentaamminechloridocobalt(III) chloride
+B) pentaamminechlorocobalt(II) chloride
+C) pentaamminechloridocobalt(II) chloride
+D) chloropentaamminecobalt(III) chloride
+Answer: A [Explanation: Correct IUPAC name with proper alphabetical order and oxidation state.]
+
+Q: The complex [Co(NH₃)₄Cl₂]⁺ shows
+A) geometrical isomerism only
+B) optical isomerism only
+C) both geometrical and optical isomerism
+D) linkage isomerism
+Answer: A [Explanation: cis-trans (geometrical) isomers; both are optically inactive.]
+
+Q: Which of the following complexes will show optical isomerism?
+A) [Co(NH₃)₄Cl₂]⁺
+B) [Co(en)₃]³⁺
+C) [Co(NH₃)₃Cl₃]
+D) [Ni(CO)₄]
+Answer: B [Explanation: [Co(en)₃]³⁺ is chiral and exists as optical isomers.]
+
+Q: The hybridisation of Ni in [Ni(CN)₄]²⁻ is
+A) sp³
+B) dsp²
+C) sp³d²
+D) d²sp³
+Answer: B [Explanation: Square planar geometry → dsp² hybridisation.]
+
+Q: The magnetic moment of [NiCl₄]²⁻ is
+A) 0
+B) 1.73 BM
+C) 2.82 BM
+D) 3.87 BM
+Answer: C [Explanation: Tetrahedral, two unpaired electrons → √8 ≈ 2.82 BM.]
+
+Q: According to crystal field theory, the splitting energy (Δ₀) is highest for
+A) I⁻
+B) Cl⁻
+C) H₂O
+D) CN⁻
+Answer: D [Explanation: CN⁻ is a strong field ligand and produces maximum splitting.]
+
+Q: The correct order of spectrochemical series is
+A) I⁻ < Br⁻ < Cl⁻ < F⁻ < H₂O < NH₃ < en < CN⁻
+B) CN⁻ < en < NH₃ < H₂O < F⁻ < Cl⁻ < Br⁻ < I⁻
+C) I⁻ < Cl⁻ < Br⁻ < F⁻ < H₂O < NH₃ < en < CN⁻
+D) F⁻ < Cl⁻ < Br⁻ < I⁻ < H₂O < NH₃ < en < CN⁻
+Answer: A [Explanation: Standard spectrochemical series order.]
+
+Q: [Ti(H₂O)₆]³⁺ is coloured due to
+A) d–d transition
+B) charge transfer
+C) f–f transition
+D) none
+Answer: A [Explanation: One unpaired electron in t₂g set undergoes d–d transition.]
+
+Q: The number of geometrical isomers of [Ma₃b₃] type complex is
+A) 2
+B) 3
+C) 4
+D) 1
+Answer: A [Explanation: facial and meridional isomers.]
+
+Q: Which of the following is an outer orbital complex?
+A) [Co(NH₃)₆]³⁺
+B) [CoF₆]³⁻
+C) [Ni(CN)₄]²⁻
+D) [Fe(CN)₆]⁴⁻
+Answer: B [Explanation: [CoF₆]³⁻ is high spin and uses 4s, 4p, 4d orbitals (sp³d²).]
+
+Q: The oxidation number of Co in [Co(NH₃)₅Cl]Cl₂ is
+A) +2
+B) +3
+C) +1
+D) 0
+Answer: B [Explanation: NH₃ neutral, Cl⁻ inside = -1, two Cl⁻ outside = -2 → Co = +3.]
+
+Q: Assertion (A): [Ni(CN)₄]²⁻ is diamagnetic while [NiCl₄]²⁻ is paramagnetic.
+Reason (R): CN⁻ is a strong field ligand while Cl⁻ is a weak field ligand.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Strong field CN⁻ causes pairing; weak field Cl⁻ does not.]
+
+Q: The coordination number of Cr in [Cr(H₂O)₄Cl₂]Cl is
+A) 4
+B) 6
+C) 3
+D) 5
+Answer: B [Explanation: Four H₂O + two Cl inside the coordination sphere.]
+
+Q: Which of the following shows linkage isomerism?
+A) [Co(NH₃)₅NO₂]Cl₂
+B) [Co(NH₃)₅Cl]Cl₂
+C) [Co(en)₃]Cl₃
+D) [Co(NH₃)₄Cl₂]Cl
+Answer: A [Explanation: NO₂⁻ can bind through N or O (nitro-nitrito isomerism).]
+
+Q: The hybridisation and geometry of [Ni(CO)₄] are
+A) sp³, tetrahedral
+B) dsp², square planar
+C) sp³d², octahedral
+D) d²sp³, octahedral
+Answer: A [Explanation: Tetrahedral, diamagnetic complex.]
+
+Q: In crystal field theory, for octahedral complexes, the energy of e_g set is
+A) +0.6 Δ₀
+B) -0.4 Δ₀
+C) +0.4 Δ₀
+D) -0.6 Δ₀
+Answer: A [Explanation: e_g orbitals are raised by 0.6 Δ₀.]
+
+Q: The complex which shows both geometrical and optical isomerism is
+A) [Co(en)₂Cl₂]⁺
+B) [Co(NH₃)₄Cl₂]⁺
+C) [Co(NH₃)₃Cl₃]
+D) [Ni(CO)₄]
+Answer: A [Explanation: cis-[Co(en)₂Cl₂]⁺ is optically active; trans is inactive.]
+
+Q: The colour of [Ti(H₂O)₆]³⁺ is due to absorption of light of wavelength corresponding to
+A) green
+B) yellow
+C) blue
+D) violet
+Answer: A [Explanation: It absorbs greenish-yellow light and appears purple.]
+
+Q: Which of the following is a chelating ligand?
+A) NH₃
+B) Cl⁻
+C) en
+D) H₂O
+Answer: C [Explanation: Ethylenediamine (en) is a bidentate chelating ligand.]
+
+Q: The number of unpaired electrons in [Fe(H₂O)₆]²⁺ is
+A) 0
+B) 2
+C) 4
+D) 5
+Answer: C [Explanation: High spin d⁶ complex → four unpaired electrons.]
+
+Q: The IUPAC name of K₃[Fe(CN)₆] is
+A) potassium hexacyanoferrate(III)
+B) potassium hexacyanoferrate(II)
+C) potassium ferricyanide
+D) both A and C
+Answer: A [Explanation: Preferred IUPAC name is potassium hexacyanoferrate(III).]
+
+Q: Which of the following complexes is low spin?
+A) [CoF₆]³⁻
+B) [Fe(H₂O)₆]²⁺
+C) [Co(NH₃)₆]³⁺
+D) [NiCl₄]²⁻
+Answer: C [Explanation: NH₃ is a strong field ligand for Co³⁺ → low spin.]
+
+Q: The coordination entity in [Co(NH₃)₅Cl]Cl₂ is
+A) [Co(NH₃)₅Cl]²⁺
+B) Cl⁻
+C) Co³⁺
+D) NH₃
+Answer: A [Explanation: Species inside the square bracket is the coordination entity.]
+
+Q: Which of the following will not show geometrical isomerism?
+A) [Pt(NH₃)₂Cl₂]
+B) [Co(en)₂Cl₂]⁺
+C) [Co(NH₃)₃Cl₃]
+D) [Ni(CO)₄]
+Answer: D [Explanation: Tetrahedral complexes do not show geometrical isomerism.]
+
+Q: The crystal field stabilisation energy (CFSE) of [CoF₆]³⁻ is
+A) -0.4 Δ₀
+B) -1.2 Δ₀
+C) -1.8 Δ₀ + P
+D) -0.6 Δ₀
+Answer: A [Explanation: High spin d⁶ → t₂g⁴ eg² → CFSE = -0.4 Δ₀]
+
+Q: Assertion (A): [Fe(CN)₆]⁴⁻ is diamagnetic.
+Reason (R): CN⁻ is a strong field ligand and causes pairing of electrons.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Low spin d⁶ configuration has no unpaired electrons.]
+
+Q: The number of isomers possible for [Co(en)₂Cl₂]⁺ is
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B [Explanation: Two geometrical (cis, trans) + optical isomers of cis form = 3.]
+
+Q: Which of the following ligands is ambidentate?
+A) NH₃
+B) NO₂⁻
+C) en
+D) H₂O
+Answer: B [Explanation: NO₂⁻ can coordinate through N or O.]
+
+Q: The hybridisation of [CoF₆]³⁻ is
+A) d²sp³
+B) sp³d²
+C) dsp²
+D) sp³
+Answer: B [Explanation: Outer orbital complex (high spin).]
+
+Q: The complex [Pt(NH₃)₂Cl₂] is
+A) square planar and shows geometrical isomerism
+B) tetrahedral and shows geometrical isomerism
+C) square planar and optically active
+D) tetrahedral and optically inactive
+Answer: A [Explanation: Square planar complexes of Pt(II) show cis-trans isomerism.]
+
+Q: The CFSE for d⁴ high spin octahedral complex is
+A) -0.6 Δ₀
+B) -1.6 Δ₀ + P
+C) -0.4 Δ₀
+D) -1.2 Δ₀
+Answer: A [Explanation: t₂g³ eg¹ → CFSE = -1.2 + 0.6 = -0.6 Δ₀]
+
+Q: Which of the following is used in the estimation of hardness of water?
+A) [Ni(DMG)₂]
+B) EDTA
+C) [Cu(NH₃)₄]²⁺
+D) [Ag(NH₃)₂]⁺
+Answer: B [Explanation: EDTA forms stable complexes with Ca²⁺ and Mg²⁺.]
+
+Q: The oxidation state of Fe in haemoglobin is
+A) +2
+B) +3
+C) 0
+D) +1
+Answer: A [Explanation: Iron is in +2 oxidation state in haemoglobin.]
+
+Q: The number of unpaired electrons in [Mn(CN)₆]³⁻ is
+A) 0
+B) 1
+C) 2
+D) 4
+Answer: C [Explanation: Low spin d⁴ → two unpaired electrons.]
+
+Q: Which of the following complexes has the highest Δ₀ value?
+A) [CoF₆]³⁻
+B) [Co(H₂O)₆]³⁺
+C) [Co(NH₃)₆]³⁺
+D) [Co(CN)₆]³⁻
+Answer: D [Explanation: CN⁻ is the strongest field ligand.]
+
+Q: The correct formula of the complex formed by Ni²⁺ with DMG is
+A) [Ni(DMG)₂]
+B) [Ni(DMG)₃]
+C) [Ni(DMG)₄]
+D) [Ni(DMG)]
+Answer: A [Explanation: Bis(dimethylglyoximato)nickel(II).]
+
+Q: Werner's coordination theory successfully explained
+A) isomerism in coordination compounds
+B) magnetic properties
+C) colour of complexes
+D) all of these
+Answer: A [Explanation: Werner explained geometrical and optical isomerism.]
+
+Q: The complex [Co(NH₃)₆]³⁺ is
+A) paramagnetic and outer orbital
+B) diamagnetic and inner orbital
+C) paramagnetic and inner orbital
+D) diamagnetic and outer orbital
+Answer: B [Explanation: Low spin d⁶, d²sp³ hybridisation, diamagnetic.]
+
+Q: Which of the following shows ionisation isomerism?
+A) [Co(NH₃)₅Br]SO₄
+B) [Co(NH₃)₆]Cl₃
+C) [Co(en)₃]Cl₃
+D) [Ni(CO)₄]
+Answer: A [Explanation: [Co(NH₃)₅Br]SO₄ and [Co(NH₃)₅SO₄]Br are ionisation isomers.]
+
+Q: The geometry of [Ni(CN)₄]²⁻ is
+A) tetrahedral
+B) square planar
+C) octahedral
+D) trigonal bipyramidal
+Answer: B [Explanation: dsp² hybridisation leads to square planar geometry.]
+
+Q: The number of chloride ions that can be precipitated by AgNO₃ from [Co(NH₃)₅Cl]Cl₂ is
+A) 1
+B) 2
+C) 3
+D) 0
+Answer: B [Explanation: Only the two counter ions (outside the coordination sphere) are precipitated.]
+
+Q: Assertion (A): [NiCl₄]²⁻ is paramagnetic while [Ni(CN)₄]²⁻ is diamagnetic.
+Reason (R): Cl⁻ is a weak field ligand and CN⁻ is a strong field ligand.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Weak field Cl⁻ gives tetrahedral paramagnetic complex; strong field CN⁻ gives square planar diamagnetic complex.]
