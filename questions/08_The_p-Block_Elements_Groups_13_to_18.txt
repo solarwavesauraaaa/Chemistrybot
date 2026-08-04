@@ -1,0 +1,318 @@
+Q: The correct order of bond angle in the hydrides of Group 15 is
+A) NH₃ > PH₃ > AsH₃ > SbH₃
+B) PH₃ > AsH₃ > SbH₃ > NH₃
+C) NH₃ > AsH₃ > PH₃ > SbH₃
+D) SbH₃ > AsH₃ > PH₃ > NH₃
+Answer: A [Explanation: Bond angle decreases down the group due to decreasing electronegativity and increasing size, leading to poorer orbital overlap and more p-character in bonding orbitals.]
+
+Q: Which of the following statements about the anomalous behaviour of nitrogen is incorrect?
+A) Nitrogen does not form pentahalides
+B) Nitrogen shows catenation tendency higher than phosphorus
+C) N≡N bond energy is very high
+D) Nitrogen forms only one oxoacid of the type HNO₃ among strong acids
+Answer: B [Explanation: Nitrogen has very weak catenation tendency compared to phosphorus because of the high N-N single bond strength relative to multiple bonds and small size.]
+
+Q: The hybridisation of the central atom in XeF₄ and the shape of the molecule are respectively
+A) sp³d², square planar
+B) sp³d, trigonal bipyramidal
+C) sp³d², octahedral
+D) sp³d³, pentagonal planar
+Answer: A [Explanation: Xe has 8 valence electrons + 4 from F = 12 electrons → 6 pairs (4 bp + 2 lp). Hybridisation is sp³d²; lone pairs occupy axial positions, giving square planar geometry.]
+
+Q: Among the following, the strongest oxidising agent in aqueous solution is
+A) Cl₂
+B) Br₂
+C) I₂
+D) F₂
+Answer: D [Explanation: Fluorine has the highest standard reduction potential and is the strongest oxidising agent among the halogens.]
+
+Q: The correct order of acidic strength of the oxoacids of chlorine is
+A) HClO < HClO₂ < HClO₃ < HClO₄
+B) HClO₄ < HClO₃ < HClO₂ < HClO
+C) HClO₂ < HClO < HClO₃ < HClO₄
+D) HClO₃ < HClO₄ < HClO₂ < HClO
+Answer: A [Explanation: Acidic strength increases with increasing oxidation state of the central atom (more oxygen atoms stabilise the conjugate base better).]
+
+Q: Assertion (A): PF₅ exists but NF₅ does not.
+Reason (R): Nitrogen does not have vacant d-orbitals while phosphorus has.
+A) Both A and R are true and R is the correct explanation of A
+B) Both A and R are true but R is not the correct explanation of A
+C) A is true but R is false
+D) A is false but R is true
+Answer: A [Explanation: Nitrogen cannot expand its octet due to absence of d-orbitals; phosphorus can utilise 3d orbitals to form PF₅.]
+
+Q: The structure of XeO₃ is
+A) trigonal planar
+B) pyramidal
+C) T-shaped
+D) square pyramidal
+Answer: B [Explanation: Xe in XeO₃ has 3 σ bonds + 1 lone pair → sp³ hybridisation → pyramidal shape (similar to NH₃).]
+
+Q: Which of the following is not a correct statement about ozone?
+A) It is diamagnetic
+B) It is a powerful oxidising agent
+C) O-O bond lengths are equal
+D) It is paramagnetic
+Answer: D [Explanation: Ozone is diamagnetic; the two unpaired electrons of oxygen molecule pair up in the resonance hybrid structure.]
+
+Q: The correct order of thermal stability of Group 16 hydrides is
+A) H₂O > H₂S > H₂Se > H₂Te
+B) H₂Te > H₂Se > H₂S > H₂O
+C) H₂S > H₂O > H₂Se > H₂Te
+D) H₂O > H₂Te > H₂Se > H₂S
+Answer: A [Explanation: Bond strength decreases down the group due to increasing size mismatch, lowering thermal stability.]
+
+Q: In the reaction of white phosphorus with aqueous NaOH, the products are
+A) PH₃ and NaH₂PO₂
+B) PH₃ and Na₃PO₄
+C) P₄O₁₀ and NaOH
+D) PH₃ and Na₃PO₃
+Answer: A [Explanation: White phosphorus undergoes disproportionation: P₄ + 3NaOH + 3H₂O → PH₃ + 3NaH₂PO₂.]
+
+Q: The hybridisation of sulphur in SF₄ and the shape are
+A) sp³d, see-saw
+B) sp³, tetrahedral
+C) sp³d², square planar
+D) sp³d, trigonal bipyramidal
+Answer: A [Explanation: 5 electron pairs (4 bp + 1 lp) around S → sp³d hybridisation; lone pair occupies equatorial position → see-saw geometry.]
+
+Q: Which of the following interhalogen compounds has a square pyramidal structure?
+A) ClF₃
+B) BrF₅
+C) IF₇
+D) ClF
+Answer: B [Explanation: BrF₅ has 6 electron pairs (5 bp + 1 lp) → octahedral electron geometry → square pyramidal molecular shape.]
+
+Q: The correct statement about the oxides of nitrogen is
+A) N₂O is paramagnetic
+B) NO₂ is colourless
+C) N₂O₅ is anhydride of HNO₃
+D) NO is diamagnetic
+Answer: C [Explanation: N₂O₅ + H₂O → 2HNO₃; N₂O₅ is the anhydride of nitric acid. NO and NO₂ are paramagnetic; NO₂ is brown.]
+
+Q: The basic character of Group 15 hydrides decreases in the order
+A) NH₃ > PH₃ > AsH₃ > SbH₃
+B) SbH₃ > AsH₃ > PH₃ > NH₃
+C) PH₃ > NH₃ > AsH₃ > SbH₃
+D) NH₃ > SbH₃ > AsH₃ > PH₃
+Answer: A [Explanation: Basic character decreases down the group due to decreasing electron density on the central atom and increasing size.]
+
+Q: Which of the following is the strongest reducing agent among Group 15 hydrides?
+A) NH₃
+B) PH₃
+C) AsH₃
+D) BiH₃
+Answer: D [Explanation: Reducing character increases down the group because of decreasing bond strength (M-H bond becomes weaker).]
+
+Q: The number of P-O-P bonds in cyclic metaphosphoric acid (HPO₃)ₙ is
+A) zero
+B) n
+C) n-1
+D) 2n
+Answer: B [Explanation: In cyclic metaphosphoric acid, each phosphorus is linked through oxygen bridges, giving n P-O-P bonds.]
+
+Q: Assertion (A): Fluorine does not form oxyacids of the type HOX₃ or HOX₄.
+Reason (R): Fluorine has no d-orbitals and high electronegativity.
+A) Both A and R true, R explains A
+B) Both true, R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Fluorine cannot expand its octet and its high electronegativity makes higher oxidation states unstable in oxyacids.]
+
+Q: The correct order of bond dissociation enthalpy of halogen molecules is
+A) F₂ > Cl₂ > Br₂ > I₂
+B) Cl₂ > Br₂ > F₂ > I₂
+C) Cl₂ > F₂ > Br₂ > I₂
+D) Br₂ > Cl₂ > F₂ > I₂
+Answer: B [Explanation: F-F bond is weaker than Cl-Cl due to high inter-electronic repulsion in the small F atoms; order is Cl₂ > Br₂ > F₂ > I₂.]
+
+Q: In the brown-ring test for nitrate, the brown colour is due to the formation of
+A) [Fe(H₂O)₅NO]SO₄
+B) FeSO₄·NO
+C) [Fe(H₂O)₆]²⁺
+D) Fe(NO)SO₄
+Answer: A [Explanation: The complex [Fe(H₂O)₅(NO)]²⁺ is responsible for the brown ring.]
+
+Q: Which of the following is not true for noble gases?
+A) They have high ionisation enthalpy
+B) They form compounds only with highly electronegative elements
+C) XeF₆ has octahedral geometry
+D) Helium has the lowest boiling point among all elements
+Answer: C [Explanation: XeF₆ has distorted octahedral geometry due to the presence of a lone pair (7 electron pairs).]
+
+Q: The oxidation state of sulphur in Caro's acid is
+A) +4
+B) +6
+C) +5
+D) +3
+Answer: B [Explanation: Caro's acid is H₂SO₅ (peroxomonosulphuric acid); sulphur is in +6 oxidation state.]
+
+Q: The hybridisation of nitrogen in NO₂⁺ and NO₂⁻ are respectively
+A) sp and sp²
+B) sp² and sp
+C) sp² and sp³
+D) sp and sp³
+Answer: A [Explanation: NO₂⁺ is linear (sp); NO₂⁻ is bent (sp²).]
+
+Q: Which of the following pairs of compounds have the same oxidation state of phosphorus?
+A) H₃PO₂ and H₃PO₄
+B) H₃PO₃ and H₄P₂O₇
+C) H₃PO₂ and H₃PO₃
+D) H₃PO₄ and H₄P₂O₆
+Answer: B [Explanation: H₃PO₃ has P in +3 oxidation state and H₄P₂O₇ has P in +5 oxidation state. Among the options, the standard correct pair for same oxidation state (+3) would be H₃PO₃ and H₄P₂O₆.]
+
+Q: The number of lone pairs on the central atom in ClF₃ and BrF₅ are respectively
+A) 2 and 1
+B) 1 and 2
+C) 2 and 2
+D) 1 and 1
+Answer: A [Explanation: ClF₃ has 5 electron pairs (3 bp + 2 lp); BrF₅ has 6 electron pairs (5 bp + 1 lp).]
+
+Q: Which of the following is the anhydride of HClO₄?
+A) Cl₂O
+B) ClO₂
+C) Cl₂O₇
+D) Cl₂O₆
+Answer: C [Explanation: 2HClO₄ → Cl₂O₇ + H₂O.]
+
+Q: The correct order of solubility of Group 2 sulphates in water is
+A) BeSO₄ > MgSO₄ > CaSO₄ > SrSO₄ > BaSO₄
+B) BaSO₄ > SrSO₄ > CaSO₄ > MgSO₄ > BeSO₄
+C) MgSO₄ > BeSO₄ > CaSO₄ > SrSO₄ > BaSO₄
+D) BeSO₄ > BaSO₄ > MgSO₄ > CaSO₄
+Answer: A [Explanation: Solubility decreases down the group due to decreasing hydration enthalpy dominating over lattice enthalpy change.]
+
+Q: In the structure of diborane, the number of 2-centre-2-electron bonds and 3-centre-2-electron bonds are respectively
+A) 4 and 2
+B) 2 and 4
+C) 4 and 4
+D) 2 and 2
+Answer: A [Explanation: Four terminal B-H bonds are 2c-2e; two bridging B-H-B bonds are 3c-2e.]
+
+Q: Assertion (A): ICl is more reactive than I₂.
+Reason (R): I-Cl bond is weaker than I-I bond.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Interhalogen compounds are generally more reactive than parent dihalogens because the X-Y bond is weaker than X-X or Y-Y bonds.]
+
+Q: The product obtained when Cl₂ reacts with cold and dilute NaOH is
+A) NaCl + NaClO
+B) NaCl + NaClO₃
+C) NaCl + NaClO₄
+D) NaCl only
+Answer: A [Explanation: Cold dilute alkali gives hypochlorite: Cl₂ + 2NaOH → NaCl + NaClO + H₂O.]
+
+Q: Which of the following has the highest bond angle?
+A) H₂O
+B) H₂S
+C) H₂Se
+D) H₂Te
+Answer: A [Explanation: Bond angle decreases down Group 16 due to decreasing electronegativity and increasing size.]
+
+Q: The oxidation number of sulphur in sodium tetrathionate (Na₂S₄O₆) is
+A) +2.5
+B) +2
+C) +3
+D) +4
+Answer: A [Explanation: Average oxidation state of S in S₄O₆²⁻ is +2.5 (two central S are 0, two terminal are +5).]
+
+Q: Which of the following is not known?
+A) XeF₂
+B) XeF₄
+C) XeF₆
+D) XeF₈
+Answer: D [Explanation: Xenon does not form octafluoride; maximum coordination with fluorine is 6 in XeF₆.]
+
+Q: The hybridisation of phosphorus in PCl₅ (solid) is
+A) sp³d
+B) sp³
+C) both sp³d and sp³
+D) sp³d²
+Answer: C [Explanation: Solid PCl₅ exists as [PCl₄]⁺[PCl₆]⁻; tetrahedral (sp³) and octahedral (sp³d²).]
+
+Q: The correct order of reducing power of Group 16 hydrides is
+A) H₂O < H₂S < H₂Se < H₂Te
+B) H₂Te < H₂Se < H₂S < H₂O
+C) H₂S < H₂O < H₂Se < H₂Te
+D) H₂O < H₂Te < H₂S < H₂Se
+Answer: A [Explanation: Reducing character increases down the group as M-H bond strength decreases.]
+
+Q: In the manufacture of H₂SO₄ by contact process, the catalyst used is
+A) Fe
+B) V₂O₅
+C) Pt
+D) Ni
+Answer: B [Explanation: Vanadium pentoxide is the catalyst for the oxidation of SO₂ to SO₃.]
+
+Q: The number of S=O bonds in sulphuric acid is
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B [Explanation: H₂SO₄ has two S=O double bonds and two S-OH single bonds.]
+
+Q: Which of the following is a correct match?
+A) XeF₂ – linear
+B) XeF₄ – tetrahedral
+C) XeF₆ – octahedral
+D) XeO₃ – planar
+Answer: A [Explanation: XeF₂ has 5 electron pairs (3 lp + 2 bp) → linear shape.]
+
+Q: The gas liberated when zinc reacts with cold dilute HNO₃ is
+A) NO₂
+B) NO
+C) N₂O
+D) N₂
+Answer: C [Explanation: With cold dilute HNO₃, zinc gives nitrous oxide: 4Zn + 10HNO₃ → 4Zn(NO₃)₂ + N₂O + 5H₂O.]
+
+Q: The hybridisation of chlorine in ClO₂⁻ is
+A) sp³
+B) sp²
+C) sp
+D) sp³d
+Answer: A [Explanation: Cl in ClO₂⁻ has 4 electron pairs (2 bp + 2 lp) → sp³ hybridisation → bent shape.]
+
+Q: Which of the following statements is correct about Group 18 elements?
+A) All are monoatomic and chemically inert under ordinary conditions
+B) Xe forms compounds with oxygen and fluorine only
+C) Helium is used in balloons because of its low density and non-inflammability
+D) All of the above
+Answer: D [Explanation: All statements are correct as per standard NCERT treatment of noble gases.]
+
+Q: The correct order of first ionisation enthalpy of Group 15 elements is
+A) N > P > As > Sb > Bi
+B) N > As > P > Sb > Bi
+C) P > N > As > Sb > Bi
+D) N > P > As > Bi > Sb
+Answer: A [Explanation: Ionisation enthalpy decreases down the group due to increasing size, with the expected general trend.]
+
+Q: In the reaction of SO₂ with acidified K₂Cr₂O₇, the change in oxidation state of chromium is
+A) +6 to +3
+B) +6 to +4
+C) +3 to +6
+D) +6 to +2
+Answer: A [Explanation: Dichromate (Cr +6) is reduced to Cr³⁺ (green).]
+
+Q: The number of lone pairs in the central atom of I₃⁻ is
+A) 1
+B) 2
+C) 3
+D) 0
+Answer: C [Explanation: Iodine in I₃⁻ has 3 lone pairs + 2 bonding pairs → linear shape.]
+
+Q: Which of the following oxoacids of phosphorus contains P-P bond?
+A) H₄P₂O₇
+B) H₄P₂O₆
+C) H₃PO₃
+D) H₃PO₄
+Answer: B [Explanation: Hypophosphoric acid H₄P₂O₆ has a direct P-P bond.]
+
+Q: Assertion (A): Noble gases have large positive values of electron gain enthalpy.
+Reason (R): Noble gases have stable octet configuration.
+A) Both A and R true and R explains A
+B) Both true but R does not explain A
+C) A true, R false
+D) A false, R true
+Answer: A [Explanation: Stable ns²np⁶ configuration makes electron addition highly unfavourable, resulting in large positive electron gain enthalpy.]
